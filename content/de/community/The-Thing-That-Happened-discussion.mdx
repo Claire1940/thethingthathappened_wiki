@@ -1,0 +1,113 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened - Überlebensguide",
+  description: "Lerne grundlegende Überlebensstrategien, Kampftipps und Crafting-Techniken in The Thing That Happened.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+};
+
+<Callout type="info" title="Kurzguide">
+- **Überlebensgrundlagen**: Lerne die Grundlagen des Sammelns, Craftings und Basisbaus.
+- **Kampftaktiken**: Meister das Kampfsystem mit Tipps zur Verwendung von Waffen und Positionierung.
+- **Crafting-Guide**: Entdecke, wie du notwendige Gegenstände und Ressourcen erstellst.
+- **Entdeckungstipps**: Finde versteckte Orte und Geheimnisse in der postapokalyptischen Welt.
+- **FAQ**: Erhalte Antworten auf häufig gestellte Fragen zum Spiel.
+</Callout>
+
+<Section icon={Map} title="Überlebensgrundlagen">
+
+<Steps>
+  <Step num="1" title="Sammeln">
+    Durchsuche verlassene Gebäude nach Vorräten wie Nahrung, Wasser und Waffen.
+  </Step>
+  <Step num="2" title="Crafting">
+    Kombiniere Materialien, um Gegenstände wie Werkzeuge, Waffen und Rüstung zu erstellen.
+  </Step>
+  <Step num="3" title="Basisbau">
+    Richte eine Basis ein, um Vorräte zu lagern und zwischen Missionen zu ruhen.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Swords} title="Kampftaktiken">
+
+<Callout type="tip" title="Pro-Tipp">
+    Nutze die Umgebung, um Deckung zu gewinnen und Feuereinheiten zu vermeiden.
+</Callout>
+
+<Checklist
+  id="combat-tips"
+  title="Wichtige Kampftipps:"
+  items={[
+    "Nutze Deckung, um Feindangriffe zu vermeiden",
+    "Verwalte deine Gesundheit und Munition",
+    "Priorisiere das Eliminieren von Feinden in der Reihenfolge der Bedrohung",
+    "Lerne die Muster und Schwächen der Feinde"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Trophy} title="Crafting-Guide">
+
+<CardGrid cols={2}>
+  <Card title="Grundlegendes Crafting">
+    - Erstelle grundlegende Werkzeuge und Waffen.
+    - Sammle Ressourcen wie Holz, Metall und Leinen.
+  </Card>
+  <Card title="Fortgeschrittenes Crafting">
+    - Erstelle komplexere Gegenstände wie Rüstung und Sprengstoffe.
+    - Verwende rare Materialien für verbesserte Ausrüstung.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Entdeckungstipps">
+
+<Callout type="warning" title="Sei vorsichtig">
+    Die Welt ist voller Gefahren. Bleibe immer aufmerksam.
+</Callout>
+
+<Checklist
+  id="exploration-tips"
+  title="Entdeckungstipps:"
+  items={[
+    "Halte eine Liste nützlicher Gegenstände",
+    "Zeichne die besuchten Orte auf",
+    "Sei vorsichtig, wenn du neue Gebiete erkundest",
+    "Suche nach versteckten Orten und Geheimnissen"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Ist The Thing That Happened multiplayer?",
+    answer: "Das Spiel ist derzeit Einzelspieler, aber es gibt Pläne für zukünftige Mehrspielerfunktionen."
+  },
+  {
+    question: "Wie lange dauert es, das Spiel zu beenden?",
+    answer: "Die Spielzeit variiert je nach Spielstil und dem Umfang der optionalen Inhalte, die du abschließt."
+  },
+  {
+    question: "Was sind die Systemanforderungen?",
+    answer: "Schau auf der Steam-Shop-Seite nach den neuesten Hardwareanforderungen."
+  }
+]} />
+
+</Section>

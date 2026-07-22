@@ -1,0 +1,119 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened: Dominando el Sistema de Inventario",
+  description: "Aprende todo lo que necesitas saber sobre el sistema de inventario de The Thing That Happened en nuestra guía completa.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Inventory+Guide",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Inventario de The Thing That Happened
+- **Mecánica clave**: Cómo gestionar y optimizar tu inventario
+- **Mejor estrategia**: Priorizar los artículos según la necesidad y el uso
+- **Consejo crucial**: Revisa y organiza tu inventario regularmente
+- **Elección superior**: Artículos esenciales para todas las situaciones
+</Callout>
+
+<Section icon={Map} title="Entendiendo el Sistema de Inventario">
+
+El sistema de inventario en The Thing That Happened es crucial para gestionar eficazmente tu equipo y recursos. Aquí tienes una descripción general de sus características clave y cómo utilizarlas.
+
+</Section>
+
+<Section icon={Swords} title="Optimización de tu Inventario">
+
+Para optimizar tu inventario, considera lo siguiente:
+
+<Checklist
+  id="inventory-tips"
+  title="Consejos de Optimización de Inventario:"
+  items={[
+    "Prioriza los artículos según su utilidad y frecuencia de uso",
+    "Limpia regularmente los artículos innecesarios para hacer espacio para nuevo equipo",
+    "Usa la función de clasificación para organizar los artículos por tipo o rareza",
+    "Mantén artículos esenciales como pociones de salud y kits de reparación fácilmente accesibles",
+    "Almacena los artículos excedentes en un cofre o espacio de almacenamiento para evitar el desorden"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title=" Estrategias de Gestión de Inventario">
+
+Una gestión efectiva del inventario implica las siguientes estrategias:
+
+<Steps>
+  <Step num="1" title="Evalúa tu Equipo">
+    Evalúa tu equipo actual e identifica cualquier duplicado o artículo que ya no necesites.
+  </Step>
+  <Step num="2" title="Clasifica y Organiza">
+    Clasifica tus artículos por tipo, rareza o uso. Esto facilita encontrar rápidamente lo que necesitas.
+  </Step>
+  <Step num="3" title="Planifica tu Inventario">
+    Planifica con antelación para las necesidades futuras, como misiones o desafíos futuros, y prepárate en consecuencia.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Artículos Esenciales del Inventario">
+
+Aquí hay algunos artículos esenciales que debes mantener en tu inventario en todo momento:
+
+<CardGrid cols={3}>
+  <Card title="Pociones de Salud">
+    Recupera salud y energía para tu personaje.
+  </Card>
+  <Card title="Kits de Reparación">
+    Repara equipo y armas dañadas.
+  </Card>
+  <Card title="Pociones de Resistencia">
+    Mejora la resistencia de tu personaje a ciertos efectos.
+  </Card>
+  <Card title="Municiones">
+    Esenciales para armas de largo alcance como arcos y pistolas.
+  </Card>
+  <Card title="Lanterna">
+  Proporciona luz en áreas oscuras y se puede usar para desbloquear puertas.
+  </Card>
+  <Card title="Artículos Clave">
+  Artículos únicos que desbloquean áreas o características importantes en el juego.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Shield} title="Solución de Problemas Comunes del Inventario">
+
+Si te encuentras con problemas comunes de inventario, considera las siguientes soluciones:
+
+<FAQ items={[
+  {
+    question: "¿Cómo elimino un artículo de mi inventario?",
+    answer: "Para eliminar un artículo, selecciónalo y presiona el botón 'Eliminar' o arrastra hacia el icono de la papelera."
+  },
+  {
+    question: "¿Por qué no puedo usar algunos artículos en el juego?",
+    answer: "Algunos artículos pueden estar bloqueados o requerir condiciones específicas para ser usados. Revisa la descripción del artículo para más detalles."
+  },
+  {
+    question: "¿Qué pasa si mi inventario está lleno?",
+    answer: "Si tu inventario está lleno, no puedes recoger nuevos artículos. Debes eliminar artículos para hacer espacio."
+  }
+]} />
+
+</Section>
+
+```
+
+Este contenido MDX sigue las pautas proporcionadas, incluyendo el uso de varios componentes, un diseño estructurado y las mejores prácticas de SEO.

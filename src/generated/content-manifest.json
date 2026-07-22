@@ -1,5 +1,19 @@
 {
   "de": {
+    "community": [
+      {
+        "slug": "The-Thing-That-Happened-community",
+        "file": "The-Thing-That-Happened-community"
+      },
+      {
+        "slug": "The-Thing-That-Happened-discussion",
+        "file": "The-Thing-That-Happened-discussion"
+      },
+      {
+        "slug": "The-Thing-That-Happened-reddit",
+        "file": "The-Thing-That-Happened-reddit"
+      }
+    ],
     "faq": [
       {
         "slug": "The-Thing-That-Happened-early-access",
@@ -124,14 +138,34 @@
         "file": "The-Thing-That-Happened-lore"
       },
       {
+        "slug": "The-Thing-That-Happened-secrets",
+        "file": "The-Thing-That-Happened-secrets"
+      },
+      {
         "slug": "The-Thing-That-Happened-story",
         "file": "The-Thing-That-Happened-story"
       }
     ],
     "survival": [
       {
+        "slug": "The-Thing-That-Happened-boss-guide",
+        "file": "The-Thing-That-Happened-boss-guide"
+      },
+      {
         "slug": "The-Thing-That-Happened-crafting",
         "file": "The-Thing-That-Happened-crafting"
+      },
+      {
+        "slug": "The-Thing-That-Happened-enemies",
+        "file": "The-Thing-That-Happened-enemies"
+      },
+      {
+        "slug": "The-Thing-That-Happened-inventory",
+        "file": "The-Thing-That-Happened-inventory"
+      },
+      {
+        "slug": "The-Thing-That-Happened-resources",
+        "file": "The-Thing-That-Happened-resources"
       },
       {
         "slug": "The-Thing-That-Happened-weapons",
@@ -140,6 +174,20 @@
     ]
   },
   "en": {
+    "community": [
+      {
+        "slug": "The-Thing-That-Happened-community",
+        "file": "The-Thing-That-Happened-community"
+      },
+      {
+        "slug": "The-Thing-That-Happened-discussion",
+        "file": "The-Thing-That-Happened-discussion"
+      },
+      {
+        "slug": "The-Thing-That-Happened-reddit",
+        "file": "The-Thing-That-Happened-reddit"
+      }
+    ],
     "faq": [
       {
         "slug": "The-Thing-That-Happened-early-access",
@@ -300,6 +348,20 @@
     ]
   },
   "es": {
+    "community": [
+      {
+        "slug": "The-Thing-That-Happened-community",
+        "file": "The-Thing-That-Happened-community"
+      },
+      {
+        "slug": "The-Thing-That-Happened-discussion",
+        "file": "The-Thing-That-Happened-discussion"
+      },
+      {
+        "slug": "The-Thing-That-Happened-reddit",
+        "file": "The-Thing-That-Happened-reddit"
+      }
+    ],
     "faq": [
       {
         "slug": "The-Thing-That-Happened-early-access",
@@ -434,12 +496,46 @@
     ],
     "survival": [
       {
+        "slug": "The-Thing-That-Happened-boss-guide",
+        "file": "The-Thing-That-Happened-boss-guide"
+      },
+      {
         "slug": "The-Thing-That-Happened-crafting",
         "file": "The-Thing-That-Happened-crafting"
+      },
+      {
+        "slug": "The-Thing-That-Happened-enemies",
+        "file": "The-Thing-That-Happened-enemies"
+      },
+      {
+        "slug": "The-Thing-That-Happened-inventory",
+        "file": "The-Thing-That-Happened-inventory"
+      },
+      {
+        "slug": "The-Thing-That-Happened-resources",
+        "file": "The-Thing-That-Happened-resources"
+      },
+      {
+        "slug": "The-Thing-That-Happened-weapons",
+        "file": "The-Thing-That-Happened-weapons"
       }
     ]
   },
   "ru": {
+    "community": [
+      {
+        "slug": "The-Thing-That-Happened-community",
+        "file": "The-Thing-That-Happened-community"
+      },
+      {
+        "slug": "The-Thing-That-Happened-discussion",
+        "file": "The-Thing-That-Happened-discussion"
+      },
+      {
+        "slug": "The-Thing-That-Happened-reddit",
+        "file": "The-Thing-That-Happened-reddit"
+      }
+    ],
     "faq": [
       {
         "slug": "The-Thing-That-Happened-early-access",
@@ -564,14 +660,38 @@
         "file": "The-Thing-That-Happened-lore"
       },
       {
+        "slug": "The-Thing-That-Happened-secrets",
+        "file": "The-Thing-That-Happened-secrets"
+      },
+      {
         "slug": "The-Thing-That-Happened-story",
         "file": "The-Thing-That-Happened-story"
       }
     ],
     "survival": [
       {
+        "slug": "The-Thing-That-Happened-boss-guide",
+        "file": "The-Thing-That-Happened-boss-guide"
+      },
+      {
         "slug": "The-Thing-That-Happened-crafting",
         "file": "The-Thing-That-Happened-crafting"
+      },
+      {
+        "slug": "The-Thing-That-Happened-enemies",
+        "file": "The-Thing-That-Happened-enemies"
+      },
+      {
+        "slug": "The-Thing-That-Happened-inventory",
+        "file": "The-Thing-That-Happened-inventory"
+      },
+      {
+        "slug": "The-Thing-That-Happened-resources",
+        "file": "The-Thing-That-Happened-resources"
+      },
+      {
+        "slug": "The-Thing-That-Happened-weapons",
+        "file": "The-Thing-That-Happened-weapons"
       }
     ]
   }

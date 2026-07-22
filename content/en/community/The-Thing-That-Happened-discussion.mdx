@@ -1,0 +1,113 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened - Survival Guide",
+  description: "Learn essential survival strategies, combat tips, and crafting techniques in The Thing That Happened.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Survival Basics**: Learn the basics of scavenging, crafting, and base building.
+- **Combat Tactics**: Master the combat system with tips on using weapons and positioning.
+- **Crafting Guide**: Discover how to create essential items and resources.
+- **Exploration Tips**: Find hidden locations and secrets in the post-apocalyptic world.
+- **FAQ**: Get answers to common questions about the game.
+</Callout>
+
+<Section icon={Map} title="Survival Basics">
+
+<Steps>
+  <Step num="1" title="Scavenging">
+    Search abandoned buildings for supplies like food, water, and weapons.
+  </Step>
+  <Step num="2" title="Crafting">
+    Combine materials to create items like tools, weapons, and armor.
+  </Step>
+  <Step num="3" title="Base Building">
+    Set up a base to store supplies and rest between missions.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Swords} title="Combat Tactics">
+
+<Callout type="tip" title="Pro Tip">
+    Use the environment to gain cover and avoid enemy fire.
+</Callout>
+
+<Checklist
+  id="combat-tips"
+  title="Essential Combat Tips:"
+  items={[
+    "Use cover to avoid enemy attacks",
+    "Manage your health and ammunition",
+    "Prioritize eliminating enemies in the order of threat",
+    "Learn enemy patterns and weaknesses"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Trophy} title="Crafting Guide">
+
+<CardGrid cols={2}>
+  <Card title="Basic Crafting">
+    - Create basic tools and weapons.
+    - Gather resources like wood, metal, and cloth.
+  </Card>
+  <Card title="Advanced Crafting">
+    - Craft more complex items like armor and explosives.
+    - Use rare materials for upgraded gear.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Exploration Tips">
+
+<Callout type="warning" title="Be Aware">
+    The world is filled with dangers. Always be on alert.
+</Callout>
+
+<Checklist
+  id="exploration-tips"
+  title="Exploration Tips:"
+  items={[
+    "Keep an inventory of useful items",
+    "Map out locations you've visited",
+    "Be cautious when exploring new areas",
+    "Look for hidden locations and secrets"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Is The Thing That Happened multiplayer?",
+    answer: "The game is currently single-player, but there are plans for future multiplayer features."
+  },
+  {
+    question: "How long does it take to beat the game?",
+    answer: "The playtime varies depending on your playstyle and how much optional content you complete."
+  },
+  {
+    question: "What are the system requirements?",
+    answer: "Check the Steam store page for the latest hardware requirements."
+  }
+]} />
+
+</Section>

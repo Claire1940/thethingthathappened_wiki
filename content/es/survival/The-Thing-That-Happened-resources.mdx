@@ -1,0 +1,86 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "La Cosa Que Pasó: Guía de Supervivencia Última",
+  description: "Descubre las mejores estrategias de supervivencia, armas, consejos de elaboración y más en La Cosa Que Pasó.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=La+Cosa+Que+Pas%C3%B3+Gu%C3%ADa+de+Supervivencia",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de La Cosa Que Pasó"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: La Cosa Que Pasó
+- **Mecánica clave**: Supervivencia en mundo abierto
+- **Mejor estrategia**: Gestión de recursos y sigilo
+- **Consejo crucial**: Siempre mantén los ojos en tu entorno
+- **Elección superior**: Personaliza tu equipo para una eficiencia máxima
+</Callout>
+
+<Section icon={Map} title="Consejos de Exploración">
+CardGrid con 3 tarjetas:
+- Tarjeta 1: "Mapa de la Ciudad" - Consejos para navegar por las ruinas de manera eficiente
+- Tarjeta 2: "Sitios de Recursos" - Lugares para encontrar recursos valiosos
+- Tarjeta 3: "Movimientos de Sigilo" - Cómo evitar la detección y mantenerse seguro
+</Section>
+
+<Section icon={Swords} title="Guía de Armas">
+<Steps>
+  <Step num="1" title="Elegir Tu Arma">
+    Evalúa tu estilo de juego y elige la arma adecuada.
+  </Step>
+  <Step num="2" title="Mejorar Tu Arma">
+    Recoge materiales para mejorar tu arma para un mejor rendimiento.
+  </Step>
+  <Step num="3" title="Accesorios">
+    Personaliza tu arma con accesorios para obtener ventajas específicas.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Trophy} title="Guía de Elaboración">
+<Checklist
+  id="crafting-list"
+  title="Elementos de Elaboración Esenciales:"
+  items={[
+    "Escudo de Madera",
+    "Hacha",
+    "Espada",
+    "Antorcha",
+    "Manta"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Estrategias de Supervivencia">
+<Callout type="tip" title="Consejo Pro">
+Enfócate en la gestión de recursos para asegurarte de tener suficiente suministro para la supervivencia.
+</Callout>
+<Callout type="warning" title="Importante">
+Ten cuidado al encontrarte con enemigos, ya que pueden ser peligrosos.
+</Callout>
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+<FAQ items={[
+  {
+    question: "¿Cómo puedo hacer un fuego?",
+    answer: "Reúne madera y usa un soplete para encenderlo."
+  },
+  {
+    question: "¿Dónde puedo encontrar agua?",
+    answer: "Busca fuentes de agua en las ruinas o elabora agua."
+  },
+  {
+    question: "¿Cuál es la mejor manera de manejar a los enemigos?",
+    answer: "Usa sigilo y recursos de manera inteligente para sobrevivir a los encuentros."
+  }
+]} />
+</Section>

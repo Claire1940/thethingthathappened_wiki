@@ -1,0 +1,86 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened: Ultimativer Überlebensführer",
+  description: "Entdecke die besten Überlebensstrategien, Waffen, Schmiedetipps und mehr in The Thing That Happened.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+};
+
+<Callout type="info" title="Kurzguide">
+- **Hauptwort**: The Thing That Happened
+- **Schlüsselmechanik**: Offenwelt-Überleben
+- **Beste Strategie**: Ressourcenverwaltung undlist
+- **Wichtiger Tipp**: Halte immer einen Auge auf deine Umgebung
+- **Top Wahl**: Passt deine Ausrüstung für maximale Effizienz an
+</Callout>
+
+<Section icon={Map} title="Entdeckungstipps">
+CardGrid mit 3 Karten:
+- Karte 1: "Die Stadt kartieren" - Tipps für die effiziente Navigation in den Ruinen
+- Karte 2: "Ressourcenorte" - Orte, um wertvolle Ressourcen zu finden
+- Karte 3: "Versteckte Bewegungen" - Wie man der Entdeckung entgeht und sicher bleibt
+</Section>
+
+<Section icon={Swords} title="Waffenführer">
+<Steps>
+  <Step num="1" title="Waffenwahl">
+    Beurteile deinen Spielstil und wähle die passende Waffe.
+  </Step>
+  <Step num="2" title="Waffenaufrüstung">
+    Sammle Materialien, um deine Waffe für bessere Leistung aufzurüsten.
+  </Step>
+  <Step num="3" title="Zubehör">
+    Passt deine Waffe mit Zubehör für spezifische Vorteile an.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Trophy} title="Schmiedeführer">
+<Checklist
+  id="crafting-list"
+  title="Wichtige Schmiedeware:"
+  items={[
+    "Holzschwert",
+    "Beil",
+    "Schwert",
+    "Fackel",
+    "Bettsack"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Überlebensstrategien">
+<Callout type="tip" title="Pro-Tipp">
+Konzentriere dich auf die Ressourcenverwaltung, um sicherzustellen, dass du genügend Vorräte für das Überleben hast.
+</Callout>
+<Callout type="warning" title="Wichtig">
+Sei vorsichtig, wenn du Feinde begegnest, da sie gefährlich sein können.
+</Callout>
+</Section>
+
+<Section icon={Shield} title="FAQ">
+<FAQ items={[
+  {
+    question: "Wie fange ich ein Feuer an?",
+    answer: "Sammle Holz und entzünde es mit einem Feuerstein."
+  },
+  {
+    question: "Wo finde ich Wasser?",
+    answer: "Suche nach Wasserquellen in den Ruinen oder mache es."
+  },
+  {
+    question: "Was ist die beste Methode, um Feinde zu handhaben?",
+    answer: "Verwende List und Ressourcen klug, um Begegnungen zu überstehen."
+  }
+]} />
+</Section>

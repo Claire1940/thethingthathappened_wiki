@@ -1,0 +1,113 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened - Руководство по выживанию",
+  description: "Изучите основные стратегии выживания, тактики боя и техники к Craft в The Thing That Happened.",
+  category: "Руководство",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "Команда Wiki The Thing That Happened"
+};
+
+<Callout type="info" title="Краткое руководство">
+- **Основы выживания**: Изучите основы поисков, Craft и строительства базы.
+- **Тактика боя**: Мастерствуйте систему боя с советами по использованию оружия и позиционированию.
+- **Руководство по Craft**: Изучите, как создавать необходимые предметы и ресурсы.
+- **Советы по исследованию**: Найдите скрытые места и тайны в постапокалиптическом мире.
+- **Частые вопросы**: Получите ответы на распространенные вопросы о игре.
+</Callout>
+
+<Section icon={Map} title="Основы выживания">
+
+<Steps>
+  <Step num="1" title="Поиск">
+    Ищите запасы в заброшенных зданиях, такие как еда, вода и оружие.
+  </Step>
+  <Step num="2" title="Craft">
+    Смешивайте материалы для создания предметов, таких как инструменты, оружие и доспехи.
+  </Step>
+  <Step num="3" title="Строительство базы">
+    Организуйте базу для хранения запасов и отдыха между миссиями.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Swords} title="Тактика боя">
+
+<Callout type="tip" title="Профессиональный совет">
+    Используйте окружающую среду для получения укрытия и избежания огня врагов.
+</Callout>
+
+<Checklist
+  id="combat-tips"
+  title="Основные советы по боям:"
+  items={[
+    "Используйте укрытия, чтобы избежать атак врагов",
+    "Управляйте своим здоровьем и боеприпасами",
+    "Приорitize elimination of enemies in the order of threat",
+    "Изучите шаблоны и слабые места врагов"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Trophy} title="Руководство по Craft">
+
+<CardGrid cols={2}>
+  <Card title="Основной Craft">
+    - Создавайте базовые инструменты и оружие.
+    - Собирайте ресурсы, такие как дерево, металл и ткань.
+  </Card>
+  <Card title="Продвинутый Craft">
+    - Создавайте более сложные предметы, такие как доспехи и взрывчатые вещества.
+    - Используйте редкие материалы для улучшенного снаряжения.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Советы по исследованию">
+
+<Callout type="warning" title="Будьте внимательны">
+    Мир полон опасностей. Всегда будьте начеку.
+</Callout>
+
+<Checklist
+  id="exploration-tips"
+  title="Советы по исследованию:"
+  items={[
+    "Ведите инвентарь полезных предметов",
+    "Составьте карту посещенных мест",
+    "Будьте осторожны при исследовании новых районов",
+    "Ищите скрытые места и тайны"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Частые вопросы">
+
+<FAQ items={[
+  {
+    question: "Is The Thing That Happened multiplayer?",
+    answer: "The game is currently single-player, but there are plans for future multiplayer features."
+  },
+  {
+    question: "How long does it take to beat the game?",
+    answer: "The playtime varies depending on your playstyle and how much optional content you complete."
+  },
+  {
+    question: "What are the system requirements?",
+    answer: "Check the Steam store page for the latest hardware requirements."
+  }
+]} />
+
+</Section>

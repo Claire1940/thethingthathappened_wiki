@@ -1,0 +1,86 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened: Полное руководство по выживанию",
+  description: "Откройте для себя лучшие стратегии выживания, оружие, советы по кузнечному делу и многое другое в The Thing That Happened.",
+  category: "Руководство",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "Команда Wiki The Thing That Happened"
+};
+
+<Callout type="info" title="Краткое руководство">
+- **Основной ключевой слово**: The Thing That Happened
+- **Основной механик**: Выживание в открытом мире
+- **Лучшая стратегия**: Управление ресурсами и тайное передвижение
+- **Критический совет**: Всегда следите за своим окружением
+- **Лучший выбор**: Настройте ваше снаряжение для максимальной эффективности
+</Callout>
+
+<Section icon={Map} title="Советы по исследованию">
+CardGrid с 3 картами:
+- Карта 1: "Картирование города" - Советы по эффективному передвижению по руинам
+- Карта 2: "Места с ресурсами" - Места, где можно найти ценные ресурсы
+- Карта 3: "Тайные движения" - Как избежать обнаружения и оставаться в безопасности
+</Section>
+
+<Section icon={Swords} title="Руководство по оружию">
+<Steps>
+  <Step num="1" title="Выбор оружия">
+    Оцените свой стиль игры и выберите подходящее оружие.
+  </Step>
+  <Step num="2" title="Улучшение оружия">
+    Соберите материалы для улучшения вашего оружия для лучшей производительности.
+  </Step>
+  <Step num="3" title="Дополнения">
+    Настройте ваше оружие с помощью дополнений для специфических преимуществ.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Trophy} title="Руководство по кузнечному делу">
+<Checklist
+  id="crafting-list"
+  title="Необходимые предметы для кузнечного дела:"
+  items={[
+    "Деревянный щит",
+    "Молоток",
+    "Меч",
+    "torch",
+    "Постельное белье"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Стратегии выживания">
+<Callout type="tip" title="Профессиональный совет">
+Фокусируйтесь на управлении ресурсами, чтобы обеспечить достаточное количество припасов для выживания.
+</Callout>
+<Callout type="warning" title="Важно">
+Будьте осторожны при встрече с врагами, так как они могут быть опасны.
+</Callout>
+</Section>
+
+<Section icon={Shield} title="Частые вопросы">
+<FAQ items={[
+  {
+    question: "Как зажечь огонь?",
+    answer: "Соберите древесину и зажгите её кремнём."
+  },
+  {
+    question: "Где можно найти воду?",
+    answer: "Ищите источники воды в руинах или сделайте её."
+  },
+  {
+    question: "Как лучше всего справляться с врагами?",
+    answer: "Используйте тайное передвижение и ресурсы с умом, чтобы выжить в встречах."
+  }
+]} />
+</Section>

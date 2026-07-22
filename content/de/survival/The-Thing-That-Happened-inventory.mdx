@@ -1,0 +1,115 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened: Meisterung des Inventarsystems",
+  description: "Erfahren Sie alles über das Inventarsystem von The Thing That Happened in unserem umfassenden Leitfaden.",
+  category: "Leitfaden",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Inventory+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Kurzguide">
+- **Hauptwort**: The Thing That Happened Inventar
+- **Schlüsselmechanik**: Wie man den Inventar verwalten und optimieren kann
+- **Beste Strategie**: Priorisierung von Gegenständen basierend auf Bedarf und Verwendung
+- **Wichtiger Tipp**: Regelmäßige Überprüfung und Ordnung des Inventars
+- **Top-Wahl**: Wichtige Gegenstände für alle Situationen
+</Callout>
+
+<Section icon={Map} title="Verständnis des Inventarsystems">
+
+Das Inventarsystem in The Thing That Happened ist entscheidend für die effektive Verwaltung Ihrer Ausrüstung und Ressourcen. Hier ist eine Zusammenfassung seiner wichtigsten Funktionen und deren Verwendung.
+
+</Section>
+
+<Section icon={Swords} title="Optimierung Ihres Inventars">
+
+Um Ihr Inventar zu optimieren, beachten Sie die folgenden Punkte:
+
+<Checklist
+  id="inventory-tips"
+  title="Tipps zur Optimierung des Inventars:"
+  items={[
+    "Priorisieren Sie Gegenstände basierend auf ihrer Nützlichkeit und Häufigkeit der Verwendung",
+    "Bereinigen Sie regelmäßig unnötige Gegenstände, um Platz für neue Ausrüstung zu schaffen",
+    "Verwenden Sie die Sortierfunktion, um Gegenstände nach Typ oder Seltenheit zu organisieren",
+    "Halten Sie wichtige Gegenstände wie Lebensflaschen und Reparatursets leicht zugänglich",
+    "Lagern Sie Überschüsse in einem Schrank oder Lagerplatz, um den Unordner zu vermeiden"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="Strategien zur Verwaltung des Inventars">
+
+Effektive Inventarverwaltung erfordert die folgenden Strategien:
+
+<Steps>
+  <Step num="1" title="Bewerten Sie Ihre Ausrüstung">
+    Bewerten Sie Ihre aktuelle Ausrüstung und identifizieren Sie Duplikate oder Gegenstände, die Sie nicht mehr benötigen.
+  </Step>
+  <Step num="2" title="Sortieren und Organisieren">
+    Sortieren Sie Ihre Gegenstände nach Typ, Seltenheit oder Verwendung. Dies erleichtert das rasche Auffinden des benötigten Gegenstands.
+  </Step>
+  <Step num="3" title="Planen Sie Ihren Inventar">
+    Planen Sie im Voraus für zukünftige Bedürfnisse, wie zukünftige Quests oder Herausforderungen, und bereiten Sie sich entsprechend vor.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Wichtige Inventargegenstände">
+
+Hier sind einige wichtige Gegenstände, die Sie immer in Ihrem Inventar haben sollten:
+
+<CardGrid cols={3}>
+  <Card title="Lebensflaschen">
+    Erholen Sie die Gesundheit und Energie Ihres Charakters.
+  </Card>
+  <Card title="Reparatursets">
+  Reparieren Sie beschädigte Ausrüstung und Waffen.
+  </Card>
+  <Card title="Gegengiftpotionen">
+  Erhöhen Sie die Resistenz Ihres Charakters gegen bestimmte Effekte.
+  </Card>
+  <Card title="Munition">
+  Wichtig für Fernkampfwaffen wie Bögen und Gewehre.
+  </Card>
+  <Card title="Fackel">
+  Bietet Licht in dunklen Bereichen und kann verwendet werden, um Türen zu öffnen.
+  </Card>
+  <Card title="Schlüsselgegenstände">
+  Einzigartige Gegenstände, die wichtige Bereiche oder Funktionen im Spiel freischalten.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Shield} title="Beheben von häufigen Inventarproblemen">
+
+Wenn Sie häufige Inventarprobleme erleben, erwägen Sie die folgenden Lösungen:
+
+<FAQ items={[
+  {
+    question: "Wie entferne ich ein Gegenstand aus meinem Inventar?",
+    answer: "Um ein Gegenstand zu entfernen, wählen Sie ihn aus und drücken Sie die 'Entfernen'- Taste oder ziehen Sie ihn zum Papierkorb-Symbol."
+  },
+  {
+    question: "Warum kann ich einige Gegenstände im Spiel nicht verwenden?",
+    answer: "Einige Gegenstände könnten gesperrt sein oder spezifische Bedingungen erfüllen müssen, um verwendet werden zu können. Überprüfen Sie die Beschreibung des Gegenstands für Details."
+  },
+  {
+    question: "Was passiert, wenn mein Inventar voll ist?",
+    answer: "Wenn Ihr Inventar voll ist, können Sie keine neuen Gegenstände aufheben. Sie müssen Gegenstände entfernen, um Platz zu schaffen."
+  }
+]} />
+
+</Section>

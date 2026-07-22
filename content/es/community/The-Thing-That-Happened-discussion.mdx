@@ -1,0 +1,113 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "La Cosa Que Sucedió - Guía de Supervivencia",
+  description: "Aprende estrategias esenciales de supervivencia, consejos de combate y técnicas de elaboración en La Cosa Que Sucedió.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=La+Cosa+Que+Sucedio+Guia+de+Supervivencia",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de La Cosa Que Sucedió"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Básicos de la Supervivencia**: Aprende los fundamentos de la recolección, la elaboración y la construcción de bases.
+- **Tácticas de Combate**: Dominar el sistema de combate con consejos sobre el uso de armas y la posiciónamiento.
+- **Guía de Elaboración**: Descubre cómo crear artículos esenciales y recursos.
+- **Consejos de Exploración**: Encuentra ubicaciones ocultas y secretos en el mundo postapocalíptico.
+- **Preguntas Frecuentes**: Obtén respuestas a preguntas comunes sobre el juego.
+</Callout>
+
+<Section icon={Map} title="Básicos de la Supervivencia">
+
+<Steps>
+  <Step num="1" title="Recolección">
+    Busca edificios abandonados por suministros como comida, agua y armas.
+  </Step>
+  <Step num="2" title="Elaboración">
+    Combinar materiales para crear artículos como herramientas, armas y armaduras.
+  </Step>
+  <Step num="3" title="Construcción de Bases">
+    Configura una base para almacenar suministros y descansar entre misiones.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Swords} title="Tácticas de Combate">
+
+<Callout type="tip" title="Consejo Avanzado">
+    Usa el entorno para obtener cobertura y evitar el fuego enemigo.
+</Callout>
+
+<Checklist
+  id="combat-tips"
+  title="Consejos Esenciales de Combate:"
+  items={[
+    "Usa cobertura para evitar ataques enemigos",
+    "Gestiona tu salud y municiones",
+    "Prioriza la eliminación de enemigos en orden de amenaza",
+    "Aprende los patrones y debilidades de los enemigos"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Trophy} title="Guía de Elaboración">
+
+<CardGrid cols={2}>
+  <Card title="Elaboración Básica">
+    - Crea herramientas y armas básicas.
+    - Recolecta recursos como madera, metal y lana.
+  </Card>
+  <Card title="Elaboración Avanzada">
+    - Elabora artículos más complejos como armaduras y explosivos.
+    - Usa materiales raros para equipo mejorado.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Consejos de Exploración">
+
+<Callout type="warning" title="Ten Cuidado">
+    El mundo está lleno de peligros. Siempre mantente alerta.
+</Callout>
+
+<Checklist
+  id="exploration-tips"
+  title="Consejos de Exploración:"
+  items={[
+    "Mantén un inventario de artículos útiles",
+    "Mapa de ubicaciones visitadas",
+    "Ten cautela al explorar nuevas áreas",
+    "Busca ubicaciones ocultas y secretos"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Es La Cosa Que Sucedió multijugador?",
+    answer: "El juego es actualmente de un solo jugador, pero hay planes para futuras características multijugador."
+  },
+  {
+    question: "¿Cuánto tiempo lleva completar el juego?",
+    answer: "El tiempo de juego varía según tu estilo de juego y la cantidad de contenido opcional que completes."
+  },
+  {
+    question: "¿Cuáles son los requisitos del sistema?",
+    answer: "Revisa la página de la tienda de Steam para obtener los requisitos de hardware más recientes."
+  }
+]} />
+
+</Section>
