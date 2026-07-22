@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "The Thing That Happened Wiki - Guide, Weapons & Survival",
+  "short_name": "The Thing That Happened",
+  "description": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#f97316",
+  "background_color": "#090909",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
