@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "The Thing That Happened Wiki - Guide, Weapons & Survival",
+      "description": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game.",
+      "keywords": "The Thing That Happened, Steam, Wiki, guide, weapons, crafting, survival",
+      "ogTitle": "The Thing That Happened Wiki - Guide, Weapons & Survival",
+      "ogDescription": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game.",
+      "twitterTitle": "The Thing That Happened Wiki - Guide, Weapons & Survival",
+      "twitterDescription": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
+    "badge": "Post-Apocalyptic Survival Action Adventure",
+    "title": "The Thing That Happened Wiki",
+    "description": "Explore The Thing That Happened Wiki with survival guides, weapons, crafting tips, locations, story information and gameplay strategies for this open world third person action adventure survival game.",
+    "getFreeCodesCTA": "Explore Guides",
     "playOnSteamCTA": "Play on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "17+",
+        "label": "User Reviews"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "13",
+        "label": "Achievements"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "2024",
+        "label": "Release Year"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Early Access",
+        "label": "Game Status"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
+    "title": "Ready to Survive The Thing That Happened?",
+    "description": "Join the community on Steam for the latest guides, patch notes, and survival strategies for The Thing That Happened.",
+    "joinCommunity": "Join Steam Community",
     "joinGame": "Play on Steam"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "The Thing That Happened Wiki",
+    "description": "Your complete resource hub for The Thing That Happened survival guides, weapons, crafting, locations, enemies, and story information.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
     "steamCommunity": "Steam Community",
     "steamStore": "Steam Store",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 The Thing That Happened Wiki. Not affiliated with the developers of The Thing That Happened.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

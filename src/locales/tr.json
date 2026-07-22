@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "description": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
-      "ogTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "ogDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "twitterDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
+      "title": "The Thing That Happened Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "description": "Eksiksiz The Thing That Happened kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
+      "keywords": "The Thing That Happened Wiki, The Thing That Happened, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
+      "ogTitle": "The Thing That Happened Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "ogDescription": "Eksiksiz The Thing That Happened kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
+      "twitterTitle": "The Thing That Happened Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "twitterDescription": "Eksiksiz The Thing That Happened kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
     }
   },
   "nav": {
@@ -35,8 +35,8 @@
   },
   "hero": {
     "badge": "Ufak cüceler. Büyük evler. Arkadaşlarla gizli soygunlar.",
-    "title": "Lucid Blocks wiki",
-    "description": "Lucid Blocks için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
+    "title": "The Thing That Happened wiki",
+    "description": "The Thing That Happened için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
     "getFreeCodesCTA": "Demo İndir",
     "playOnSteamCTA": "Steam'de İstek Listesine Ekle",
     "stats": {
@@ -59,11 +59,11 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Oynanışı",
+    "title": "The Thing That Happened Oynanışı",
     "description": "Ufak cücelerin kaotik 6 oyunculu işbirliği gizli görevlerinde büyük soygunlar yapmasını izleyin!"
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "The Thing That Happened",
     "titleHighlight": "Kaynaklar",
     "subtitle": "Soygunlarda ve işbirliği gizliliğinde ustalaşmak için ihtiyacınız olan her şey",
     "cards": [
@@ -151,7 +151,7 @@
   },
   "modules": {
     "demoDownload": {
-      "title": "Lucid Blocks Demo İndirme",
+      "title": "The Thing That Happened Demo İndirme",
       "subtitle": "Steam'de ücretsiz demoyu edinin",
       "downloadSize": "2,62 GiB",
       "diskSize": "4,88 GiB",
@@ -161,7 +161,7 @@
       "engine": "Unity",
       "primaryCTA": "Demo İndir",
       "secondaryCTA": "Teknik Bilgileri Görüntüle",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
+      "installPath": "Steam\\steamapps\\common\\The Thing That Happened Demo",
       "sections": [
         {
           "heading": "Nereden indirilir",
@@ -180,7 +180,7 @@
       ]
     },
     "beginnerGuide": {
-      "title": "Lucid Blocks Başlangıç Rehberi",
+      "title": "The Thing That Happened Başlangıç Rehberi",
       "subtitle": "Temel döngüde ustalaşın ve yaygın hatalardan kaçının",
       "steps": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     "coopGuide": {
-      "title": "Lucid Blocks İşbirliği Rehberi",
+      "title": "The Thing That Happened İşbirliği Rehberi",
       "subtitle": "Maksimum kaos için 6 oyuncuya kadar koordine olun",
       "maxPlayers": 6,
       "roles": [
@@ -262,7 +262,7 @@
       "communication": "Görevleri ve kurtarmaları koordine etmek için sesli sohbeti (V tuşu) kullanın. Şunu söyleyin: 'Görüldü', 'Rota', 'Kurtarmaya ihtiyacım var', 'Yakında çıkış yap'."
     },
     "tasksObjectives": {
-      "title": "Lucid Blocks Görevler & Amaçlar",
+      "title": "The Thing That Happened Görevler & Amaçlar",
       "subtitle": "Yüksek Cüce'nin istedikleri: görev örnekleri",
       "taskTypes": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     "controlsKeybinds": {
-      "title": "Lucid Blocks Kontroller & Tuş Atamaları",
+      "title": "The Thing That Happened Kontroller & Tuş Atamaları",
       "subtitle": "Varsayılan klavye kontrolleri (ve bunları nerede değiştireceğiniz)",
       "keybinds": [
         {
@@ -372,7 +372,7 @@
       "changePath": "Başlık menüsünden: AYARLAR'ı açın, ardından klavye ayarlarını kontrol edin. Tuş atama satırlarını filtrelemek için arama alanını kullanın."
     },
     "contentSettings": {
-      "title": "Lucid Blocks İçerik Ayarları",
+      "title": "The Thing That Happened İçerik Ayarları",
       "subtitle": "Yetişkinlere yönelik içerik, çıplaklık geçişi ve Steam tercihleri",
       "descriptors": [
         "Bazı Çıplaklık veya Cinsel İçerik",
@@ -397,7 +397,7 @@
       ]
     },
     "craftingEquipment": {
-      "title": "Lucid Blocks Üretim & Ekipman",
+      "title": "The Thing That Happened Üretim & Ekipman",
       "subtitle": "Donanın: üretim örnekleri ve her aracın ne yaptığı",
       "equipment": [
         {
@@ -434,7 +434,7 @@
       ]
     },
     "lootItems": {
-      "title": "Lucid Blocks Ganimet & Eşyalar",
+      "title": "The Thing That Happened Ganimet & Eşyalar",
       "subtitle": "Ne çalınır: eşya türleri, risk ve taşıma ipuçları",
       "categories": [
         {
@@ -477,7 +477,7 @@
       ]
     },
     "enemiesHazards": {
-      "title": "Lucid Blocks Düşmanlar & Tehlikeler",
+      "title": "The Thing That Happened Düşmanlar & Tehlikeler",
       "subtitle": "Sizi neyin yakalayabileceğini bilin",
       "threats": [
         {
@@ -519,7 +519,7 @@
       ]
     },
     "stealthEscape": {
-      "title": "Lucid Blocks Gizlilik & Kaçış İpuçları",
+      "title": "The Thing That Happened Gizlilik & Kaçış İpuçları",
       "subtitle": "Daha fazla çalın, daha az ölün",
       "do": [
         "Gizli kalın ve nesnelerle etkileşim kurmadan önce siper alın",
@@ -549,7 +549,7 @@
       ]
     },
     "homeUpgrades": {
-      "title": "Lucid Blocks Ev Geliştirmeleri",
+      "title": "The Thing That Happened Ev Geliştirmeleri",
       "subtitle": "Üret, inşa et, yükselt",
       "branches": [
         {
@@ -607,33 +607,33 @@
       ]
     },
     "community": {
-      "title": "Lucid Blocks Topluluk & Discord",
+      "title": "The Thing That Happened Topluluk & Discord",
       "subtitle": "Kadrolar, güncellemeler, tartışmalar bulun",
       "links": [
         {
           "title": "Resmi Discord",
           "subtitle": "Duyurular • Geri Bildirim • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "url": "https://steamcommunity.com/app/2906500"
         },
         {
           "title": "Resmi X (Twitter)",
           "subtitle": "Güncellemeler & geliştirici gönderileri",
-          "url": "https://x.com/lucidblocks"
+          "url": "https://www.youtube.com/@murklmario9084"
         },
         {
           "title": "Steam Topluluk Merkezi",
           "subtitle": "Tartışmalar • Ekran Görüntüleri • Rehberler",
-          "url": "https://steamcommunity.com/app/3495730"
+          "url": "https://steamcommunity.com/app/2906500"
         },
         {
           "title": "Steam Mağaza Sayfası",
           "subtitle": "İstek Listesi • Demo • Resmi açıklama",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "url": "https://store.steampowered.com/app/2906500/The_Thing_That_Happened/"
         }
       ]
     },
     "modsBepInEx": {
-      "title": "Lucid Blocks Modlar & BepInEx Kurulumu",
+      "title": "The Thing That Happened Modlar & BepInEx Kurulumu",
       "subtitle": "Modları temiz bir şekilde kurun",
       "steps": [
         {
@@ -660,17 +660,17 @@
       "paths": [
         {
           "label": "Tipik Steam kurulumu",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "path": "Steam\\steamapps\\common\\The Thing That Happened Demo\\"
         },
         {
           "label": "Eklenti klasörü",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
+          "path": "Steam\\steamapps\\common\\The Thing That Happened Demo\\BepInEx\\plugins\\"
         }
       ],
       "multiplayerNote": "Modlanmış işbirliği oynanış özellikleri için herkes BepInEx'i ve aynı oynanış modlarını kurmalıdır."
     },
     "popularMods": {
-      "title": "Lucid Blocks Popüler Modlar",
+      "title": "The Thing That Happened Popüler Modlar",
       "subtitle": "En iyi topluluk seçimleri",
       "mods": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     "controllerSupport": {
-      "title": "Lucid Blocks Kontrol Cihazı Desteği",
+      "title": "The Thing That Happened Kontrol Cihazı Desteği",
       "subtitle": "Tam gamepad oyunu",
       "native": {
         "title": "Oyun İçi Ayarlar",
@@ -757,7 +757,7 @@
       ]
     },
     "playerCount": {
-      "title": "Lucid Blocks Oyuncu Sayısı & Trendi",
+      "title": "The Thing That Happened Oyuncu Sayısı & Trendi",
       "subtitle": "Canlı popülerlik anlık görüntüsü",
       "stats": {
         "now": {
@@ -790,43 +790,43 @@
   "faq": {
     "title": "Sıkça Sorulan",
     "titleHighlight": "Sorular",
-    "subtitle": "Lucid Blocks hakkında bilmeniz gereken her şey",
+    "subtitle": "The Thing That Happened hakkında bilmeniz gereken her şey",
     "questions": [
       {
-        "question": "Lucid Blocks demosunu nasıl indirebilirim?",
+        "question": "The Thing That Happened demosunu nasıl indirebilirim?",
         "answer": "Steam mağaza sayfasını ziyaret edin ve 'Demo İndir'e tıklayın. Demo ücretsizdir ve indirmek için 2,62 GiB, disk alanı için 4,88 GiB gerektirir."
       },
       {
-        "question": "Lucid Blocks'u tek başıma mı oynayabilirim yoksa arkadaşlara mı ihtiyacım var?",
-        "answer": "Lucid Blocks hem tek oyunculu hem de 6 oyuncuya kadar işbirliğini destekler. Tek başına oynamak daha zordur ancak mümkündür."
+        "question": "The Thing That Happened'u tek başıma mı oynayabilirim yoksa arkadaşlara mı ihtiyacım var?",
+        "answer": "The Thing That Happened hem tek oyunculu hem de 6 oyuncuya kadar işbirliğini destekler. Tek başına oynamak daha zordur ancak mümkündür."
       },
       {
-        "question": "Lucid Blocks'da Yüksek Cüce görevleri nelerdir?",
+        "question": "The Thing That Happened'da Yüksek Cüce görevleri nelerdir?",
         "answer": "Yüksek Cüce, 'TV'yi kır', 'tuvaleti su baskını yap' veya 'belirli eşyaları çal' gibi hedefler atayan patronunuzdur. Ekstra ödüller için bunları tamamlayın."
       },
       {
-        "question": "Lucid Blocks için modları nasıl kurarım?",
+        "question": "The Thing That Happened için modları nasıl kurarım?",
         "answer": "BepInEx 5'i kurun, oyunu bir kez başlatın, ardından mod DLL'lerini BepInEx/plugins/ klasörüne yerleştirin. Çok oyunculu mod için tüm oyuncuların aynı modlara ihtiyacı vardır."
       },
       {
-        "question": "Lucid Blocks kontrol cihazlarını destekliyor mu?",
+        "question": "The Thing That Happened kontrol cihazlarını destekliyor mu?",
         "answer": "Evet! Temel kontrol cihazı desteği için oyun içi ayarları kullanın veya tam UI gezinmesi için Nexus Mods'tan Kontrol Cihazı Modunu kurun."
       },
       {
-        "question": "Lucid Blocks için oyuncu sayısı nedir?",
-        "answer": "Şubat 2026 itibarıyla, Lucid Blocks ortalama 6.000'den fazla eş zamanlı oyuncuya sahip ve 8 Şubat 2026'da 15.272 zirveye ulaştı."
+        "question": "The Thing That Happened için oyuncu sayısı nedir?",
+        "answer": "Şubat 2026 itibarıyla, The Thing That Happened ortalama 6.000'den fazla eş zamanlı oyuncuya sahip ve 8 Şubat 2026'da 15.272 zirveye ulaştı."
       }
     ]
   },
   "cta": {
     "title": "Soygun Yapmaya Hazır mısınız?",
-    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Lucid Blocks topluluğuna katılın!",
+    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da The Thing That Happened topluluğuna katılın!",
     "joinCommunity": "Discord'a Katıl",
     "joinGame": "Steam'de Demo Al"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocks gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
+    "title": "The Thing That Happened Wiki",
+    "description": "The Thing That Happened gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
     "resources": "Kaynaklar",
     "community": "Topluluk",
     "legal": "Yasal",
@@ -838,15 +838,15 @@
     "privacy": "Gizlilik Politikası",
     "terms": "Hizmet Şartları",
     "copyrightNotice": "Telif Hakkı",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocks geliştiricileriyle bağlantılı değildir.",
+    "copyright": "© 2026 The Thing That Happened Wiki. The Thing That Happened geliştiricileriyle bağlantılı değildir.",
     "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Rehberleri",
+      "title": "The Thing That Happened Rehberleri",
       "description": "Başlangıç seviyesinden ileri düzey Apotheosis stratejilerine kadar eksiksiz oynanış rehberleri. Hayatta kalma ve üretimde ustalaşın.",
-      "metaTitle": "Lucid Blocks Rehberleri - Başlangıçtan İleri Düzey Stratejilere",
-      "metaDescription": "Başlangıç ipuçlarını, Apotheosis sistemini, hayatta kalma stratejilerini ve gerçeküstü sandbox dünyasında ustalaşmak için uzman taktiklerini kapsayan eksiksiz Lucid Blocks rehberleri.",
+      "metaTitle": "The Thing That Happened Rehberleri - Başlangıçtan İleri Düzey Stratejilere",
+      "metaDescription": "Başlangıç ipuçlarını, Apotheosis sistemini, hayatta kalma stratejilerini ve gerçeküstü sandbox dünyasında ustalaşmak için uzman taktiklerini kapsayan eksiksiz The Thing That Happened rehberleri.",
       "categoryLabel": "OYUN REHBERLERİ",
       "whatIs": "Rehberler Nedir?",
       "whatIsDescription": "Oynanış mekaniklerini, hayatta kalma stratejilerini ve Apotheosis üretim sistemini kapsayan kapsamlı rehberler. İlk adımlardan ileri tekniklere kadar her şeyi öğrenin.",
@@ -863,10 +863,10 @@
       "all": "Tüm Rehberler"
     },
     "crafting": {
-      "title": "Lucid Blocks Üretim",
+      "title": "The Thing That Happened Üretim",
       "description": "Öz mekanikleri, tarifler ve güçlü eşyalar için üretim stratejileri ile Apotheosis füzyon sisteminde ustalaşın.",
-      "metaTitle": "Lucid Blocks Üretim - Apotheosis Sistemi ve Tarifler",
-      "metaDescription": "Lucid Blocks Apotheosis üretim sisteminde ustalaşın. Öz mekaniklerini, füzyon tariflerini ve güçlü araçlar ile silahlar oluşturma stratejilerini öğrenin.",
+      "metaTitle": "The Thing That Happened Üretim - Apotheosis Sistemi ve Tarifler",
+      "metaDescription": "The Thing That Happened Apotheosis üretim sisteminde ustalaşın. Öz mekaniklerini, füzyon tariflerini ve güçlü araçlar ile silahlar oluşturma stratejilerini öğrenin.",
       "categoryLabel": "ÜRETİM SİSTEMİ",
       "whatIs": "Üretim Nedir?",
       "whatIsDescription": "Apotheosis sistemi, yeni tarifler keşfetmek için altı adede kadar eşyayı birleştirdiğiniz benzersiz bir öz odaklı füzyon mekaniğidir. Sabit üretim menüleri yoktur; deney yapmak anahtardır.",
@@ -883,10 +883,10 @@
       "all": "Tüm Üretim Rehberleri"
     },
     "items": {
-      "title": "Lucid Blocks Eşyaları",
+      "title": "The Thing That Happened Eşyaları",
       "description": "Üretim tarifleri ve kullanım ipuçlarıyla birlikte araçları, silahları, hareket ekipmanlarını ve depolama çözümlerini kapsayan ayrıntılı eşya rehberleri.",
-      "metaTitle": "Lucid Blocks Eşyaları - Araçlar, Silahlar ve Ekipman Rehberi",
-      "metaDescription": "Araçlar, silahlar, hareket ekipmanları ve depolama dahil olmak üzere Lucid Blocks için eksiksiz eşya veritabanı. Her eşyayı nasıl üreteceğinizi ve etkili bir şekilde kullanacağınızı öğrenin.",
+      "metaTitle": "The Thing That Happened Eşyaları - Araçlar, Silahlar ve Ekipman Rehberi",
+      "metaDescription": "Araçlar, silahlar, hareket ekipmanları ve depolama dahil olmak üzere The Thing That Happened için eksiksiz eşya veritabanı. Her eşyayı nasıl üreteceğinizi ve etkili bir şekilde kullanacağınızı öğrenin.",
       "categoryLabel": "EŞYALAR VE EKİPMANLAR",
       "whatIs": "Eşyalar Nedir?",
       "whatIsDescription": "Araçlar, silahlar, hareket ekipmanları ve işlevsel eşyalar için kapsamlı rehberler. Üretim tariflerini, kullanım stratejilerini ve en uygun kombinasyonları öğrenin.",
@@ -903,10 +903,10 @@
       "all": "Tüm Eşyalar"
     },
     "biomes": {
-      "title": "Lucid Blocks Biyomları",
+      "title": "The Thing That Happened Biyomları",
       "description": "Her biyom için dünya bölgelerini, çevresel özellikleri, kaynak konumlarını ve hayatta kalma ipuçlarını keşfedin.",
-      "metaTitle": "Lucid Blocks Biyomları - Dünya Bölgeleri ve Keşif",
-      "metaDescription": "Tiamana Leylines, Fog Meadow ve gerçeküstü bölgeler dahil olmak üzere Lucid Blocks biyomlarını keşfedin. Kaynakları bulun, tehlikelerden kaçının ve sonsuz dünyada gezinin.",
+      "metaTitle": "The Thing That Happened Biyomları - Dünya Bölgeleri ve Keşif",
+      "metaDescription": "Tiamana Leylines, Fog Meadow ve gerçeküstü bölgeler dahil olmak üzere The Thing That Happened biyomlarını keşfedin. Kaynakları bulun, tehlikelerden kaçının ve sonsuz dünyada gezinin.",
       "categoryLabel": "DÜNYA BÖLGELERİ",
       "whatIs": "Biyomlar Nedir?",
       "whatIsDescription": "Farklı dünya bölgeleri, çevresel özellikler, kaynak dağılımı ve tehlike bölgeleri rehberleri. Her alan için ne bekleyeceğinizi ve nasıl hazırlanacağınızı öğrenin.",
@@ -923,10 +923,10 @@
       "all": "Tüm Biyomlar"
     },
     "building": {
-      "title": "Lucid Blocks İnşa Etme",
+      "title": "The Thing That Happened İnşa Etme",
       "description": "Master Qualia kişisel boyutları, üs inşası, depolama yönetimi ve yaratıcı inşa tekniklerinde ustalaşın.",
-      "metaTitle": "Lucid Blocks İnşa Etme - Qualia ve Üs İnşası",
-      "metaDescription": "Qualia kişisel boyutları, üs inşası, depolama çözümleri ve yaratıcı inşa teknikleri ile Lucid Blocks inşa etme sisteminde ustalaşın.",
+      "metaTitle": "The Thing That Happened İnşa Etme - Qualia ve Üs İnşası",
+      "metaDescription": "Qualia kişisel boyutları, üs inşası, depolama çözümleri ve yaratıcı inşa teknikleri ile The Thing That Happened inşa etme sisteminde ustalaşın.",
       "categoryLabel": "İNŞA VE ÜSLER",
       "whatIs": "İnşa Etme Nedir?",
       "whatIsDescription": "Qualia kişisel boyut sistemi, üs inşası, depolama yönetimi ve yaratıcı inşa rehberleri. Gerçeküstü dünyada güvenli limanınızı oluşturmayı öğrenin.",
@@ -943,10 +943,10 @@
       "all": "Tüm İnşa Rehberleri"
     },
     "support": {
-      "title": "Lucid Blocks Destek",
+      "title": "The Thing That Happened Destek",
       "description": "Teknik destek, platform uyumluluğu, performans optimizasyonu ve yaygın sorunlar için sorun giderme.",
-      "metaTitle": "Lucid Blocks Destek - Teknik Yardım ve Çözümler",
-      "metaDescription": "Steam Deck kurulumu, çökme düzeltmeleri, performans optimizasyonu ve platform uyumluluk rehberleri dahil olmak üzere Lucid Blocks için teknik destek alın.",
+      "metaTitle": "The Thing That Happened Destek - Teknik Yardım ve Çözümler",
+      "metaDescription": "Steam Deck kurulumu, çökme düzeltmeleri, performans optimizasyonu ve platform uyumluluk rehberleri dahil olmak üzere The Thing That Happened için teknik destek alın.",
       "categoryLabel": "TEKNİK DESTEK",
       "whatIs": "Destek Nedir?",
       "whatIsDescription": "Platform uyumluluğu, performans optimizasyonu, çökme düzeltmeleri ve yaygın sorunları kapsayan teknik rehberler. Steam Deck, çok oyunculu soruları ve ayarlar hakkında yardım alın.",

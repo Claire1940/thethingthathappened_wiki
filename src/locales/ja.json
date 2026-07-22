@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "description": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
-      "ogTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "ogDescription": "Lucid Blocks Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
-      "twitterTitle": "Lucid Blocks Wiki - クラフト、バイオーム、実績",
-      "twitterDescription": "Lucid Blocks Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
+      "title": "The Thing That Happened Wiki - クラフト、バイオーム、実績",
+      "description": "The Thing That Happened Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
+      "keywords": "The Thing That Happened, The Thing That Happened wiki, クラフト, バイオーム, 実績, サバイバル, Steam",
+      "ogTitle": "The Thing That Happened Wiki - クラフト、バイオーム、実績",
+      "ogDescription": "The Thing That Happened Wikiでは、Steamで展開される超現実的なボクセルサンドボックスアドベンチャーのクラフト、バイオーム、クリーチャー、アイテム、実績、エンディング、サバイバルのヒントについて解説しています。",
+      "twitterTitle": "The Thing That Happened Wiki - クラフト、バイオーム、実績",
+      "twitterDescription": "The Thing That Happened Wikiでは、Steamの超現実的なボクセルサンドボックスにおけるクラフト、バイオーム、クリーチャー、アイテム、実績、サバイバルのヒントを網羅しています。"
     }
   },
   "nav": {
@@ -35,7 +35,7 @@
   },
   "hero": {
     "badge": "__PROTECTED_c0b0161c__ ボクセル・サバイバル・サンドボックス",
-    "title": "Lucid Blocks Wiki",
+    "title": "The Thing That Happened Wiki",
     "description": "夢のようなバイオームを探索し、Apotheosisでアイテムを融合、自由に建築を楽しみましょう。Steamで繰り広げられるこのシュールなオープンワールド・サンドボックスで、奇妙なクリーチャーから生き延びてください。",
     "getFreeCodesCTA": "クラフトガイドを見る",
     "playOnSteamCTA": "Steamでプレイ",
@@ -59,13 +59,13 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks ゲームプレイ",
+    "title": "The Thing That Happened ゲームプレイ",
     "description": "超現実的なバイオームを探索し、Apotheosis でアイテムを融合。Steam で、奇妙なクリーチャーから生き延びる夢のようなボクセルサンドボックスを体験しましょう。"
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "The Thing That Happened",
     "titleHighlight": "リソース",
-    "subtitle": "Lucid Blocksでの探索、クラフト、生存に必要なすべての情報",
+    "subtitle": "The Thing That Happenedでの探索、クラフト、生存に必要なすべての情報",
     "cards": [
       {
         "icon": "BookOpen",
@@ -151,9 +151,9 @@
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks 初心者ガイド",
+      "title": "The Thing That Happened 初心者ガイド",
       "displayType": "steps",
-      "intro": "まずは探索、融合、そして進行がどのように繋がっているかを学ぶことから始めましょう。Lucid Blocks では試行錯誤が報われます。序盤の進行は、珍しい素材を集め、組み合わせを試し、自分だけのクオリアを解放することから始まります。",
+      "intro": "まずは探索、融合、そして進行がどのように繋がっているかを学ぶことから始めましょう。The Thing That Happened では試行錯誤が報われます。序盤の進行は、珍しい素材を集め、組み合わせを試し、自分だけのクオリアを解放することから始まります。",
       "steps": [
         {
           "title": "本格的に動く前に探索する",
@@ -169,7 +169,7 @@
         },
         {
           "title": "優れた融合を記録する",
-          "description": "成功した組み合わせはジャーナルに記録しておきましょう。Lucid Blocks には膨大な融合パターンがあるため、有用な結果を書き留めておくことで大幅な時間の節約になります。"
+          "description": "成功した組み合わせはジャーナルに記録しておきましょう。The Thing That Happened には膨大な融合パターンがあるため、有用な結果を書き留めておくことで大幅な時間の節約になります。"
         }
       ],
       "quickTips": [
@@ -180,7 +180,7 @@
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis クラフト",
+      "title": "The Thing That Happened Apotheosis クラフト",
       "displayType": "cards",
       "intro": "Apotheosis は、このゲームの制限のない融合システムです。従来のレシピ本を暗記する代わりに、素材を組み合わせ、結果を観察し、時間をかけて自分だけのクラフト知識を築き上げていきます。",
       "cards": [
@@ -208,9 +208,9 @@
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks ツールと武器",
+      "title": "The Thing That Happened ツールと武器",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks では、公式のユーティリティ装備とコミュニティが発見した序盤の武器が混在しています。最適なセットアップは通常、素早い採掘、安全な移動、そして信頼できる戦闘手段を組み合わせたものです。",
+      "intro": "The Thing That Happened では、公式のユーティリティ装備とコミュニティが発見した序盤の武器が混在しています。最適なセットアップは通常、素早い採掘、安全な移動、そして信頼できる戦闘手段を組み合わせたものです。",
       "items": [
         {
           "name": "フロストピック",
@@ -255,9 +255,9 @@
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks ストレージとインベントリ",
+      "title": "The Thing That Happened ストレージとインベントリ",
       "displayType": "solutionCards",
-      "intro": "Lucid Blocks では早い段階からインベントリが圧迫されるため、ストレージの構築を優先目標にすべきです。実際のプレイヤーによって検証されたいくつかの解決策がすでに確立されています。",
+      "intro": "The Thing That Happened では早い段階からインベントリが圧迫されるため、ストレージの構築を優先目標にすべきです。実際のプレイヤーによって検証されたいくつかの解決策がすでに確立されています。",
       "solutions": [
         {
           "name": "キャッシュキューブ",
@@ -288,9 +288,9 @@
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks クオリアと拠点建築",
+      "title": "The Thing That Happened クオリアと拠点建築",
       "displayType": "cards",
-      "intro": "クオリアは Lucid Blocks における最も重要な進行マイルストーンの一つです。体制を整え、素材を保管し、探索の成果を徐々に本格的な拠点へと変えていくための個人空間を提供します。",
+      "intro": "クオリアは The Thing That Happened における最も重要な進行マイルストーンの一つです。体制を整え、素材を保管し、探索の成果を徐々に本格的な拠点へと変えていくための個人空間を提供します。",
       "cards": [
         {
           "name": "個人用クオリア",
@@ -302,7 +302,7 @@
         },
         {
           "name": "クリエイティブな自宅建築",
-          "description": "Lucid Blocks はクリエイティブな建築をサポートしており、プレイヤーはすでにクオリアの空間を利用して家やパーソナライズされたレイアウトを作成しています。"
+          "description": "The Thing That Happened はクリエイティブな建築をサポートしており、プレイヤーはすでにクオリアの空間を利用して家やパーソナライズされたレイアウトを作成しています。"
         },
         {
           "name": "進行のハブ",
@@ -317,9 +317,9 @@
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks 世界の地域",
+      "title": "The Thing That Happened 世界の地域",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks は無限の世界生成を採用しているため、プレイヤーは常に新しい環境や構造物を発見し続けています。実績やコミュニティの議論には、すでにいくつかの地名が登場しています。",
+      "intro": "The Thing That Happened は無限の世界生成を採用しているため、プレイヤーは常に新しい環境や構造物を発見し続けています。実績やコミュニティの議論には、すでにいくつかの地名が登場しています。",
       "regions": [
         {
           "name": "Fog Meadow",
@@ -344,9 +344,9 @@
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks クリーチャーと敵",
+      "title": "The Thing That Happened クリーチャーと敵",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks は超現実的なクリーチャーと現実的な危険が混ざり合っています。公式の説明やコミュニティの投稿は、奇妙な生命、敵対的な脅威、そしてプレイヤーがすぐに覚えるような印象的な遭遇に満ちた世界を指し示しています。",
+      "intro": "The Thing That Happened は超現実的なクリーチャーと現実的な危険が混ざり合っています。公式の説明やコミュニティの投稿は、奇妙な生命、敵対的な脅威、そしてプレイヤーがすぐに覚えるような印象的な遭遇に満ちた世界を指し示しています。",
       "creatures": [
         {
           "name": "マネキン",
@@ -386,9 +386,9 @@
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks 移動装備",
+      "title": "The Thing That Happened 移動装備",
       "displayType": "itemCards",
-      "intro": "移動手段のアップグレードは、Lucid Blocks におけるプレイの快適さを最も大きく向上させる要素の一つです。最初の移動ツールを解放すれば、探索はより速く、より安全に、そしてより実りあるものになります。",
+      "intro": "移動手段のアップグレードは、The Thing That Happened におけるプレイの快適さを最も大きく向上させる要素の一つです。最初の移動ツールを解放すれば、探索はより速く、より安全に、そしてより実りあるものになります。",
       "items": [
         {
           "name": "__PROTECTED_6a765cb2__",
@@ -429,9 +429,9 @@
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks 農業と成長",
+      "title": "The Thing That Happened 農業と成長",
       "displayType": "mixedCards",
-      "intro": "成長は Lucid Blocks における真の進行の一部です。農業は単に植えて収穫するだけでなく、ツール、武器、クラフトの選択肢を維持するための反復可能な素材ルートを確立することでもあります。",
+      "intro": "成長は The Thing That Happened における真の進行の一部です。農業は単に植えて収穫するだけでなく、ツール、武器、クラフトの選択肢を維持するための反復可能な素材ルートを確立することでもあります。",
       "sections": [
         {
           "name": "種の進行",
@@ -458,9 +458,9 @@
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks おすすめの序盤解放要素",
+      "title": "The Thing That Happened おすすめの序盤解放要素",
       "displayType": "priorityCards",
-      "intro": "最強の序盤解放要素は、安全性、ストレージ、そして移動能力を向上させるものです。Lucid Blocks では、いくつかの実用的なアップグレードがその後のゲームプレイ全体を非常にスムーズにします。",
+      "intro": "最強の序盤解放要素は、安全性、ストレージ、そして移動能力を向上させるものです。The Thing That Happened では、いくつかの実用的なアップグレードがその後のゲームプレイ全体を非常にスムーズにします。",
       "priorities": [
         {
           "name": "個人用クオリア",
@@ -495,9 +495,9 @@
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks 実績トラッカー",
+      "title": "The Thing That Happened 実績トラッカー",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks には現在 19 個の Steam 実績があり、それらは探索、クラフト、移動、戦闘、成長の進行に自然に分類されます。",
+      "intro": "The Thing That Happened には現在 19 個の Steam 実績があり、それらは探索、クラフト、移動、戦闘、成長の進行に自然に分類されます。",
       "groups": [
         {
           "name": "探索",
@@ -603,36 +603,36 @@
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks シングルプレイヤーおよびプラットフォーム FAQ",
+      "title": "The Thing That Happened シングルプレイヤーおよびプラットフォーム FAQ",
       "displayType": "accordion",
-      "intro": "これらは、Lucid Blocks を購入する前にプレイヤーからよく寄せられる、プラットフォームとアクセスに関する核心的な質問です。",
+      "intro": "これらは、The Thing That Happened を購入する前にプレイヤーからよく寄せられる、プラットフォームとアクセスに関する核心的な質問です。",
       "faqs": [
         {
-          "question": "Lucid Blocks はシングルプレイヤーですか？",
-          "answer": "はい。Lucid Blocks はシングルプレイヤー専用ゲームです。"
+          "question": "The Thing That Happened はシングルプレイヤーですか？",
+          "answer": "はい。The Thing That Happened はシングルプレイヤー専用ゲームです。"
         },
         {
           "question": "マルチプレイヤーや協力プレイの予定はありますか？",
           "answer": "いいえ。リリース時および将来のアップデートにおいて、マルチプレイヤーの予定はありません。"
         },
         {
-          "question": "Lucid Blocks はどこでプレイできますか？",
+          "question": "The Thing That Happened はどこでプレイできますか？",
           "answer": "現在は Windows 用に Steam で配信されています。"
         },
         {
-          "question": "Lucid Blocks の価格はいくらですか？",
+          "question": "The Thing That Happened の価格はいくらですか？",
           "answer": "Steam で 9.99 ドルです。"
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
+          "question": "The Thing That Happened はコントローラーに対応していますか？",
           "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
         },
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
+          "question": "The Thing That Happened は Steam Deck で動作しますか？",
           "answer": "はい。Steam Deck では、Proton 9.0 または 9.0.4 の使用が一般的に推奨されています。"
         },
         {
-          "question": "Lucid Blocks は Linux で動作しますか？",
+          "question": "The Thing That Happened は Linux で動作しますか？",
           "answer": "はい。Linux および Steam Deck において、Proton 9.0 で良好に動作することが報告されています。"
         },
         {
@@ -640,22 +640,22 @@
           "answer": "将来的にサポートされる可能性はありますが、現時点でのローンチプラットフォームではありません。"
         },
         {
-          "question": "Lucid Blocks に翻訳はありますか？",
+          "question": "The Thing That Happened に翻訳はありますか？",
           "answer": "いいえ。現在、翻訳の予定はありません。"
         },
         {
-          "question": "Lucid Blocks はアップデートされ続けますか？",
+          "question": "The Thing That Happened はアップデートされ続けますか？",
           "answer": "はい。リリース後にいくつかのコンテンツアップデートが予定されていますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck とコントローラー",
+      "title": "The Thing That Happened Steam Deck とコントローラー",
       "displayType": "accordion",
-      "intro": "Lucid Blocks は Steam Deck で動作しますが、デフォルト設定では調整が必要な場合があります。メニュー操作や一般的なプレイにおいては、キーボードとマウスの方がスムーズです。",
+      "intro": "The Thing That Happened は Steam Deck で動作しますが、デフォルト設定では調整が必要な場合があります。メニュー操作や一般的なプレイにおいては、キーボードとマウスの方がスムーズです。",
       "faqs": [
         {
-          "question": "Lucid Blocks は Steam Deck で動作しますか？",
+          "question": "The Thing That Happened は Steam Deck で動作しますか？",
           "answer": "はい。Proton 9.0 で良好に動作します。また、Proton 9.0.4 は Steam Deck の問題に対する一般的な修正方法として共有されています。"
         },
         {
@@ -663,7 +663,7 @@
           "answer": "互換性設定を強制し、ゲームを Proton 9.0.4 に切り替えてください。デフォルト設定ではコントローラー入力が正しく受け付けられない場合があります。"
         },
         {
-          "question": "Lucid Blocks はコントローラーに対応していますか？",
+          "question": "The Thing That Happened はコントローラーに対応していますか？",
           "answer": "はい。ただし、ゲームのメニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。"
         },
         {
@@ -677,9 +677,9 @@
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks 設定とアクセシビリティ",
+      "title": "The Thing That Happened 設定とアクセシビリティ",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks には、プレイヤーが最初にゲームを起動した際に重要となる、いくつかの実用的な設定と互換性に関する注意点があります。",
+      "intro": "The Thing That Happened には、プレイヤーが最初にゲームを起動した際に重要となる、いくつかの実用的な設定と互換性に関する注意点があります。",
       "settings": [
         {
           "name": "ディスプレイ設定",
@@ -704,9 +704,9 @@
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks アップデートとパッチノート",
+      "title": "The Thing That Happened アップデートとパッチノート",
       "displayType": "timeline",
-      "intro": "Lucid Blocks では、リリース直後の迅速な修正や小規模なユーザビリティのアップデートがすでに行われています。",
+      "intro": "The Thing That Happened では、リリース直後の迅速な修正や小規模なユーザビリティのアップデートがすでに行われています。",
       "entries": [
         {
           "title": "アップデート 2.8.2",
@@ -726,7 +726,7 @@
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks クラッシュ修正とトラブルシューティング",
+      "title": "The Thing That Happened クラッシュ修正とトラブルシューティング",
       "displayType": "steps",
       "intro": "起動時やクラッシュに関する差し迫った問題は、パッチレベル、グラフィックスサポート、プラットフォームの互換性、ログの順に確認してください。",
       "steps": [
@@ -736,7 +736,7 @@
         },
         {
           "title": "__PROTECTED_38625270__ のサポートを確認する",
-          "description": "Lucid Blocks には __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや重大なレンダリングの問題が発生する可能性があります。"
+          "description": "The Thing That Happened には __PROTECTED_38625270__ のサポートが必要です。__PROTECTED_38625270__ に対応していないシステムでは、クラッシュや重大なレンダリングの問題が発生する可能性があります。"
         },
         {
           "title": "Steam Deck で Proton 9.0.4 を使用する",
@@ -756,43 +756,43 @@
   "faq": {
     "title": "よくある",
     "titleHighlight": "質問",
-    "subtitle": "Lucid Blocks に関するすべての情報",
+    "subtitle": "The Thing That Happened に関するすべての情報",
     "questions": [
       {
-        "question": "Lucid Blocks はシングルプレイヤーゲームですか？",
-        "answer": "はい。Lucid Blocks はシングルプレイヤー専用のゲームであり、マルチプレイヤーや協力プレイの予定はありません。"
+        "question": "The Thing That Happened はシングルプレイヤーゲームですか？",
+        "answer": "はい。The Thing That Happened はシングルプレイヤー専用のゲームであり、マルチプレイヤーや協力プレイの予定はありません。"
       },
       {
-        "question": "Lucid Blocks における Apotheosis システムとは何ですか？",
-        "answer": "Apotheosis は Lucid Blocks のフリーフォーム・フュージョン・クラフトシステムです。決まったレシピに従うのではなく、素材を組み合わせて独自のクラフトパスを発見していきます。"
+        "question": "The Thing That Happened における Apotheosis システムとは何ですか？",
+        "answer": "Apotheosis は The Thing That Happened のフリーフォーム・フュージョン・クラフトシステムです。決まったレシピに従うのではなく、素材を組み合わせて独自のクラフトパスを発見していきます。"
       },
       {
-        "question": "Lucid Blocks はどこでプレイできますか？",
-        "answer": "Lucid Blocks は現在、Windows向けに Steam で配信されています。Linuxおよび Steam Deckへの対応は、Proton 9.0を通じて提供されています。"
+        "question": "The Thing That Happened はどこでプレイできますか？",
+        "answer": "The Thing That Happened は現在、Windows向けに Steam で配信されています。Linuxおよび Steam Deckへの対応は、Proton 9.0を通じて提供されています。"
       },
       {
-        "question": "Lucid Blocks の価格はいくらですか？",
-        "answer": "Lucid Blocks は Steam で9.99ドルです。"
+        "question": "The Thing That Happened の価格はいくらですか？",
+        "answer": "The Thing That Happened は Steam で9.99ドルです。"
       },
       {
-        "question": "Lucid Blocks はコントローラーに対応していますか？",
+        "question": "The Thing That Happened はコントローラーに対応していますか？",
         "answer": "はい。ただし、メニューがコントローラー操作を前提に設計されていないため、コントローラーでのプレイは推奨されません。キーボードとマウスの方がスムーズに操作できます。"
       },
       {
-        "question": "Lucid Blocks のアップデートはありますか？",
+        "question": "The Thing That Happened のアップデートはありますか？",
         "answer": "はい。リリース後にいくつかのコンテンツアップデートを予定していますが、無期限に定期的なスケジュールで継続することを意図したものではありません。"
       }
     ]
   },
   "cta": {
-    "title": "Lucid Blocksを探索する準備はできましたか？",
-    "description": "DiscordのLucid Blocksコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
+    "title": "The Thing That Happenedを探索する準備はできましたか？",
+    "description": "DiscordのThe Thing That Happenedコミュニティに参加して、ガイドや最新情報、ディスカッションをチェックしましょう！",
     "joinCommunity": "Discordに参加",
     "joinGame": "Steamでプレイ"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocksのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
+    "title": "The Thing That Happened Wiki",
+    "description": "The Thing That Happenedのクラフト、バイオーム、クリーチャー、実績、サバイバルガイドに関する完全なリソースハブです。",
     "resources": "リソース",
     "community": "コミュニティ",
     "legal": "法的情報",
@@ -804,15 +804,15 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "copyrightNotice": "著作権",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocksの開発元とは提携していません。",
+    "copyright": "© 2026 The Thing That Happened Wiki. The Thing That Happenedの開発元とは提携していません。",
     "disclaimer": "非公式のファン作成リソースサイトです。"
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks 攻略ガイド",
+      "title": "The Thing That Happened 攻略ガイド",
       "description": "初心者向けの基本から、高度な Apotheosis 戦略まで網羅した完全攻略ガイド。サバイバルとクラフトを極めましょう。",
-      "metaTitle": "Lucid Blocks 攻略ガイド - 初心者から上級者向けの戦略",
-      "metaDescription": "初心者向けのヒント、Apotheosis システム、サバイバル戦略、そしてシュールなサンドボックスの世界を攻略するための専門的な戦術を網羅した Lucid Blocks 完全ガイド。",
+      "metaTitle": "The Thing That Happened 攻略ガイド - 初心者から上級者向けの戦略",
+      "metaDescription": "初心者向けのヒント、Apotheosis システム、サバイバル戦略、そしてシュールなサンドボックスの世界を攻略するための専門的な戦術を網羅した The Thing That Happened 完全ガイド。",
       "categoryLabel": "ゲームガイド",
       "whatIs": "ガイドとは？",
       "whatIsDescription": "ゲームの仕組み、サバイバル戦略、Apotheosis クラフトシステムを網羅した包括的なガイド。最初の一歩から高度なテクニックまで、すべてを学びましょう。",
@@ -829,10 +829,10 @@
       "all": "すべてのガイド"
     },
     "crafting": {
-      "title": "Lucid Blocks クラフト",
+      "title": "The Thing That Happened クラフト",
       "description": "エッセンスの仕組み、レシピ、強力なアイテムを作るためのクラフト戦略など、Apotheosis 合成システムをマスターしましょう。",
-      "metaTitle": "Lucid Blocks クラフト - Apotheosis システムとレシピ",
-      "metaDescription": "Lucid Blocks の Apotheosis クラフトシステムを極める。エッセンスの仕組み、合成レシピ、強力な道具や武器を作るための戦略を学びましょう。",
+      "metaTitle": "The Thing That Happened クラフト - Apotheosis システムとレシピ",
+      "metaDescription": "The Thing That Happened の Apotheosis クラフトシステムを極める。エッセンスの仕組み、合成レシピ、強力な道具や武器を作るための戦略を学びましょう。",
       "categoryLabel": "クラフトシステム",
       "whatIs": "クラフトとは？",
       "whatIsDescription": "Apotheosis システムは、最大6つのアイテムを組み合わせて新しいレシピを発見する、独自のエッセンス駆動型合成メカニズムです。固定されたクラフトメニューはなく、実験が鍵となります。",
@@ -849,10 +849,10 @@
       "all": "すべてのクラフトガイド"
     },
     "items": {
-      "title": "Lucid Blocks アイテム",
+      "title": "The Thing That Happened アイテム",
       "description": "道具、武器、移動用装備、収納ソリューションを網羅した詳細なアイテムガイド。クラフトレシピや使い方のヒントも掲載。",
-      "metaTitle": "Lucid Blocks アイテム - 道具、武器、装備ガイド",
-      "metaDescription": "道具、武器、移動用装備、収納を含む Lucid Blocks の完全アイテムデータベース。各アイテムを効果的に作り、使用する方法を学びましょう。",
+      "metaTitle": "The Thing That Happened アイテム - 道具、武器、装備ガイド",
+      "metaDescription": "道具、武器、移動用装備、収納を含む The Thing That Happened の完全アイテムデータベース。各アイテムを効果的に作り、使用する方法を学びましょう。",
       "categoryLabel": "アイテム＆装備",
       "whatIs": "アイテムとは？",
       "whatIsDescription": "道具、武器、移動用装備、機能的なアイテムに関する包括的なガイド。クラフトレシピ、使用戦略、最適な組み合わせを学びましょう。",
@@ -869,10 +869,10 @@
       "all": "すべてのアイテム"
     },
     "biomes": {
-      "title": "Lucid Blocks バイオーム",
+      "title": "The Thing That Happened バイオーム",
       "description": "世界の各地域、環境の特徴、リソースの場所、各バイオームでのサバイバルのヒントを探索しましょう。",
-      "metaTitle": "Lucid Blocks バイオーム - 世界の地域と探索",
-      "metaDescription": "ティアマナ・レイライン、Fog Meadow、シュールな地域を含む Lucid Blocks のバイオームを探索。リソースを見つけ、危険を回避し、無限の世界を旅しましょう。",
+      "metaTitle": "The Thing That Happened バイオーム - 世界の地域と探索",
+      "metaDescription": "ティアマナ・レイライン、Fog Meadow、シュールな地域を含む The Thing That Happened のバイオームを探索。リソースを見つけ、危険を回避し、無限の世界を旅しましょう。",
       "categoryLabel": "世界の地域",
       "whatIs": "バイオームとは？",
       "whatIsDescription": "世界のさまざまな地域、環境の特徴、リソースの分布、危険地帯に関するガイド。各エリアで何が待ち受けているか、どのように準備すべきかを学びましょう。",
@@ -889,10 +889,10 @@
       "all": "すべてのバイオーム"
     },
     "building": {
-      "title": "Lucid Blocks 建築",
+      "title": "The Thing That Happened 建築",
       "description": "クオリア個人次元、拠点建築、収納管理、クリエイティブな建設テクニックをマスターしましょう。",
-      "metaTitle": "Lucid Blocks 建築 - クオリアと拠点建設",
-      "metaDescription": "クオリア個人次元、拠点建設、収納ソリューション、クリエイティブな建築テクニックなど、Lucid Blocks の建築を極めましょう。",
+      "metaTitle": "The Thing That Happened 建築 - クオリアと拠点建設",
+      "metaDescription": "クオリア個人次元、拠点建設、収納ソリューション、クリエイティブな建築テクニックなど、The Thing That Happened の建築を極めましょう。",
       "categoryLabel": "建築＆拠点",
       "whatIs": "建築とは？",
       "whatIsDescription": "クオリア個人次元システム、拠点建設、収納管理、クリエイティブな建築に関するガイド。シュールな世界の中に自分だけの安息の地を作る方法を学びましょう。",
@@ -909,10 +909,10 @@
       "all": "すべての建築ガイド"
     },
     "support": {
-      "title": "Lucid Blocks サポート",
+      "title": "The Thing That Happened サポート",
       "description": "テクニカルサポート、プラットフォームの互換性、パフォーマンスの最適化、一般的な問題のトラブルシューティング。",
-      "metaTitle": "Lucid Blocks サポート - テクニカルヘルプと修正",
-      "metaDescription": "Steam Deck のセットアップ、クラッシュの修正、パフォーマンスの最適化、プラットフォームの互換性ガイドなど、Lucid Blocks のテクニカルサポートを受けられます。",
+      "metaTitle": "The Thing That Happened サポート - テクニカルヘルプと修正",
+      "metaDescription": "Steam Deck のセットアップ、クラッシュの修正、パフォーマンスの最適化、プラットフォームの互換性ガイドなど、The Thing That Happened のテクニカルサポートを受けられます。",
       "categoryLabel": "テクニカルサポート",
       "whatIs": "サポートとは？",
       "whatIsDescription": "プラットフォームの互換性、パフォーマンスの最適化、クラッシュの修正、一般的な問題を網羅したテクニカルガイド。Steam Deck、マルチプレイヤーに関する質問、設定などのヘルプ。",

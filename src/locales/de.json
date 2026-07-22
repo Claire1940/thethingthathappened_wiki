@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "The Thing That Happened Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
+      "description": "Vollständige The Thing That Happened Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
+      "keywords": "The Thing That Happened Wiki, The Thing That Happened, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
+      "ogTitle": "The Thing That Happened Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
+      "ogDescription": "Vollständige The Thing That Happened Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
+      "twitterTitle": "The Thing That Happened Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
+      "twitterDescription": "Vollständige The Thing That Happened Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
     }
   },
   "nav": {
@@ -35,8 +35,8 @@
   },
   "hero": {
     "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
+    "title": "The Thing That Happened Wiki",
+    "description": "Deine zentrale Anlaufstelle für The Thing That Happened: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
     "getFreeCodesCTA": "Demo herunterladen",
     "playOnSteamCTA": "Auf die Wunschliste bei Steam",
     "stats": {
@@ -59,11 +59,11 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
+    "title": "The Thing That Happened Gameplay",
     "description": "Sieh dir an, wie winzige Gnome in chaotischen 6-Spieler-Koop-Stealth-Missionen große Raubzüge durchführen!"
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "The Thing That Happened",
     "titleHighlight": "Ressourcen",
     "subtitle": "Alles, was du brauchst, um Raubzüge und Koop-Stealth zu meistern",
     "cards": [
@@ -151,7 +151,7 @@
   },
   "modules": {
     "demoDownload": {
-      "title": "Lucid Blocks Demo-Download",
+      "title": "The Thing That Happened Demo-Download",
       "subtitle": "Hol dir die kostenlose Demo auf Steam",
       "downloadSize": "2,62 GiB",
       "diskSize": "4,88 GiB",
@@ -161,7 +161,7 @@
       "engine": "Unity",
       "primaryCTA": "Demo herunterladen",
       "secondaryCTA": "Technische Infos ansehen",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
+      "installPath": "Steam\\steamapps\\common\\The Thing That Happened Demo",
       "sections": [
         {
           "heading": "Wo man es herunterladen kann",
@@ -180,7 +180,7 @@
       ]
     },
     "beginnerGuide": {
-      "title": "Lucid Blocks Anfängerleitfaden",
+      "title": "The Thing That Happened Anfängerleitfaden",
       "subtitle": "Meistere die Kernschleife und vermeide häufige Fehler",
       "steps": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     "coopGuide": {
-      "title": "Lucid Blocks Koop-Leitfaden",
+      "title": "The Thing That Happened Koop-Leitfaden",
       "subtitle": "Koordiniere dich mit bis zu 6 Spielern für maximales Chaos",
       "maxPlayers": 6,
       "roles": [
@@ -262,7 +262,7 @@
       "communication": "Verwende Voice-Chat (V-Taste), um Aufgaben und Rettungen zu koordinieren. Rufe: \"Entdeckt\", \"Route\", \"Brauche Rettung\", \"Bald extrahieren\"."
     },
     "tasksObjectives": {
-      "title": "Lucid Blocks Aufgaben & Ziele",
+      "title": "The Thing That Happened Aufgaben & Ziele",
       "subtitle": "Was der High-Gnome will: Aufgabenbeispiele",
       "taskTypes": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     "controlsKeybinds": {
-      "title": "Lucid Blocks Steuerung & Tastenbelegung",
+      "title": "The Thing That Happened Steuerung & Tastenbelegung",
       "subtitle": "Standard-Tastatursteuerung (und wo man sie ändern kann)",
       "keybinds": [
         {
@@ -372,7 +372,7 @@
       "changePath": "Vom Titelmenü aus: öffne EINSTELLUNGEN und überprüfe dann die Tastatureinstellungen. Verwende das Suchfeld, um die Tastenbelegungszeilen zu filtern."
     },
     "contentSettings": {
-      "title": "Lucid Blocks Inhaltseinstellungen",
+      "title": "The Thing That Happened Inhaltseinstellungen",
       "subtitle": "Inhalte für Erwachsene, Nacktheit-Umschaltung und Steam-Einstellungen",
       "descriptors": [
         "Etwas Nacktheit oder sexuelle Inhalte",
@@ -397,7 +397,7 @@
       ]
     },
     "craftingEquipment": {
-      "title": "Lucid Blocks Crafting & Ausrüstung",
+      "title": "The Thing That Happened Crafting & Ausrüstung",
       "subtitle": "Ausrüsten: Crafting-Beispiele und was jedes Werkzeug bewirkt",
       "equipment": [
         {
@@ -434,7 +434,7 @@
       ]
     },
     "lootItems": {
-      "title": "Lucid Blocks Beute & Gegenstände",
+      "title": "The Thing That Happened Beute & Gegenstände",
       "subtitle": "Was man stehlen sollte: Gegenstandstypen, Risiko und Trage-Tipps",
       "categories": [
         {
@@ -477,7 +477,7 @@
       ]
     },
     "enemiesHazards": {
-      "title": "Lucid Blocks Gegner & Gefahren",
+      "title": "The Thing That Happened Gegner & Gefahren",
       "subtitle": "Wisse, was dich erwischen kann",
       "threats": [
         {
@@ -519,7 +519,7 @@
       ]
     },
     "stealthEscape": {
-      "title": "Lucid Blocks Stealth & Flucht Tipps",
+      "title": "The Thing That Happened Stealth & Flucht Tipps",
       "subtitle": "Stehle mehr, stirb weniger",
       "do": [
         "Bleib heimlich und gehe in Deckung, bevor du mit Objekten interagierst",
@@ -549,7 +549,7 @@
       ]
     },
     "homeUpgrades": {
-      "title": "Lucid Blocks Haus-Upgrades",
+      "title": "The Thing That Happened Haus-Upgrades",
       "subtitle": "Craften, bauen, verbessern",
       "branches": [
         {
@@ -607,33 +607,33 @@
       ]
     },
     "community": {
-      "title": "Lucid Blocks Community & Discord",
+      "title": "The Thing That Happened Community & Discord",
       "subtitle": "Finde Trupps, Updates, Diskussionen",
       "links": [
         {
           "title": "Offizieller Discord",
           "subtitle": "Ankündigungen • Feedback • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "url": "https://steamcommunity.com/app/2906500"
         },
         {
           "title": "Offizielles X (Twitter)",
           "subtitle": "Updates & Entwicklerbeiträge",
-          "url": "https://x.com/lucidblocks"
+          "url": "https://www.youtube.com/@murklmario9084"
         },
         {
           "title": "Steam Community Hub",
           "subtitle": "Diskussionen • Screenshots • Leitfäden",
-          "url": "https://steamcommunity.com/app/3495730"
+          "url": "https://steamcommunity.com/app/2906500"
         },
         {
           "title": "Steam Store Seite",
           "subtitle": "Wunschliste • Demo • Offizielle Beschreibung",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "url": "https://store.steampowered.com/app/2906500/The_Thing_That_Happened/"
         }
       ]
     },
     "modsBepInEx": {
-      "title": "Lucid Blocks Mods & BepInEx Setup",
+      "title": "The Thing That Happened Mods & BepInEx Setup",
       "subtitle": "Installiere Mods auf saubere Weise",
       "steps": [
         {
@@ -660,17 +660,17 @@
       "paths": [
         {
           "label": "Typische Steam-Installation",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "path": "Steam\\steamapps\\common\\The Thing That Happened Demo\\"
         },
         {
           "label": "Plugins-Ordner",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
+          "path": "Steam\\steamapps\\common\\The Thing That Happened Demo\\BepInEx\\plugins\\"
         }
       ],
       "multiplayerNote": "Für modifizierte Koop-Gameplay-Funktionen sollte jeder BepInEx und dieselben Gameplay-Mods installieren."
     },
     "popularMods": {
-      "title": "Lucid Blocks Beliebte Mods",
+      "title": "The Thing That Happened Beliebte Mods",
       "subtitle": "Top-Community-Auswahlen",
       "mods": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     "controllerSupport": {
-      "title": "Lucid Blocks Controller-Unterstützung",
+      "title": "The Thing That Happened Controller-Unterstützung",
       "subtitle": "Volle Gamepad-Steuerung",
       "native": {
         "title": "In-Game-Einstellungen",
@@ -757,7 +757,7 @@
       ]
     },
     "playerCount": {
-      "title": "Lucid Blocks Spielerzahl & Trend",
+      "title": "The Thing That Happened Spielerzahl & Trend",
       "subtitle": "Live-Popularitäts-Schnappschuss",
       "stats": {
         "now": {
@@ -790,43 +790,43 @@
   "faq": {
     "title": "Häufig gestellte",
     "titleHighlight": "Fragen",
-    "subtitle": "Alles, was du über Lucid Blocks wissen musst",
+    "subtitle": "Alles, was du über The Thing That Happened wissen musst",
     "questions": [
       {
-        "question": "Wie lade ich die Lucid Blocks Demo herunter?",
+        "question": "Wie lade ich die The Thing That Happened Demo herunter?",
         "answer": "Besuche die Steam Store Seite und klicke auf \"Demo herunterladen\". Die Demo ist kostenlos und erfordert 2,62 GiB zum Herunterladen, 4,88 GiB Festplattenspeicher."
       },
       {
-        "question": "Kann ich Lucid Blocks solo spielen oder brauche ich Freunde?",
-        "answer": "Lucid Blocks unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
+        "question": "Kann ich The Thing That Happened solo spielen oder brauche ich Freunde?",
+        "answer": "The Thing That Happened unterstützt sowohl Solo-Spiel als auch Koop mit bis zu 6 Spielern. Solo ist schwieriger, aber möglich."
       },
       {
-        "question": "Was sind High-Gnome-Aufgaben in Lucid Blocks?",
+        "question": "Was sind High-Gnome-Aufgaben in The Thing That Happened?",
         "answer": "High-Gnome ist dein Boss, der Ziele wie \"zerstöre den Fernseher\", \"überflute die Toilette\" oder \"stehle bestimmte Gegenstände\" vergibt. Erledige sie für zusätzliche Belohnungen."
       },
       {
-        "question": "Wie installiere ich Mods für Lucid Blocks?",
+        "question": "Wie installiere ich Mods für The Thing That Happened?",
         "answer": "Installiere BepInEx 5, starte das Spiel einmal und platziere dann Mod-DLLs im Ordner BepInEx/plugins/. Alle Spieler benötigen die gleichen Mods für den Mehrspieler."
       },
       {
-        "question": "Unterstützt Lucid Blocks Controller?",
+        "question": "Unterstützt The Thing That Happened Controller?",
         "answer": "Ja! Verwende die In-Game-Einstellungen für grundlegende Controller-Unterstützung oder installiere den Controller Mod von Nexus Mods für vollständige UI-Navigation."
       },
       {
-        "question": "Wie hoch ist die Spielerzahl für Lucid Blocks?",
-        "answer": "Stand Februar 2026 verzeichnet Lucid Blocks durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
+        "question": "Wie hoch ist die Spielerzahl für The Thing That Happened?",
+        "answer": "Stand Februar 2026 verzeichnet The Thing That Happened durchschnittlich 6.000+ gleichzeitige Spieler, mit einem Peak von 15.272 am 8. Februar 2026."
       }
     ]
   },
   "cta": {
     "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
+    "description": "Tritt der The Thing That Happened Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
     "joinCommunity": "Discord beitreten",
     "joinGame": "Demo auf Steam herunterladen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "The Thing That Happened Wiki",
+    "description": "Dein komplettes Ressourcenzentrum für The Thing That Happened Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
@@ -838,15 +838,15 @@
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
+    "copyright": "© 2026 The Thing That Happened Wiki. Nicht mit den Entwicklern von The Thing That Happened verbunden.",
     "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Leitfäden",
+      "title": "The Thing That Happened Leitfäden",
       "description": "Vollständige Gameplay-Leitfäden von den Grundlagen für Anfänger bis hin zu fortgeschrittenen Apotheosis-Strategien. Meistern Sie Überleben und Handwerk.",
-      "metaTitle": "Lucid Blocks Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
-      "metaDescription": "Vollständige Lucid Blocks Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
+      "metaTitle": "The Thing That Happened Leitfäden – Strategien für Anfänger bis Fortgeschrittene",
+      "metaDescription": "Vollständige The Thing That Happened Leitfäden mit Tipps für Anfänger, dem Apotheosis-System, Überlebensstrategien und Expertentaktiken zur Beherrschung der surrealen Sandbox.",
       "categoryLabel": "SPIEL-LEITFÄDEN",
       "whatIs": "Was sind Leitfäden?",
       "whatIsDescription": "Umfassende Leitfäden zu Spielmechaniken, Überlebensstrategien und dem Apotheosis-Handwerkssystem. Lernen Sie alles von den ersten Schritten bis hin zu fortgeschrittenen Techniken.",
@@ -863,10 +863,10 @@
       "all": "Alle Leitfäden"
     },
     "crafting": {
-      "title": "Lucid Blocks Handwerk",
+      "title": "The Thing That Happened Handwerk",
       "description": "Meistern Sie das Apotheosis-Fusionssystem mit Essenz-Mechaniken, Rezepten und Handwerksstrategien für mächtige Gegenstände.",
-      "metaTitle": "Lucid Blocks Handwerk – Apotheosis-System & Rezepte",
-      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von Lucid Blocks. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
+      "metaTitle": "The Thing That Happened Handwerk – Apotheosis-System & Rezepte",
+      "metaDescription": "Meistern Sie das Apotheosis-Handwerkssystem von The Thing That Happened. Lernen Sie Essenz-Mechaniken, Fusionsrezepte und Strategien zur Erstellung mächtiger Werkzeuge und Waffen.",
       "categoryLabel": "HANDWERKSSYSTEM",
       "whatIs": "Was ist Handwerk?",
       "whatIsDescription": "Das Apotheosis-System ist eine einzigartige, essenzgesteuerte Fusionsmechanik, bei der Sie bis zu sechs Gegenstände kombinieren, um neue Rezepte zu entdecken. Keine festen Handwerksmenüs – Experimentieren ist der Schlüssel.",
@@ -883,10 +883,10 @@
       "all": "Alle Handwerks-Leitfäden"
     },
     "items": {
-      "title": "Lucid Blocks Gegenstände",
+      "title": "The Thing That Happened Gegenstände",
       "description": "Detaillierte Leitfäden zu Gegenständen, die Werkzeuge, Waffen, Mobilitätsausrüstung und Lagerlösungen mit Handwerksrezepten und Nutzungstipps abdecken.",
-      "metaTitle": "Lucid Blocks Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
-      "metaDescription": "Vollständige Gegenstandsdatenbank für Lucid Blocks, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
+      "metaTitle": "The Thing That Happened Gegenstände – Leitfaden für Werkzeuge, Waffen & Ausrüstung",
+      "metaDescription": "Vollständige Gegenstandsdatenbank für The Thing That Happened, einschließlich Werkzeugen, Waffen, Mobilitätsausrüstung und Lagerung. Lernen Sie, wie Sie jeden Gegenstand effektiv herstellen und einsetzen.",
       "categoryLabel": "GEGENSTÄNDE & AUSRÜSTUNG",
       "whatIs": "Was sind Gegenstände?",
       "whatIsDescription": "Umfassende Leitfäden für Werkzeuge, Waffen, Mobilitätsausrüstung und funktionale Gegenstände. Lernen Sie Handwerksrezepte, Nutzungsstrategien und optimale Kombinationen kennen.",
@@ -903,10 +903,10 @@
       "all": "Alle Gegenstände"
     },
     "biomes": {
-      "title": "Lucid Blocks Biome",
+      "title": "The Thing That Happened Biome",
       "description": "Erkunden Sie Weltregionen, Umweltmerkmale, Ressourcenstandorte und Überlebenstipps für jedes Biom.",
-      "metaTitle": "Lucid Blocks Biome – Weltregionen & Erkundung",
-      "metaDescription": "Erkunden Sie die Biome von Lucid Blocks, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
+      "metaTitle": "The Thing That Happened Biome – Weltregionen & Erkundung",
+      "metaDescription": "Erkunden Sie die Biome von The Thing That Happened, einschließlich Tiamana Leylines, Fog Meadow und surrealen Regionen. Finden Sie Ressourcen, vermeiden Sie Gefahren und navigieren Sie durch die unendliche Welt.",
       "categoryLabel": "WELTREGIONEN",
       "whatIs": "Was sind Biome?",
       "whatIsDescription": "Leitfäden zu verschiedenen Weltregionen, Umweltmerkmalen, Ressourcenverteilung und Gefahrenzonen. Lernen Sie, was Sie erwartet und wie Sie sich auf jedes Gebiet vorbereiten.",
@@ -923,10 +923,10 @@
       "all": "Alle Biome"
     },
     "building": {
-      "title": "Lucid Blocks Bauen",
+      "title": "The Thing That Happened Bauen",
       "description": "Meistern Sie persönliche Qualia-Dimensionen, Basisbau, Lagerverwaltung und kreative Bautechniken.",
-      "metaTitle": "Lucid Blocks Bauen – Qualia & Basisbau",
-      "metaDescription": "Meistern Sie das Bauen in Lucid Blocks mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
+      "metaTitle": "The Thing That Happened Bauen – Qualia & Basisbau",
+      "metaDescription": "Meistern Sie das Bauen in The Thing That Happened mit persönlichen Qualia-Dimensionen, Basisbau, Lagerlösungen und kreativen Bautechniken.",
       "categoryLabel": "BAUEN & BASEN",
       "whatIs": "Was ist Bauen?",
       "whatIsDescription": "Leitfäden zum persönlichen Qualia-Dimensionssystem, Basisbau, Lagerverwaltung und kreativem Bauen. Lernen Sie, Ihren sicheren Hafen in der surrealen Welt zu erschaffen.",
@@ -943,10 +943,10 @@
       "all": "Alle Bau-Leitfäden"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "The Thing That Happened Support",
       "description": "Technischer Support, Plattformkompatibilität, Leistungsoptimierung und Fehlerbehebung bei häufigen Problemen.",
-      "metaTitle": "Lucid Blocks Support – Technische Hilfe & Fehlerbehebungen",
-      "metaDescription": "Erhalten Sie technischen Support für Lucid Blocks, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
+      "metaTitle": "The Thing That Happened Support – Technische Hilfe & Fehlerbehebungen",
+      "metaDescription": "Erhalten Sie technischen Support für The Thing That Happened, einschließlich Steam Deck-Einrichtung, Crash-Fixes, Leistungsoptimierung und Leitfäden zur Plattformkompatibilität.",
       "categoryLabel": "TECHNISCHER SUPPORT",
       "whatIs": "Was ist Support?",
       "whatIsDescription": "Technische Leitfäden zu Plattformkompatibilität, Leistungsoptimierung, Crash-Fixes und häufigen Problemen. Erhalten Sie Hilfe zu Steam Deck, Multiplayer-Fragen und Einstellungen.",

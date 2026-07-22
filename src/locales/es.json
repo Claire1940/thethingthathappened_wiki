@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de The Thing That Happened - Fabricación, biomas y logros",
+      "description": "La Wiki de The Thing That Happened cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
+      "keywords": "The Thing That Happened, The Thing That Happened wiki, fabricación, biomas, logros, supervivencia, Steam",
+      "ogTitle": "Wiki de The Thing That Happened - Fabricación, biomas y logros",
+      "ogDescription": "La Wiki de The Thing That Happened cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
+      "twitterTitle": "Wiki de The Thing That Happened - Fabricación, biomas y logros",
+      "twitterDescription": "La Wiki de The Thing That Happened cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
     }
   },
   "nav": {
@@ -35,7 +35,7 @@
   },
   "hero": {
     "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
+    "title": "The Thing That Happened Wiki",
     "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
     "getFreeCodesCTA": "Explorar guía de fabricación",
     "playOnSteamCTA": "Jugar en Steam",
@@ -59,13 +59,13 @@
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
+    "title": "Jugabilidad de The Thing That Happened",
     "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "The Thing That Happened",
     "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en The Thing That Happened",
     "cards": [
       {
         "icon": "BookOpen",
@@ -151,9 +151,9 @@
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Guía para principiantes de The Thing That Happened",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. The Thing That Happened premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
       "steps": [
         {
           "title": "Explora antes de comprometerte",
@@ -169,7 +169,7 @@
         },
         {
           "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "description": "Lleva un registro de las combinaciones exitosas en tu diario. The Thing That Happened tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
         }
       ],
       "quickTips": [
@@ -180,7 +180,7 @@
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Artesanía de Apotheosis en The Thing That Happened",
       "displayType": "cards",
       "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
       "cards": [
@@ -208,9 +208,9 @@
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Herramientas y armas de The Thing That Happened",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "The Thing That Happened mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
       "items": [
         {
           "name": "Pico de Escarcha",
@@ -255,9 +255,9 @@
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Almacenamiento e inventario de The Thing That Happened",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "La presión del inventario comienza temprano en The Thing That Happened, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
       "solutions": [
         {
           "name": "Cubo de Almacenamiento",
@@ -288,9 +288,9 @@
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Qualia y construcción de bases en The Thing That Happened",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "La Qualia es uno de los hitos de progresión más importantes en The Thing That Happened. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
       "cards": [
         {
           "name": "Qualia personal",
@@ -302,7 +302,7 @@
         },
         {
           "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "description": "The Thing That Happened admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
         },
         {
           "name": "Centro de progresión",
@@ -317,9 +317,9 @@
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Regiones del mundo de The Thing That Happened",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "The Thing That Happened utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
       "regions": [
         {
           "name": "Fog Meadow",
@@ -344,9 +344,9 @@
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
+      "title": "Criaturas y enemigos de The Thing That Happened",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "intro": "The Thing That Happened mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
       "creatures": [
         {
           "name": "Maniquíes",
@@ -386,9 +386,9 @@
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Equipo de movilidad de The Thing That Happened",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en The Thing That Happened. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
       "items": [
         {
           "name": "__PROTECTED_6a765cb2__",
@@ -429,9 +429,9 @@
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
+      "title": "Cultivo y crecimiento en The Thing That Happened",
       "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
+      "intro": "El crecimiento es parte de la progresión real en The Thing That Happened. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
       "sections": [
         {
           "name": "Progresión de semillas",
@@ -458,9 +458,9 @@
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
+      "title": "Mejores desbloqueos iniciales de The Thing That Happened",
       "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
+      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En The Thing That Happened, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
       "priorities": [
         {
           "name": "Qualia personal",
@@ -495,9 +495,9 @@
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
+      "title": "Seguimiento de logros de The Thing That Happened",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
+      "intro": "The Thing That Happened tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
       "groups": [
         {
           "name": "Exploración",
@@ -603,36 +603,36 @@
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
+      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de The Thing That Happened",
       "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
+      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar The Thing That Happened.",
       "faqs": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "question": "¿Es The Thing That Happened para un solo jugador?",
+          "answer": "Sí. The Thing That Happened es un juego para un solo jugador."
         },
         {
           "question": "¿Está planeado el multijugador o cooperativo?",
           "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
+          "question": "¿Dónde puedo jugar The Thing That Happened?",
           "answer": "Actualmente está disponible en Steam para Windows."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
+          "question": "¿Cuánto cuesta The Thing That Happened?",
           "answer": "$9.99 en Steam."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
+          "question": "¿The Thing That Happened es compatible con controles?",
           "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
+          "question": "¿The Thing That Happened funciona en Steam Deck?",
           "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
         },
         {
-          "question": "¿Lucid Blocks funciona en Linux?",
+          "question": "¿The Thing That Happened funciona en Linux?",
           "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
         },
         {
@@ -640,22 +640,22 @@
           "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
         },
         {
-          "question": "¿Lucid Blocks tiene traducciones?",
+          "question": "¿The Thing That Happened tiene traducciones?",
           "answer": "No. Actualmente no hay traducciones planeadas."
         },
         {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
+          "question": "¿The Thing That Happened seguirá recibiendo actualizaciones?",
           "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
+      "title": "The Thing That Happened en Steam Deck y controles",
       "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
+      "intro": "The Thing That Happened puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
       "faqs": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
+          "question": "¿The Thing That Happened funciona en Steam Deck?",
           "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
         },
         {
@@ -663,7 +663,7 @@
           "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
+          "question": "¿The Thing That Happened es compatible con controles?",
           "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
         },
         {
@@ -677,9 +677,9 @@
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
+      "title": "Ajustes y accesibilidad de The Thing That Happened",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
+      "intro": "The Thing That Happened ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
       "settings": [
         {
           "name": "Ajustes de pantalla",
@@ -704,9 +704,9 @@
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
+      "title": "Actualizaciones y notas del parche de The Thing That Happened",
       "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
+      "intro": "The Thing That Happened ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
       "entries": [
         {
           "title": "Actualización 2.8.2",
@@ -726,7 +726,7 @@
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
+      "title": "Solución de cierres inesperados y solución de problemas de The Thing That Happened",
       "displayType": "steps",
       "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
       "steps": [
@@ -736,7 +736,7 @@
         },
         {
           "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "description": "The Thing That Happened requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
         },
         {
           "title": "Usa Proton 9.0.4 en Steam Deck",
@@ -756,43 +756,43 @@
   "faq": {
     "title": "Preguntas",
     "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "subtitle": "Todo lo que necesitas saber sobre The Thing That Happened",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Es The Thing That Happened un juego para un solo jugador?",
+        "answer": "Sí. The Thing That Happened es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Qué es el sistema Apotheosis en The Thing That Happened?",
+        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de The Thing That Happened. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Dónde puedo jugar The Thing That Happened?",
+        "answer": "The Thing That Happened está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Cuánto cuesta The Thing That Happened?",
+        "answer": "The Thing That Happened cuesta $9.99 en Steam."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
+        "question": "¿The Thing That Happened es compatible con controles?",
         "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
+        "question": "¿Recibirá actualizaciones The Thing That Happened?",
         "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
+    "title": "¿Listo para explorar The Thing That Happened?",
+    "description": "¡Únete a la comunidad de The Thing That Happened en Discord para ver guías, actualizaciones y discusiones!",
     "joinCommunity": "Únete a Discord",
     "joinGame": "Juega en Steam"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de The Thing That Happened",
+    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de The Thing That Happened.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
@@ -804,15 +804,15 @@
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
     "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
+    "copyright": "© 2026 Wiki de The Thing That Happened. No afiliada con los desarrolladores de The Thing That Happened.",
     "disclaimer": "Sitio web de recursos no oficial creado por fans."
   },
   "pages": {
     "guides": {
-      "title": "Guías de Lucid Blocks",
+      "title": "Guías de The Thing That Happened",
       "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
+      "metaTitle": "Guías de The Thing That Happened - Estrategias de principiante a avanzado",
+      "metaDescription": "Guías completas de The Thing That Happened que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
       "categoryLabel": "GUÍAS DEL JUEGO",
       "whatIs": "¿Qué son las guías?",
       "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
@@ -829,10 +829,10 @@
       "all": "Todas las guías"
     },
     "crafting": {
-      "title": "Fabricación en Lucid Blocks",
+      "title": "Fabricación en The Thing That Happened",
       "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
+      "metaTitle": "Fabricación en The Thing That Happened - Sistema Apotheosis y recetas",
+      "metaDescription": "Domina el sistema de fabricación Apotheosis de The Thing That Happened. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
       "categoryLabel": "SISTEMA DE FABRICACIÓN",
       "whatIs": "¿Qué es la fabricación?",
       "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
@@ -849,10 +849,10 @@
       "all": "Todas las guías de fabricación"
     },
     "items": {
-      "title": "Objetos de Lucid Blocks",
+      "title": "Objetos de The Thing That Happened",
       "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
+      "metaTitle": "Objetos de The Thing That Happened - Guía de herramientas, armas y equipo",
+      "metaDescription": "Base de datos completa de objetos para The Thing That Happened, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
       "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
       "whatIs": "¿Qué son los objetos?",
       "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
@@ -869,10 +869,10 @@
       "all": "Todos los objetos"
     },
     "biomes": {
-      "title": "Biomas de Lucid Blocks",
+      "title": "Biomas de The Thing That Happened",
       "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
+      "metaTitle": "Biomas de The Thing That Happened - Regiones del mundo y exploración",
+      "metaDescription": "Explora los biomas de The Thing That Happened, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
       "categoryLabel": "REGIONES DEL MUNDO",
       "whatIs": "¿Qué son los biomas?",
       "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
@@ -889,10 +889,10 @@
       "all": "Todos los biomas"
     },
     "building": {
-      "title": "Construcción en Lucid Blocks",
+      "title": "Construcción en The Thing That Happened",
       "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
+      "metaTitle": "Construcción en The Thing That Happened - Qualia y construcción de bases",
+      "metaDescription": "Domina la construcción en The Thing That Happened con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
       "categoryLabel": "CONSTRUCCIÓN Y BASES",
       "whatIs": "¿Qué es la construcción?",
       "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
@@ -909,10 +909,10 @@
       "all": "Todas las guías de construcción"
     },
     "support": {
-      "title": "Soporte de Lucid Blocks",
+      "title": "Soporte de The Thing That Happened",
       "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
+      "metaTitle": "Soporte de The Thing That Happened - Ayuda técnica y soluciones",
+      "metaDescription": "Obtén soporte técnico para The Thing That Happened, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
       "categoryLabel": "SOPORTE TÉCNICO",
       "whatIs": "¿Qué es el soporte?",
       "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
