@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "The Thing That Happened Wiki - Guía, Armas y Supervivencia",
+      "description": "The Thing That Happened Wiki proporciona guías de supervivencia, construcciones de armas, consejos de elaboración, guías paso a paso, ubicaciones y estrategias de juego para el juego de aventuras de acción postapocalíptico de Steam.",
+      "keywords": "The Thing That Happened, Steam, Wiki, guide, weapons, crafting, survival",
+      "ogTitle": "The Thing That Happened Wiki - Guía, Armas y Supervivencia",
+      "ogDescription": "The Thing That Happened Wiki proporciona guías de supervivencia, construcciones de armas, consejos de elaboración, guías paso a paso, ubicaciones y estrategias de juego para el juego de aventuras de acción postapocalíptico de Steam.",
+      "twitterTitle": "The Thing That Happened Wiki - Guía, Armas y Supervivencia",
+      "twitterDescription": "The Thing That Happened Wiki proporciona guías de supervivencia, construcciones de armas, consejos de elaboración, guías paso a paso, ubicaciones y estrategias de juego para el juego de aventuras de acción postapocalíptico de Steam."
+    }
+  },
   "nav": {
     "guide": "Guide",
     "story": "Story",
@@ -7,5 +18,518 @@
     "locations": "Locations",
     "reviews": "Reviews",
     "faq": "FAQ"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Juega en Steam",
+    "switchLanguage": "Cambiar Idioma",
+    "switchTheme": "Cambiar Tema",
+    "lightMode": "Modo de Luz",
+    "darkMode": "Modo Oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que busca no existe.",
+    "backToHome": "Volver al Inicio",
+    "relatedArticles": "Artículos Relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos pronto"
+  },
+  "hero": {
+    "badge": "Aventura de Supervivencia Post-Apocalíptica",
+    "title": "The Thing That Happened Wiki",
+    "description": "Explora la Wiki de The Thing That Happened con guías de supervivencia, armas, consejos de elaboración, ubicaciones, información de la historia y estrategias de juego para este juego de supervivencia de acción en tercera persona de mundo abierto.",
+    "getFreeCodesCTA": "Explorar Guías",
+    "playOnSteamCTA": "Juega en Steam",
+    "stats": {
+      "stat1": {
+        "value": "17+",
+        "label": "Comentarios de Usuarios"
+      },
+      "stat2": {
+        "value": "13",
+        "label": "Logros"
+      },
+      "stat3": {
+        "value": "2024",
+        "label": "Año de lanzamiento"
+      },
+      "stat4": {
+        "value": "Early Access",
+        "label": "Estado del juego"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Juego de The Thing That Happened",
+    "description": "Sobrevive en las ruinas post-apocalípticas de Jericho con recolección, elaboración, combate en tercera persona y exploración de mundo abierto en este juego de aventuras de supervivencia de Steam."
+  },
+  "tools": {
+    "title": "The Thing That Happened",
+    "titleHighlight": "Recursos de Wiki",
+    "subtitle": "Todo lo que necesitas para sobrevivir en el mundo post-apocalíptico de Jericho",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Guía de principiantes de The Thing That Happened",
+        "description": "Primeros pasos, controles y bases de supervivencia temprana"
+      },
+      {
+        "icon": "Compass",
+        "title": "Guía de The Thing That Happened",
+        "description": "Ruta principal de progreso a través de las ruinas de Jericho"
+      },
+      {
+        "icon": "Flag",
+        "title": "Guía de finales de The Thing That Happened",
+        "description": "Cada final y cómo desbloquear cada resultado"
+      },
+      {
+        "icon": "Users",
+        "title": "Guía de personajes de The Thing That Happened",
+        "description": "Supervivientes, enemigos y figuras clave en Jericho"
+      },
+      {
+        "icon": "KeyRound",
+        "title": "Guía de secretos de The Thing That Happened",
+        "description": "Escondites, búnkeres y descubrimientos raros"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Guía de juego de The Thing That Happened",
+        "description": "Sistemas de combate, elaboración, exploración y supervivencia"
+      },
+      {
+        "icon": "Calendar",
+        "title": "Guía de lanzamiento de The Thing That Happened",
+        "description": "Plataformas, desarrollador, precio y estado de acceso anticipado"
+      },
+      {
+        "icon": "HelpCircle",
+        "title": "Preguntas frecuentes de The Thing That Happened",
+        "description": "Preguntas comunes sobre el juego y la disponibilidad"
+      }
+    ]
+  },
+  "modules": {
+    "beginnerGuide": {
+      "eyebrow": "Guía para principiantes",
+      "title": "The Thing That Happened Guía para Principiantes",
+      "intro": "Aprende los fundamentos de supervivencia, flujo de combate y sistemas de progreso temprano antes de entrar en el mundo post-apocalíptico de Jericho.",
+      "steps": [
+        {
+          "title": "Comienzo del Juego",
+          "description": "Empieza explorando la zona de inicio, aprendiendo controles básicos y recolectando suministros cercanos. Enfócate en entender el ciclo de supervivencia antes de luchar innecesariamente."
+        },
+        {
+          "title": "Básicos de Movimiento y Combate",
+          "description": "Aprende a moverse por entornos peligrosos, manejar el uso de armas y combinar ataques a distancia con habilidades de combate cuerpo a cuerpo. Evita peleas abiertas cuando los recursos son limitados."
+        },
+        {
+          "title": "Recolectando Recursos",
+          "description": "Busca armas, municiones, materiales de elaboración y suministros de supervivencia en edificios abandonados y ubicaciones arruinadas. Prioriza los artículos necesarios para la supervivencia inmediata y las mejoras."
+        },
+        {
+          "title": "Básicos de Elaboración",
+          "description": "Usa los materiales recolectados para crear artículos útiles de supervivencia y mejorar tu equipo. Entender la elaboración temprano ayuda a mantener los suministros durante exploraciones más largas."
+        },
+        {
+          "title": "Configurando una Base",
+          "description": "Crea un lugar seguro donde puedas organizar recursos, preparar equipo y recuperarte entre misiones peligrosas. Una base fuerte se convierte en la base para la supervivencia a largo plazo."
+        },
+        {
+          "title": "Sobreviviendo a las Primeras Amenazas",
+          "description": "Prepárate para enfrentarte a zombis y bandas hostiles gestionando salud, municiones y posición. Usa el entorno para obtener ventajas durante batallas difíciles."
+        }
+      ]
+    },
+    "walkthrough": {
+      "eyebrow": "Guía",
+      "title": "The Thing That Happened Guía",
+      "intro": "Sigue la principal ruta de progresión de supervivencia a través de Jericho, desde la primera exploración hasta los desafíos del juego avanzado.",
+      "steps": [
+        {
+          "title": "Llegando a Jericho",
+          "description": "Ingresa a la ciudad abandonada de Jericho y comienza a buscar suministros esenciales en las ruinas. Establece tu primera comprensión del entorno y las prioridades de supervivencia."
+        },
+        {
+          "title": "Explorando las Ruinas",
+          "description": "Investiga edificios abandonados, calles peligrosas y ubicaciones ocultas para reunir recursos. Explora nuevas áreas con cuidado mientras monitorizas las amenazas y los límites del inventario."
+        },
+        {
+          "title": "Primeros Encuentros con Enemigos",
+          "description": "Enfrenta los primeros encuentros con zombis y bandas hostiles mientras aprendes patrones de combate. Usa las armas reunidas y estrategias de posición para sobrevivir situaciones peligrosas."
+        },
+        {
+          "title": "Seguridad en una Casa Segura",
+          "description": "Encuentra y prepara una ubicación de refugio confiable. Organiza suministros, mejora las defensas y crea un punto de control más seguro para futuras exploraciones."
+        },
+        {
+          "title": "Objetivos Principales",
+          "description": "Avanza a través de los principales objetivos de supervivencia completando tareas de exploración, recolectando recursos importantes y desbloqueando el acceso a nuevas áreas."
+        },
+        {
+          "title": "Áreas del Final de Juego",
+          "description": "Prepara un equipo más fuerte y habilidades avanzadas antes de entrar en las regiones más peligrosas. Espera enemigos más fuertes y mayores demandas de recursos."
+        }
+      ]
+    },
+    "endingsGuide": {
+      "eyebrow": "Guía de Finales",
+      "title": "Guía de Finales de The Thing That Happened",
+      "intro": "Explora los posibles resultados basados en las opciones de supervivencia, el progreso de la exploración y las decisiones finales en The Thing That Happened.",
+      "items": [
+        {
+          "title": "Final de Supervivencia",
+          "description": "Completa el viaje principal de supervivencia manteniendo suficientes recursos, derrotando amenazas mayores y permaneciendo vivo hasta el final."
+        },
+        {
+          "title": "Escapa de la Ciudad",
+          "description": "Alcanza una posible ruta de escape de Jericho completando objetivos clave y reuniendo el equipo necesario para salir de la zona peligrosa."
+        },
+        {
+          "title": "Sacrificio Final",
+          "description": "Elija un camino donde el protagonista realiza un sacrificio final para proteger a los demás o lograr un objetivo importante durante los eventos finales."
+        },
+        {
+          "title": "Final Oculto",
+          "description": "Descubra ubicaciones adicionales, objetivos ocultos o eventos especiales que revelan una conclusión alternativa a la historia principal."
+        },
+        {
+          "title": "Final de la Comunidad",
+          "description": "Construya relaciones con los supervivientes y apoye un resultado de asentamiento más fuerte a través de la cooperación y la gestión de recursos."
+        },
+        {
+          "title": "Final Predeterminado",
+          "description": "Alcance la conclusión estándar completando la ruta de progreso principal sin cumplir condiciones especiales para resultados alternativos."
+        }
+      ]
+    },
+    "charactersGuide": {
+      "eyebrow": "Guía de Personajes",
+      "title": "Guía de Personajes de The Thing That Happened",
+      "intro": "Aprenda sobre los grupos principales de supervivientes, enemigos e figuras importantes conectados al mundo de Jericho en The Thing That Happened.",
+      "items": [
+        {
+          "title": "Torque",
+          "description": "El protagonista principal que llega a Jericho y debe sobrevivir en el mundo arruinado mediante la recolección, combate, elaboración y decisiones estratégicas."
+        },
+        {
+          "title": "Jericho Supervivientes",
+          "description": "Grupos de civiles supervivientes que luchan por reconstruir sus vidas después del colapso. Representan posibles aliados y fuentes de información."
+        },
+        {
+          "title": "Líderes de pandillas",
+          "description": "Figuras hostiles poderosas que controlan grupos peligrosos a través del terreno desolado. Competen por recursos y amenazan a las comunidades de supervivientes."
+        },
+        {
+          "title": "Comerciantes",
+          "description": "Personajes centrados en recursos que intercambian suministros valiosos, armas y equipo de supervivencia con exploradores que viajan a través de Jericho."
+        },
+        {
+          "title": "Desconocido Místico",
+          "description": "Una figura oculta conectada a eventos desconocidos en la ciudad arruinada. Su conocimiento puede revelar secretos más profundos sobre el mundo."
+        },
+        {
+          "title": "Combate Aliado",
+          "description": "Supervivientes con capacidad de combate que asisten contra enemigos peligrosos y ayudan a fortalecer la resistencia contra fuerzas hostiles."
+        }
+      ]
+    },
+    "secretsGuide": {
+      "eyebrow": "Guía de Secretos",
+      "title": "The Thing That Happened Guía de Secretos",
+      "intro": "Descubre ubicaciones opcionales, recursos ocultos y descubrimientos raros en el mundo post-apocalíptico de Jericho en The Thing That Happened.",
+      "items": [
+        {
+          "title": "Almacenes ocultos",
+          "description": "Contenedores abandonados, áreas de almacenamiento olvidadas y depósitos de suministros ocultos recompensan a los exploradores cuidadosos con municiones, materiales de elaboración y recursos de supervivencia."
+        },
+        {
+          "title": "Ubicaciones de búnkeres",
+          "description": "Refugios subterráneos y ubicaciones reforzadas pueden contener botín valioso, recursos defensivos y pistas sobre los eventos que cambiaron a Jericho."
+        },
+        {
+          "title": "Huevos de pascua",
+          "description": "Los jugadores pueden descubrir pequeños detalles ambientales y referencias ocultas mientras exploran la ciudad arruinada y las áreas circundantes."
+        },
+        {
+          "title": "Documentos de lore",
+          "description": "Notas dispersas y elementos de narrativa ambiental ayudan a revelar más sobre el mundo post-apocalíptico y los eventos detrás del desastre."
+        },
+        {
+          "title": "Armas especiales",
+          "description": "Encontrar armas raras y equipo mejorado proporciona ventajas contra pandillas hostiles y amenazas de zombis."
+        },
+        {
+          "title": "Áreas secretas",
+          "description": "Zonas de exploración opcionales recompensan a los jugadores que investigan edificios abandonados, caminos peligrosos y ubicaciones alejadas de los objetivos principales."
+        }
+      ]
+    },
+    "gameplayGuide": {
+      "eyebrow": "Guía de Gameplay",
+      "title": "Guía de Gameplay de The Thing That Happened",
+      "intro": "Aprende los sistemas básicos de supervivencia, combate, elaboración y exploración que definen The Thing That Happened.",
+      "items": [
+        {
+          "title": "Sistema de Combate",
+          "description": "El sistema de combate en tercera persona combina armas de fuego, ataques cuerpo a cuerpo y posicionamiento táctico para combatir bandas hostiles y enemigos zombis."
+        },
+        {
+          "title": "Elaboración",
+          "description": "El sistema de elaboración permite a los jugadores combinar materiales recopilados en artículos útiles para la supervivencia, mejoras de equipo y recursos esenciales."
+        },
+        {
+          "title": "Hilos de Habilidad",
+          "description": "El progreso en combate cuerpo a cuerpo permite a los jugadores mejorar sus habilidades de combate y personalizar su estilo de combate preferido."
+        },
+        {
+          "title": "Exploración",
+          "description": "Los jugadores exploran la ciudad arruinada de Jericho, buscando edificios y áreas peligrosas por recursos, misiones y descubrimientos."
+        },
+        {
+          "title": "Mecánicas de Supervivencia",
+          "description": "La recolección de recursos, la gestión de recursos y la preparación defensiva son partes importantes de la supervivencia en el entorno post-apocalíptico."
+        },
+        {
+          "title": "Accesorios de Armas",
+          "description": "Las armas pueden personalizarse con accesorios para mejorar el rendimiento y crear diferentes enfoques de combate."
+        }
+      ]
+    },
+    "releaseGuide": {
+      "eyebrow": "Guía de Lanzamiento",
+      "title": "Guía de Lanzamiento de The Thing That Happened",
+      "intro": "Disponibilidad oficial, información de desarrollo y detalles de lanzamiento para el juego de supervivencia The Thing That Happened.",
+      "items": [
+        {
+          "field": "Plataforma",
+          "value": "Steam (Windows)"
+        },
+        {
+          "field": "Desarrollador",
+          "value": "Mario Murkl, Zoltán Árva"
+        },
+        {
+          "field": "Editor",
+          "value": "Jericho Game Development"
+        },
+        {
+          "field": "Fecha de Lanzamiento",
+          "value": "April 10, 2024"
+        },
+        {
+          "field": "Estado del Juego",
+          "value": "Early Access"
+        },
+        {
+          "field": "Motor",
+          "value": "Motor Unreal 5.2"
+        },
+        {
+          "field": "Precio",
+          "value": "Approximately $8.99"
+        },
+        {
+          "field": "Multijugador",
+          "value": "Single-player with LAN co-op"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "FAQ de The Thing That Happened",
+      "intro": "Respuestas a preguntas comunes sobre el juego, disponibilidad y características multijugador en The Thing That Happened.",
+      "items": [
+        {
+          "question": "¿Es The Thing That Happened multijugador?",
+          "answer": "The Thing That Happened admite juego para un solo jugador e incluye características de cooperación local para experiencias de supervivencia cooperativa."
+        },
+        {
+          "question": "¿Cuánto tiempo dura The Thing That Happened?",
+          "answer": "El tiempo de juego en The Thing That Happened depende de la exploración, la recolección, las opciones de combate y la cantidad de contenido opcional que los jugadores completen."
+        },
+        {
+          "question": "¿Está The Thing That Happened en consola?",
+          "answer": "The Thing That Happened está disponible en Steam para Windows, sin información confirmada de lanzamiento en consola."
+        },
+        {
+          "question": "¿Cuáles son los requisitos del sistema para The Thing That Happened?",
+          "answer": "Los jugadores deben verificar la página de la tienda de Steam para The Thing That Happened para obtener la información más reciente sobre los requisitos de hardware y el rendimiento."
+        },
+        {
+          "question": "¿The Thing That Happened es gratuito?",
+          "answer": "No. The Thing That Happened es un título de Early Access de pago disponible a través de Steam."
+        },
+        {
+          "question": "¿The Thing That Happened admite modo cooperativo?",
+          "answer": "Sí. The Thing That Happened admite LAN co-op además de su modo de un solo jugador."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "title": "¿Listo para sobrevivir a The Thing That Happened?",
+    "description": "Únete a la comunidad en Steam para obtener las últimas guías, notas de parche y estrategias de supervivencia para The Thing That Happened.",
+    "joinCommunity": "Únete a la Comunidad de Steam",
+    "joinGame": "Juega en Steam"
+  },
+  "footer": {
+    "title": "The Thing That Happened Wiki",
+    "description": "Tu centro de recursos completo para las guías de supervivencia, armas, elaboración, ubicaciones, enemigos e información de la historia de The Thing That Happened.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "steamCommunity": "Steam Community",
+    "steamStore": "Steam Store",
+    "youtube": "YouTube",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Derechos de Autor",
+    "copyright": "© 2026 Wiki de The Thing That Happened. No está afiliado con los desarrolladores de The Thing That Happened.",
+    "disclaimer": "Sitio web de recursos fan-made no oficial."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guías de The Thing That Happened",
+      "description": "Guías completas y amigables para principiantes que cubren controles, bases de supervivencia, tácticas de combate y estrategias avanzadas para The Thing That Happened.",
+      "metaTitle": "Guías de The Thing That Happened - Guía de Pasos y Consejos de Supervivencia",
+      "metaDescription": "Máster en The Thing That Happened con guías completas, controles, consejos para principiantes y estrategias avanzadas de supervivencia para la aventura de acción post-apocalíptica en Steam.",
+      "categoryLabel": "GUIAS DE JUEGO",
+      "whatIs": "¿Qué son estos guías?",
+      "whatIsDescription": "Estos guías te guían a través de cada sistema central de The Thing That Happened, desde tus primeros pasos en la ciudad arruinada de Jericho hasta las tácticas avanzadas de supervivencia y combate que te mantienen vivo contra los infectados.",
+      "why": "¿Por qué leer estos guías?",
+      "whySteps": {
+        "step1Title": "Aprende los fundamentos",
+        "step1Description": "Aprende a manejar los controles, la resistencia, la recolección y la gestión de recursos antes de aventurarte más profundamente en el desierto.",
+        "step2Title": "Supervive más tiempo",
+        "step2Description": "Aplica consejos probados para comida, agua, sigilo y evitar encuentros mortales con infectados y supervivientes hostiles.",
+        "step3Title": "Maestro del combate y progreso",
+        "step3Description": "Combina armas, elaboración y posición inteligente para derrotar a enemigos y jefes mientras avanzas en la historia."
+      },
+      "featured": "Guías Destacadas",
+      "all": "Todos los Guías"
+    },
+    "story": {
+      "title": "The Thing That Happened Historia",
+      "description": "Profundiza en los personajes, la mitología, la construcción del mundo, múltiples finales y detalles ocultos de la historia de The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Historia - Personajes, Mitología y Finales",
+      "metaDescription": "Explora la historia, los personajes, la mitología, los múltiples finales y detalles ocultos del mundo postapocalíptico de Jericho en The Thing That Happened.",
+      "categoryLabel": "HISTORIA & MITOLOGÍA",
+      "whatIs": "¿De qué trata la historia?",
+      "whatIsDescription": "The Thing That Happened sigue a Marcus Draven a través de los escombros de Jericho después de un evento catastrófico. Estos artículos desglosan a los personajes, la construcción del mundo y las decisiones que dan forma a cada final.",
+      "why": "¿Por qué explorar la historia?",
+      "whySteps": {
+        "step1Title": "Entiende el mundo",
+        "step1Description": "Aprende la mitología detrás de Jericho, la epidemia y las facciones luchando por sobrevivir en el aftermath.",
+        "step2Title": "Conoce a los personajes",
+        "step2Description": "Conoce a Marcus Draven y a las figuras clave que impulsan la narrativa.",
+        "step3Title": "Desbloquea todos los finales",
+        "step3Description": "Descubre los detalles y opciones ocultos que llevan a cada final sin perderse contenido secreto."
+      },
+      "featured": "Artículos de Historia Destacados",
+      "all": "Todos los Artículos de Historia"
+    },
+    "release": {
+      "title": "Lanzamiento de The Thing That Happened",
+      "description": "Fecha de lanzamiento, disponibilidad en Steam, tráilers oficiales, detalles del lanzamiento y las últimas noticias de actualización de The Thing That Happened.",
+      "metaTitle": "Lanzamiento de The Thing That Happened - Fecha, Steam & Tráilers",
+      "metaDescription": "Sigue la fecha de lanzamiento de The Thing That Happened, página en la tienda de Steam, tráilers oficiales, información de lanzamiento y las últimas actualizaciones de Early Access.",
+      "categoryLabel": "INFORMACIÓN DE LANZAMIENTO",
+      "whatIs": "¿Qué se cubre aquí?",
+      "whatIsDescription": "Todo sobre el lanzamiento de The Thing That Happened, incluyendo el lanzamiento en Steam, tráilers oficiales y notas de actualización de Early Access.",
+      "why": "¿Por qué seguir la información de lanzamiento?",
+      "whySteps": {
+        "step1Title": "Saber cuándo jugar",
+        "step1Description": "Mantente al tanto de la fecha de lanzamiento, el estado de Early Access y la disponibilidad en plataformas en Steam.",
+        "step2Title": "Mira los tráilers",
+        "step2Description": "Captura cada tráiler oficial y de lanzamiento para ver gameplay y revelaciones de historia antes de comprar.",
+        "step3Title": "Seguir actualizaciones",
+        "step3Description": "Sigue las notas de parche y los nuevos lanzamientos de contenido a medida que el juego evoluciona a través de Early Access."
+      },
+      "featured": "Artículos de Lanzamiento Destacados",
+      "all": "Todos los Artículos de Lanzamiento"
+    },
+    "survival": {
+      "title": "The Thing That Happened Supervivencia",
+      "description": "Armas, elaboración, gestión de inventario, recolección de recursos, comportamiento de enemigos y estrategias de jefes para sobrevivir en The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Survival - Armas, Elaboración & Jefes",
+      "metaDescription": "Sobrevive a The Thing That Happened con guías completas de armas, recetas de elaboración, ubicaciones de recursos, debilidades de enemigos y estrategias de jefes.",
+      "categoryLabel": "SISTEMAS DE Supervivencia",
+      "whatIs": "¿Qué encontrarás aquí?",
+      "whatIsDescription": "Un desglose completo de las mecánicas de supervivencia en The Thing That Happened, cubriendo cada arma, receta de elaboración, recurso, tipo de enemigo y enfrentamiento con jefes que enfrentarás.",
+      "why": "¿Por qué usar estos guías de supervivencia?",
+      "whySteps": {
+        "step1Title": "Elije las armas adecuadas",
+        "step1Description": "Compara las estadísticas y los accesorios de las armas para construir un equipo que se ajuste a tu estilo de juego.",
+        "step2Title": "Elabora y gestiona recursos",
+        "step2Description": "Aprende las recetas de elaboración y dónde encontrar materiales escasos para que nunca te quedes sin recursos.",
+        "step3Title": "Derrota a cada enemigo y jefe",
+        "step3Description": "Estudia las debilidades de los enemigos y los patrones de los jefes para ganar batallas sin desperdiciar munición."
+      },
+      "featured": "Guías de Supervivencia Destacadas",
+      "all": "Todas las Guías de Supervivencia"
+    },
+    "locations": {
+      "title": "The Thing That Happened Lugares",
+      "description": "Desglose completo de los mapas, guías de áreas, ubicaciones secretas y listas de coleccionables para cada región en The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Lugares - Mapa y Objetos de Recolección",
+      "metaDescription": "Explora el mapa de The Thing That Happened con guías de áreas, ubicaciones secretas, listas de colección y puntos de recursos ocultos a lo largo de Jericho.",
+      "categoryLabel": "MAPA & UBICACIONES",
+      "whatIs": "¿Qué hay en esta sección?",
+      "whatIsDescription": "Mapas detallados y guías de ubicación para The Thing That Happened, señalando cada región, área secreta, coleccionable y punto de recurso valioso a lo largo de la ciudad arruinada.",
+      "why": "¿Por qué usar las guías de ubicación?",
+      "whySteps": {
+        "step1Title": "Navega por Jericho",
+        "step1Description": "Entiende la disposición de la ciudad y las rutas más seguras entre los distritos clave.",
+        "step2Title": "Encuentra áreas secretas",
+        "step2Description": "Descubre habitaciones ocultas, escondites y zonas opcionales que la mayoría de los jugadores se pierden.",
+        "step3Title": "Recoge todo",
+        "step3Description": "Marca cada coleccionable y recurso raro con guías de lista clara."
+      },
+      "featured": "Guías de ubicaciones destacadas",
+      "all": "Todas las guías de ubicaciones"
+    },
+    "reviews": {
+      "title": "Críticas de The Thing That Happened",
+      "description": "Críticas detalladas, análisis de juego, veredictos merecidos y comparaciones para The Thing That Happened en Steam.",
+      "metaTitle": "Críticas de The Thing That Happened - Gameplay & Worth It",
+      "metaDescription": "Lee críticas detalladas de The Thing That Happened que cubren juego, historia, rendimiento, valor por dinero y cómo se compara con juegos de supervivencia similares.",
+      "categoryLabel": "RESEÑAS",
+      "whatIs": "¿Qué cubren estas críticas?",
+      "whatIsDescription": "Críticas honestas e inusuales de The Thing That Happened que examinan el juego, el ambiente, el rendimiento y el valor general para que puedas decidir si pertenece a tu biblioteca.",
+      "why": "¿Por qué leer las críticas?",
+      "whySteps": {
+        "step1Title": "Ver la imagen completa",
+        "step1Description": "Obtén una visión equilibrada de las fortalezas y debilidades antes de comprar.",
+        "step2Title": "Decide si vale la pena",
+        "step2Description": "Pesa el precio, la profundidad del contenido y el valor de repetición en contra de tus gustos.",
+        "step3Title": "Compara con juegos similares",
+        "step3Description": "Ver cómo se compara con otras aventuras de supervivencia post-apocalípticas."
+      },
+      "featured": "Reseñas Destacadas",
+      "all": "Todas las Reseñas"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre The Thing That Happened",
+      "description": "Respuestas a las preguntas más comunes sobre Early Access, soporte multijugador, soporte para PC y requisitos del sistema para The Thing That Happened.",
+      "metaTitle": "Preguntas Frecuentes sobre The Thing That Happened - Early Access, Multijugador & PC",
+      "metaDescription": "Preguntas frecuentes sobre The Thing That Happened que cubren el estado de Early Access, soporte multijugador, plataformas para PC y requisitos del sistema.",
+      "categoryLabel": "FAQ",
+      "whatIs": "¿Qué es este FAQ?",
+      "whatIsDescription": "Respuestas claras a las preguntas que los jugadores hacen más sobre The Thing That Happened, incluyendo el plan de ruta de acceso anticipado, planes multijugador, soporte de plataforma PC y el hardware que necesitas para ejecutarlo.",
+      "why": "¿Por qué revisar el FAQ?",
+      "whySteps": {
+        "step1Title": "Entiende el acceso anticipado",
+        "step1Description": "Aprende lo que incluye la versión actual y lo que está planeado antes del lanzamiento completo.",
+        "step2Title": "Revisa el estado multijugador",
+        "step2Description": "Descubre si el juego cooperativo o el juego en línea está disponible o en el plan de ruta.",
+        "step3Title": "Verifica el soporte de PC",
+        "step3Description": "Confirma las plataformas y los requisitos del sistema antes de instalar."
+      },
+      "featured": "Artículos FAQ destacados",
+      "all": "Todos los artículos FAQ"
+    }
   }
 }
