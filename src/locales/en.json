@@ -10,14 +10,7 @@
       "twitterDescription": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
