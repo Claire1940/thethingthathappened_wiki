@@ -1,0 +1,108 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened Karte Guide",
+  description: "Entdecke wichtige Orte, verborgene Stellen und Ressourcenpunkte in The Thing That Happened mit unserem umfassenden Kartenguide.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Map+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Kurzguide">
+- **Hauptwort**: The Thing That Happened Karte
+- **Schlüsselmechanik**: Kartenaufenthaltung und Ressourcenorte
+- **Beste Strategie**: Priorisiere wichtige Orte für die Überleben
+- **Wichtiger Tipp**: Halte Ausschau nach versteckten Bereichen für zusätzliche Ressourcen
+- **Beste Wahl**: Nutze die Karte effektiv, um einen Vorteil zu erlangen
+</Callout>
+
+<Section icon={Map} title="Einführung in die Karte von The Thing That Happened">
+
+Die Karte von The Thing That Happened ist riesig und gefüllt mit verschiedenen Orten, die für das Überleben und die Erkundung entscheidend sind. In diesem Abschnitt wird eine Übersicht über die Karte gegeben, einschließlich der Hauptbereiche, auf die sich konzentriert werden sollte und der Arten von Ressourcen, die Sie erwarten können.
+
+</Section>
+
+<Section icon={Target} title="Wichtige Orte">
+
+<Checklist
+  id="essential-locations"
+  title="Wichtige Orte:"
+  items={[
+    "Die Notunterkunft",
+    "Die Waffenkammer",
+    "Das Ressourcendepot",
+    "Das Labor",
+    "Das Lagerhaus"
+  ]}
+/>
+
+Diese Orte sind entscheidend für das Sammeln von Ressourcen, das Schaffen von Ausrüstung und die Vorbereitung auf Begegnungen mit Feinden.
+
+</Section>
+
+<Section icon={Swords} title="Ressourcenpunkte">
+
+Hier ist eine Aufschlüsselung der Arten von Ressourcen, die Sie an verschiedenen Orten auf der Karte finden können:
+
+| Ressourcenpunkt | Ressourcentyp | Beschreibung |
+|------------------|---------------|--------------|
+| Die Notunterkunft | Medizinische Vorräte | Enthält Erste-Hilfe-Sets und medizinische Artikel. |
+| Die Waffenkammer | Waffen & Munition | Bietet verschiedene Waffen, Munition und Waffenanhänger. |
+| Das Ressourcendepot | Schaffungsmaterialien | Bietet Rohmaterialien für die Schaffung. |
+| Das Labor | Schaffungszutaten | Beherbergt einzigartige Schaffungszutaten für spezielle Gegenstände. |
+| Das Lagerhaus | Allgemeine Vorräte | Bestückt mit einer Vielzahl von Gegenständen, einschließlich Lebensmittel, Wasser und Werkzeugen. |
+
+</Section>
+
+<Section icon={Trophy} title="Verborgene Stellen und Geheimnisse">
+
+Neben den Hauptorten gibt es mehrere verborgene Stellen auf der Karte, die wertvolle Ressourcen und Geheimnisse enthalten:
+
+- **Die verlassene Fabrik**: Enthält rare Materialien und einen versteckten Safe Room.
+- **Die alte Kirche**: Beherbergt einen geheimen Bücherregal mit Legendeninformationen.
+- **Das verlassene Herrenhaus**: Enthält einen versteckten Keller mit wertvollem Beute.
+
+</Section>
+
+<Section icon={Shield} title="Sicherheits tips für die Erkundung">
+
+Bei der Erkundung der Karte ist es wichtig, sicher zu bleiben:
+
+- **Bleibe wachsam**: Halte Ausschau nach Feindbegegnungen und vermeide unnötige Kämpfe.
+- **Plan deine Route**: Mache deinen Weg, um Risiken zu minimieren und die Ressourcensammlung zu optimieren.
+- **Sei anpassungsfähig**: Sammle so viele Ressourcen wie möglich, um für Notfälle gerüstet zu sein.
+
+</Section>
+
+<Section icon={Sparkles} title="Schluss">
+
+Die Erkundung der Karte von The Thing That Happened erfordert sorgfältige Planung und Ressourcenverwaltung. Durch die Konzentration auf wichtige Orte, Ressourcenpunkte und verborgene Stellen können Spieler in ihrem Überlebensabenteuer einen erheblichen Vorteil erlangen. Denke daran, sicher zu bleiben und die Karte so gut wie möglich zu nutzen, um im postapokalyptischen Jericho zu gedeihen.
+
+</Section>
+
+<Section icon={FAQ} title="Häufig gestellte Fragen">
+
+<FAQ items={[
+  {
+    question: "Wie finde ich die versteckten Stellen auf der Karte?",
+    answer: "Verborgene Stellen sind oft durch subtile Hinweise oder einzigartige Umgebungsmerkmale angezeigt. Halte Ausschau nach Anzeichen wie kaputten Böden, versteckten Türen oder ungewöhnlichen Strukturen."
+  },
+  {
+    question: "Kann ich alle Orte auf der Karte besuchen?",
+    answer: "Nicht alle Orte sind am Anfang des Spiels zugänglich. Einige Bereiche werden freigegeben, wenn du vorankommst oder bestimmte Quests abschließt."
+  },
+  {
+    question: "Gibt es Gefahren, die ich auf der Karte beachten muss?",
+    answer: "Ja, es gibt verschiedene Feinde und Gefahren auf der Karte, wie Zombies, feindliche Banden und Umgebungsfallen. Sei immer vorbereitet und plane deinen Ansatz entsprechend."
+  }
+]} />
+
+</Section>

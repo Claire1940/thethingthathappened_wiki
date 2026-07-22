@@ -1,0 +1,101 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened Collectibles Guide",
+  description: "Discover the best collectibles in The Thing That Happened, including where to find them and their use in the game.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Collectibles",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: Collectibles
+- **Key mechanic**: How to find and use collectibles
+- **Best strategy**: Prioritize rare and useful items
+- **Critical tip**: Check all locations for hidden collectibles
+- **Top choice**: Complete your collection for in-game rewards
+</Callout>
+
+<Section icon={Map} title="Collectible Locations">
+
+<CardGrid cols={3}>
+  <Card title="Abandoned Buildings">
+    - Search for hidden items in old structures
+    - Look for caches and secret rooms
+  </Card>
+  <Card title="Ruined City">
+    - Explore the city for scattered collectibles
+    - Be cautious of traps and enemies
+  </Card>
+  <Card title="Bunkers">
+    - Check underground shelters for valuable finds
+    - May contain rare items and resources
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Pro Tip">
+Always keep an eye out for hidden paths and secret areas that can contain additional collectibles.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Collectible Use">
+
+<Steps>
+  <Step num="1" title="Inventory Management">
+    Organize your inventory to easily access items
+  </Step>
+  <Step num="2" title="Crafting">
+    Use collectibles to craft new items and upgrades
+  </Step>
+  <Step num="3" title="Trade">
+  Trade with other players to obtain rare collectibles
+  </Step>
+  <Step num="4" title="Unlock Rewards">
+    Complete your collection to unlock in-game rewards
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Top Collectibles">
+
+<Checklist
+  id="top-collectibles"
+  title="Essential Collectibles:"
+  items={[
+    "Rare Weapon Parts",
+    "Unique Crafting Materials",
+    "Secret Documents",
+    "Powerful Artifacts"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Where can I find rare collectibles?",
+    answer: "Rare collectibles are often found in hidden locations, such as secret rooms or underground bunkers. Be sure to explore all areas of the game world."
+  },
+  {
+    question: "Can I trade collectibles with other players?",
+    answer: "Yes, you can trade collectibles with other players. This is a great way to obtain rare items that you might not be able to find on your own."
+  },
+  {
+    question: "What are the benefits of completing my collectible collection?",
+    answer: "Completing your collectible collection will unlock in-game rewards, such as special items, bonuses, and access to exclusive areas."
+  }
+]} />
+
+</Section>

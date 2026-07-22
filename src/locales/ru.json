@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "guide": "Guide",
+    "story": "Story",
+    "release": "Release",
+    "survival": "Survival",
+    "locations": "Locations",
+    "reviews": "Reviews",
+    "faq": "FAQ"
+  }
+}

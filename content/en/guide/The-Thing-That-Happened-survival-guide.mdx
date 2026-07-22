@@ -1,0 +1,102 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened Survival Guide",
+  description: "A comprehensive survival guide for The Thing That Happened, including tips, strategies, and essential information to help you survive in this indie horror game.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: The Thing That Happened survival guide
+- **Key mechanic**: Understanding the environment and managing resources
+- **Best strategy**: Explore cautiously and maintain a low profile
+- **Critical tip**: Keep an eye on your surroundings at all times
+- **Top choice**: Equip yourself with a basic toolset and a first-aid kit
+</Callout>
+
+<Section icon={Map} title="Introduction to The Thing That Happened">
+
+The Thing That Happened is an indie horror game that places you in a desolate landscape, where you must survive against the elements and other unknown threats. In this guide, we'll cover essential tips and strategies to help you navigate this challenging world.
+
+</Section>
+
+<Section icon={Swords} title="Essential Gear and Items">
+
+| Item | Description | Importance |
+|------|-------------|------------|
+| Basic Toolset | Includes a knife, a hammer, and a wrench. | Useful for crafting and solving puzzles. |
+| First-Aid Kit | Contains bandages, painkillers, and a first-aid spray. | Vital for treating injuries and preventing infection. |
+| Flashlight | Provides light in dark areas. | Essential for exploring and finding resources. |
+| Water Bottle | Stores water for drinking. | Keep hydrated to avoid dehydration. |
+| Food Rations | Provides sustenance. | Keep your energy levels up to survive. |
+
+</Section>
+
+<Section icon={Target} title="Survival Tips">
+
+<Steps>
+  <Step num="1" title="Stay Alert">
+    Always be aware of your surroundings. Listen for sounds and look out for any signs of danger.
+  </Step>
+  <Step num="2" title="Manage Resources">
+    Keep track of your resources and use them wisely. Replenish your supplies when possible.
+  </Step>
+  <Step num="3" title="Crafting and Puzzles">
+    Learn how to craft items and solve puzzles to progress in the game.
+  </Step>
+  <Step num="4" title="Stay Low Profile">
+    Avoid drawing attention to yourself. Keep quiet and move cautiously.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Goals and Checklist">
+
+<Checklist
+  id="survival-goals"
+  title="Essential Goals:"
+  items={[
+    "Find a safe shelter",
+    "Collect essential supplies",
+    "Survive for 24 hours",
+    "Discover the truth behind The Thing That Happened"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "How do I find a safe shelter?",
+    answer: "Look for signs of human habitation or natural structures that can provide shelter."
+  },
+  {
+    question: "What should I do if I encounter a threat?",
+    answer: "Try to avoid confrontation. If you must fight, use your basic toolset to defend yourself."
+  },
+  {
+    question: "Is there a way to upgrade my gear?",
+    answer: "Yes, you can craft better items as you progress in the game."
+  }
+]} />
+
+</Section>
+
+<Section icon={Sparkles} title="Conclusion">
+
+Surviving in The Thing That Happened requires careful planning and resource management. By following this guide, you'll be well-prepared to face the challenges ahead and uncover the secrets of this mysterious world.
+
+</Section>

@@ -1,0 +1,86 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened: Ultimate Survival Guide",
+  description: "Discover the best survival strategies, weapons, crafting tips, and more in The Thing That Happened.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: The Thing That Happened
+- **Key mechanic**: Open-world survival
+- **Best strategy**: Resource management and stealth
+- **Critical tip**: Always keep an eye on your surroundings
+- **Top choice**: Customize your loadout for maximum efficiency
+</Callout>
+
+<Section icon={Map} title="Exploration Tips">
+CardGrid with 3 cards:
+- Card 1: "Mapping the City" - Tips for navigating the ruins efficiently
+- Card 2: "Resource Spots" - Locations to find valuable resources
+- Card 3: "Stealth Moves" - How to avoid detection and stay safe
+</Section>
+
+<Section icon={Swords} title="Weapon Guide">
+<Steps>
+  <Step num="1" title="Choosing Your Weapon">
+    Assess your playstyle and choose the appropriate weapon.
+  </Step>
+  <Step num="2" title="Upgrading Your Weapon">
+    Collect materials to upgrade your weapon for better performance.
+  </Step>
+  <Step num="3" title="Attachments">
+    Customize your weapon with attachments for specific advantages.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Trophy} title="Crafting Guide">
+<Checklist
+  id="crafting-list"
+  title="Essential Crafting Items:"
+  items={[
+    "Wooden Shield",
+    "Axe",
+    "Sword",
+    "Torch",
+    "Bedroll"
+  ]}
+/>
+</Section>
+
+<Section icon={Target} title="Survival Strategies">
+<Callout type="tip" title="Pro Tip">
+Focus on resource management to ensure you have enough supplies for survival.
+</Callout>
+<Callout type="warning" title="Important">
+Be cautious when encountering enemies, as they can be dangerous.
+</Callout>
+</Section>
+
+<Section icon={Shield} title="FAQ">
+<FAQ items={[
+  {
+    question: "How do I start a fire?",
+    answer: "Gather wood and use a flint to ignite it."
+  },
+  {
+    question: "Where can I find water?",
+    answer: "Search for water sources in the ruins or craft it."
+  },
+  {
+    question: "What is the best way to handle enemies?",
+    answer: "Use stealth and resources wisely to survive encounters."
+  }
+]} />
+</Section>

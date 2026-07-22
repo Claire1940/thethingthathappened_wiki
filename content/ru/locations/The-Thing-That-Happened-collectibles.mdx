@@ -1,0 +1,101 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Гайд по коллекционным предметам в The Thing That Happened",
+  description: "Обнаружьте лучшие коллекционные предметы в The Thing That Happened, включая их местоположение и использование в игре.",
+  category: "Гайд",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Collectibles",
+  date: "2026-07-22",
+  author: "Команда Wiki The Thing That Happened"
+};
+
+<Callout type="info" title="Краткое руководство">
+- **Основной ключевой слово**: Коллекционные предметы
+- **Ключевой механизм**: Как найти и использовать коллекционные предметы
+- **Лучшая стратегия**: Пропускайте редкие и полезные предметы
+- **Критический совет**: Проверяйте все места на наличие скрытых коллекционных предметов
+- **Лучший выбор**: Завершите свою коллекцию для получения наград в игре
+</Callout>
+
+<Section icon={Map} title="Места коллекционных предметов">
+
+<CardGrid cols={3}>
+  <Card title="Опустошенные здания">
+    - Ищите скрытые предметы в старых постройках
+    - Ищите тайники и секретные комнаты
+  </Card>
+  <Card title="Разрушенный город">
+    - Исследуйте город на разбросанные коллекционные предметы
+    - Будьте осторожны с ловушками и врагами
+  </Card>
+  <Card title="Бункеры">
+    - Проверьте подземные убежища на ценные находки
+    - Могут содержать редкие предметы и ресурсы
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Профессиональный совет">
+Always keep an eye out for hidden paths and secret areas that can contain additional collectibles.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Использование коллекционных предметов">
+
+<Steps>
+  <Step num="1" title="Управление инвентарем">
+    Организуйте свой инвентарь для легкого доступа к предметам
+  </Step>
+  <Step num="2" title="Крафтование">
+    Используйте коллекционные предметы для создания новых предметов и улучшений
+  </Step>
+  <Step num="3" title="Торговля">
+  Торговля с другими игроками для получения редких коллекционных предметов
+  </Step>
+  <Step num="4" title="Открытие наград">
+    Завершите свою коллекцию для получения наград в игре
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Лучшие коллекционные предметы">
+
+<Checklist
+  id="top-collectibles"
+  title="Необходимые коллекционные предметы:"
+  items={[
+    "Редкие части оружия",
+    "Уникальные материалы для крафта",
+    "Секретные документы",
+    "Мощные артефакты"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="Часто задаваемые вопросы">
+
+<FAQ items={[
+  {
+    question: "Где я могу найти редкие коллекционные предметы?",
+    answer: "Редкие коллекционные предметы часто можно найти в скрытых местах, таких как секретные комнаты или подземные бункеры. Убедитесь, что вы исследовали все области игрового мира."
+  },
+  {
+    question: "Могу ли я торговать коллекционными предметами с другими игроками?",
+    answer: "Да, вы можете торговать коллекционными предметами с другими игроками. Это отличный способ получить редкие предметы, которые вы, возможно, не сможете найти сами."
+  },
+  {
+    question: "Какие преимуществаcompletion my collectible collection?",
+    answer: "Завершение вашей коллекции коллекционных предметов откроет награды в игре, такие как особые предметы, бонусы и доступ к эксклюзивным областям."
+  }
+]} />
+
+</Section>

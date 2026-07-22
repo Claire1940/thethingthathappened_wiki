@@ -1,0 +1,108 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened Map Guide",
+  description: "Discover essential locations, hidden spots, and resource points in The Thing That Happened with our comprehensive map guide.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Map+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: The Thing That Happened map
+- **Key mechanic**: Map exploration and resource locations
+- **Best strategy**: Prioritize essential locations for survival
+- **Critical tip**: Keep an eye out for hidden areas for additional resources
+- **Top choice**: Use the map effectively to gain an advantage
+</Callout>
+
+<Section icon={Map} title="Introduction to The Thing That Happened Map">
+
+The map of The Thing That Happened is vast and filled with various locations that are crucial for survival and exploration. This section will provide an overview of the map, including the main areas to focus on and the types of resources you can expect to find.
+
+</Section>
+
+<Section icon={Target} title="Essential Locations">
+
+<Checklist
+  id="essential-locations"
+  title="Essential Locations:"
+  items={[
+    "The Safehouse",
+    "The Armory",
+    "The Resource Depot",
+    "The Laboratory",
+    "The Warehouse"
+  ]}
+/>
+
+These locations are vital for gathering resources, crafting equipment, and preparing for encounters with enemies.
+
+</Section>
+
+<Section icon={Swords} title="Resource Points">
+
+Here's a breakdown of the types of resources you can find at various locations on the map:
+
+| Resource Point | Resource Type | Description |
+|----------------|---------------|-------------|
+| The Safehouse | Medical Supplies | Contains first aid kits and medical items. |
+| The Armory | Weapons & Ammo | Offers various firearms, ammunition, and weapon attachments. |
+| The Resource Depot | Crafting Materials | Provides raw materials for crafting. |
+| The Laboratory | Crafting Ingredients | Houses unique crafting ingredients for special items. |
+| The Warehouse | General Supplies | Stocks a variety of items, including food, water, and tools. |
+
+</Section>
+
+<Section icon={Trophy} title="Hidden Spots and Secrets">
+
+In addition to the main locations, there are several hidden spots on the map that contain valuable resources and secrets:
+
+- **The Abandoned Factory**: Contains rare materials and a hidden safe room.
+- **The Old Church**: Houses a secret bookshelf with lore information.
+- **The Ruined Mansion**: Contains a hidden basement with valuable loot.
+
+</Section>
+
+<Section icon={Shield} title="Safety Tips for Exploration">
+
+When exploring the map, it's important to stay safe:
+
+- **Stay alert**: Keep an eye out for enemy encounters and avoid unnecessary fights.
+- **Plan your route**: Map out your path to minimize risks and optimize resource gathering.
+- **Be resourceful**: Collect as many resources as possible to stay prepared for emergencies.
+
+</Section>
+
+<Section icon={Sparkles} title="Conclusion">
+
+Exploring the map of The Thing That Happened requires careful planning and resource management. By focusing on essential locations, resource points, and hidden spots, players can gain a significant advantage in their survival journey. Remember to stay safe and make the most of the map to thrive in the post-apocalyptic world of Jericho.
+
+</Section>
+
+<Section icon={FAQ} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How do I find the hidden spots on the map?",
+    answer: "Hidden spots are often indicated by subtle clues or unique environmental features. Keep an eye out for signs like broken floors, hidden doors, or unusual structures."
+  },
+  {
+    question: "Can I visit all locations on the map?",
+    answer: "Not all locations are accessible at the beginning of the game. Some areas become available as you progress or complete certain quests."
+  },
+  {
+    question: "Are there any dangers to be aware of on the map?",
+    answer: "Yes, there are various enemies and hazards on the map, such as zombies, hostile gangs, and environmental traps. Always be prepared and plan your approach accordingly."
+  }
+]} />
+
+</Section>

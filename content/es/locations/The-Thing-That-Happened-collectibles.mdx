@@ -1,0 +1,101 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Guía de Coleccionables de The Thing That Happened",
+  description: "Descubre los mejores colecciones en The Thing That Happened, incluyendo dónde encontrarlos y su uso en el juego.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Collectibles",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Coleccionables
+- **Mecánica clave**: Cómo encontrar y usar colecciones
+- **Mejor estrategia**: Prioriza los artículos raros y útiles
+- **Consejo crucial**: Revisa todas las ubicaciones para encontrar colecciones ocultas
+- **Elección superior**: Completa tu colección para obtener recompensas en el juego
+</Callout>
+
+<Section icon={Map} title="Ubicaciones de Coleccionables">
+
+<CardGrid cols={3}>
+  <Card title="Edificios Abandonados">
+    - Busca ítems ocultos en estructuras antiguas
+    - Busca escondites y habitaciones secretas
+  </Card>
+  <Card title="Ciudad Destruida">
+    - Explora la ciudad en busca de colecciones dispersas
+    - Ten cuidado con trampas y enemigos
+  </Card>
+  <Card title="Búnkeres">
+    - Revisa los refugios subterráneos por hallazgos valiosos
+    - Pueden contener artículos raros y recursos
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Consejo de Pro">
+Siempre mantén los ojos abiertos para caminos ocultos y áreas secretas que pueden contener colecciones adicionales.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Uso de Coleccionables">
+
+<Steps>
+  <Step num="1" title="Gestión de Inventario">
+    Organiza tu inventario para acceder fácilmente a los artículos
+  </Step>
+  <Step num="2" title="Craftear">
+    Usa colecciones para crear nuevos artículos y mejoras
+  </Step>
+  <Step num="3" title="Comercio">
+    Comercia con otros jugadores para obtener colecciones raras
+  </Step>
+  <Step num="4" title="Desbloquear Recompensas">
+    Completa tu colección para desbloquear recompensas en el juego
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Coleccionables Top">
+
+<Checklist
+  id="top-collectibles"
+  title="Colecciones Esenciales:"
+  items={[
+    "Piezas de Armas Raras",
+    "Materiales de Craftear Únicos",
+    "Documentos Secretos",
+    "Artefactos Potentes"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Dónde puedo encontrar colecciones raras?",
+    answer: "Las colecciones raras se encuentran a menudo en ubicaciones ocultas, como habitaciones secretas o búnkeres subterráneos. Asegúrate de explorar todas las áreas del mundo del juego."
+  },
+  {
+    question: "¿Puedo comerciar colecciones con otros jugadores?",
+    answer: "Sí, puedes comerciar colecciones con otros jugadores. Esto es una gran manera de obtener artículos raros que quizás no puedas encontrar por tu cuenta."
+  },
+  {
+    question: "¿Cuáles son los beneficios de completar mi colección de colecciones?",
+    answer: "Completar tu colección de colecciones desbloqueará recompensas en el juego, como artículos especiales, bonificaciones y acceso a áreas exclusivas."
+  }
+]} />
+
+</Section>

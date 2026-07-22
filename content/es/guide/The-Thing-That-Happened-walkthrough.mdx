@@ -1,0 +1,108 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened - Guía de Gameplay Parte 1 (Juego PC)",
+  description: "Descubre el mundo aterrador de The Thing That Happened con nuestra detallada guía de gameplay. Aprende consejos, trucos y estrategias para sobrevivir al horror.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Walkthrough",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Guía de The Thing That Happened
+- **Mecánica clave**: Navegación por el entorno aterrador
+- **Mejor estrategia**: Mantente alerta y usa los recursos con sabiduría
+- **Consejo crucial**: Mantén el ojo en el mapa para encontrar objetos ocultos
+- **Mejor opción**: La estrategia de sigilo para evitar enemigos
+</Callout>
+
+<Section icon={Map} title="Introducción a The Thing That Happened">
+
+The Thing That Happened es un juego de horror indie en tercera persona que sumerge a los jugadores en un mundo desolado lleno de ocurrencias misteriosas. Esta guía te guiará a través de las etapas iniciales del juego, ayudándote a sobrevivir y desentrañar los secretos de este paisaje aterrador.
+
+</Section>
+
+<Section icon={Swords} title="Configuración Inicial y Mecánicas de Gameplay">
+
+<Steps>
+  <Step num="1" title="Creación de Personaje">
+    Elige a tu personaje y personaliza su apariencia.
+  </Step>
+  <Step num="2" title="Gestión de Inventario">
+    Mantén el ojo en tu inventario para gestionar recursos e ítems.
+  </Step>
+  <Step num="3" title="Navegación">
+    Usa el mapa para navegar por el entorno y encontrar ítems ocultos.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Equipo y Ítems Esenciales">
+
+<CardGrid cols={3}>
+  <Card title="Linterna">
+    Un ítem crucial para iluminar áreas oscuras y revelar detalles ocultos.
+  </Card>
+  <Card title="Medicinas">
+    Mantén estas a mano para curarte después de encontrarte con enemigos.
+  </Card>
+  <Card title="Claves">
+    Desbloquea puertas y avanza en el juego encontrando claves.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Consejos de Sigilo y Supervivencia">
+
+<Callout type="tip" title="Consejo de Pro">
+Siempre mantente alerta y sé cauteloso al explorar. El juego está lleno de trampas y enemigos que pueden ser fácilmente asustados.
+
+</Callout>
+
+<Checklist
+  id="tips-survival"
+  title="Consejos de Supervivencia:"
+  items={[
+    "Mantente en la luz lo más posible para evitar enemigos.",
+    "Usa el entorno a tu favor para cobertura y ataques sorpresa.",
+    "Mantén el ojo en tu inventario y gestiona los recursos con sabiduría.",
+    "Explora el mapa a fondo para encontrar ítems ocultos y secretos."
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo puedo encontrar ítems ocultos?",
+    answer: "Mantén el ojo en el mapa y explora el entorno a fondo. Los ítems ocultos suelen estar ubicados en áreas oscuras o ocultas."
+  },
+  {
+    question: "¿Qué debo hacer si me encuentro con un enemigo?",
+    answer: "Trata de evitar el enfrentamiento directo. Usa el sigilo y el entorno a tu favor para escapar o derrotar al enemigo."
+  },
+  {
+    question: "¿Hay alguna manera de actualizar a mi personaje?",
+    answer: "Sí, puedes encontrar equipo e ítems que puedan actualizar las estadísticas y habilidades de tu personaje."
+  }
+]} />
+
+</Section>
+
+<Section icon={Sparkles} title="Conclusión">
+
+The Thing That Happened es una experiencia desafiante e inmersiva. Al seguir esta guía y usar los consejos proporcionados, estarás bien preparado para navegar por este mundo aterrador y desentrañar sus secretos. Mantente alerta, usa los recursos con sabiduría y disfruta del horror!
+
+</Section>

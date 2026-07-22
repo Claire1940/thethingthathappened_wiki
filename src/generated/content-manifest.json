@@ -1,1 +1,578 @@
-{}
+{
+  "de": {
+    "faq": [
+      {
+        "slug": "The-Thing-That-Happened-early-access",
+        "file": "The-Thing-That-Happened-early-access"
+      },
+      {
+        "slug": "The-Thing-That-Happened-multiplayer",
+        "file": "The-Thing-That-Happened-multiplayer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-pc",
+        "file": "The-Thing-That-Happened-pc"
+      },
+      {
+        "slug": "The-Thing-That-Happened-system-requirements",
+        "file": "The-Thing-That-Happened-system-requirements"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "The-Thing-That-Happened-beginner-guide",
+        "file": "The-Thing-That-Happened-beginner-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-controls",
+        "file": "The-Thing-That-Happened-controls"
+      },
+      {
+        "slug": "The-Thing-That-Happened-gameplay",
+        "file": "The-Thing-That-Happened-gameplay"
+      },
+      {
+        "slug": "The-Thing-That-Happened-how-to-play",
+        "file": "The-Thing-That-Happened-how-to-play"
+      },
+      {
+        "slug": "The-Thing-That-Happened-survival-guide",
+        "file": "The-Thing-That-Happened-survival-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-tips-and-tricks",
+        "file": "The-Thing-That-Happened-tips-and-tricks"
+      },
+      {
+        "slug": "The-Thing-That-Happened-walkthrough",
+        "file": "The-Thing-That-Happened-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The-Thing-That-Happened-collectibles",
+        "file": "The-Thing-That-Happened-collectibles"
+      },
+      {
+        "slug": "The-Thing-That-Happened-locations",
+        "file": "The-Thing-That-Happened-locations"
+      },
+      {
+        "slug": "The-Thing-That-Happened-map",
+        "file": "The-Thing-That-Happened-map"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secret-areas",
+        "file": "The-Thing-That-Happened-secret-areas"
+      }
+    ],
+    "release": [
+      {
+        "slug": "The-Thing-That-Happened-launch-trailer",
+        "file": "The-Thing-That-Happened-launch-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-official-trailer",
+        "file": "The-Thing-That-Happened-official-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-release-date",
+        "file": "The-Thing-That-Happened-release-date"
+      },
+      {
+        "slug": "The-Thing-That-Happened-steam",
+        "file": "The-Thing-That-Happened-steam"
+      },
+      {
+        "slug": "The-Thing-That-Happened-update",
+        "file": "The-Thing-That-Happened-update"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "The-Thing-That-Happened-gameplay-review",
+        "file": "The-Thing-That-Happened-gameplay-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-last-of-us-inspired",
+        "file": "The-Thing-That-Happened-last-of-us-inspired"
+      },
+      {
+        "slug": "The-Thing-That-Happened-review",
+        "file": "The-Thing-That-Happened-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-worth-it",
+        "file": "The-Thing-That-Happened-worth-it"
+      }
+    ],
+    "story": [
+      {
+        "slug": "The-Thing-That-Happened-characters",
+        "file": "The-Thing-That-Happened-characters"
+      },
+      {
+        "slug": "The-Thing-That-Happened-ending-explained",
+        "file": "The-Thing-That-Happened-ending-explained"
+      },
+      {
+        "slug": "The-Thing-That-Happened-hidden-details",
+        "file": "The-Thing-That-Happened-hidden-details"
+      },
+      {
+        "slug": "The-Thing-That-Happened-lore",
+        "file": "The-Thing-That-Happened-lore"
+      },
+      {
+        "slug": "The-Thing-That-Happened-story",
+        "file": "The-Thing-That-Happened-story"
+      }
+    ],
+    "survival": [
+      {
+        "slug": "The-Thing-That-Happened-crafting",
+        "file": "The-Thing-That-Happened-crafting"
+      },
+      {
+        "slug": "The-Thing-That-Happened-weapons",
+        "file": "The-Thing-That-Happened-weapons"
+      }
+    ]
+  },
+  "en": {
+    "faq": [
+      {
+        "slug": "The-Thing-That-Happened-early-access",
+        "file": "The-Thing-That-Happened-early-access"
+      },
+      {
+        "slug": "The-Thing-That-Happened-multiplayer",
+        "file": "The-Thing-That-Happened-multiplayer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-pc",
+        "file": "The-Thing-That-Happened-pc"
+      },
+      {
+        "slug": "The-Thing-That-Happened-system-requirements",
+        "file": "The-Thing-That-Happened-system-requirements"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "The-Thing-That-Happened-beginner-guide",
+        "file": "The-Thing-That-Happened-beginner-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-controls",
+        "file": "The-Thing-That-Happened-controls"
+      },
+      {
+        "slug": "The-Thing-That-Happened-gameplay",
+        "file": "The-Thing-That-Happened-gameplay"
+      },
+      {
+        "slug": "The-Thing-That-Happened-how-to-play",
+        "file": "The-Thing-That-Happened-how-to-play"
+      },
+      {
+        "slug": "The-Thing-That-Happened-survival-guide",
+        "file": "The-Thing-That-Happened-survival-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-tips-and-tricks",
+        "file": "The-Thing-That-Happened-tips-and-tricks"
+      },
+      {
+        "slug": "The-Thing-That-Happened-walkthrough",
+        "file": "The-Thing-That-Happened-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The-Thing-That-Happened-collectibles",
+        "file": "The-Thing-That-Happened-collectibles"
+      },
+      {
+        "slug": "The-Thing-That-Happened-locations",
+        "file": "The-Thing-That-Happened-locations"
+      },
+      {
+        "slug": "The-Thing-That-Happened-map",
+        "file": "The-Thing-That-Happened-map"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secret-areas",
+        "file": "The-Thing-That-Happened-secret-areas"
+      }
+    ],
+    "release": [
+      {
+        "slug": "The-Thing-That-Happened-launch-trailer",
+        "file": "The-Thing-That-Happened-launch-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-official-trailer",
+        "file": "The-Thing-That-Happened-official-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-release-date",
+        "file": "The-Thing-That-Happened-release-date"
+      },
+      {
+        "slug": "The-Thing-That-Happened-steam",
+        "file": "The-Thing-That-Happened-steam"
+      },
+      {
+        "slug": "The-Thing-That-Happened-update",
+        "file": "The-Thing-That-Happened-update"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "The-Thing-That-Happened-gameplay-review",
+        "file": "The-Thing-That-Happened-gameplay-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-last-of-us-inspired",
+        "file": "The-Thing-That-Happened-last-of-us-inspired"
+      },
+      {
+        "slug": "The-Thing-That-Happened-review",
+        "file": "The-Thing-That-Happened-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-worth-it",
+        "file": "The-Thing-That-Happened-worth-it"
+      }
+    ],
+    "story": [
+      {
+        "slug": "The-Thing-That-Happened-characters",
+        "file": "The-Thing-That-Happened-characters"
+      },
+      {
+        "slug": "The-Thing-That-Happened-ending-explained",
+        "file": "The-Thing-That-Happened-ending-explained"
+      },
+      {
+        "slug": "The-Thing-That-Happened-hidden-details",
+        "file": "The-Thing-That-Happened-hidden-details"
+      },
+      {
+        "slug": "The-Thing-That-Happened-lore",
+        "file": "The-Thing-That-Happened-lore"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secrets",
+        "file": "The-Thing-That-Happened-secrets"
+      },
+      {
+        "slug": "The-Thing-That-Happened-story",
+        "file": "The-Thing-That-Happened-story"
+      }
+    ],
+    "survival": [
+      {
+        "slug": "The-Thing-That-Happened-boss-guide",
+        "file": "The-Thing-That-Happened-boss-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-crafting",
+        "file": "The-Thing-That-Happened-crafting"
+      },
+      {
+        "slug": "The-Thing-That-Happened-enemies",
+        "file": "The-Thing-That-Happened-enemies"
+      },
+      {
+        "slug": "The-Thing-That-Happened-inventory",
+        "file": "The-Thing-That-Happened-inventory"
+      },
+      {
+        "slug": "The-Thing-That-Happened-resources",
+        "file": "The-Thing-That-Happened-resources"
+      },
+      {
+        "slug": "The-Thing-That-Happened-weapons",
+        "file": "The-Thing-That-Happened-weapons"
+      }
+    ]
+  },
+  "es": {
+    "faq": [
+      {
+        "slug": "The-Thing-That-Happened-early-access",
+        "file": "The-Thing-That-Happened-early-access"
+      },
+      {
+        "slug": "The-Thing-That-Happened-multiplayer",
+        "file": "The-Thing-That-Happened-multiplayer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-pc",
+        "file": "The-Thing-That-Happened-pc"
+      },
+      {
+        "slug": "The-Thing-That-Happened-system-requirements",
+        "file": "The-Thing-That-Happened-system-requirements"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "The-Thing-That-Happened-beginner-guide",
+        "file": "The-Thing-That-Happened-beginner-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-controls",
+        "file": "The-Thing-That-Happened-controls"
+      },
+      {
+        "slug": "The-Thing-That-Happened-gameplay",
+        "file": "The-Thing-That-Happened-gameplay"
+      },
+      {
+        "slug": "The-Thing-That-Happened-how-to-play",
+        "file": "The-Thing-That-Happened-how-to-play"
+      },
+      {
+        "slug": "The-Thing-That-Happened-survival-guide",
+        "file": "The-Thing-That-Happened-survival-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-tips-and-tricks",
+        "file": "The-Thing-That-Happened-tips-and-tricks"
+      },
+      {
+        "slug": "The-Thing-That-Happened-walkthrough",
+        "file": "The-Thing-That-Happened-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The-Thing-That-Happened-collectibles",
+        "file": "The-Thing-That-Happened-collectibles"
+      },
+      {
+        "slug": "The-Thing-That-Happened-locations",
+        "file": "The-Thing-That-Happened-locations"
+      },
+      {
+        "slug": "The-Thing-That-Happened-map",
+        "file": "The-Thing-That-Happened-map"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secret-areas",
+        "file": "The-Thing-That-Happened-secret-areas"
+      }
+    ],
+    "release": [
+      {
+        "slug": "The-Thing-That-Happened-launch-trailer",
+        "file": "The-Thing-That-Happened-launch-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-official-trailer",
+        "file": "The-Thing-That-Happened-official-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-release-date",
+        "file": "The-Thing-That-Happened-release-date"
+      },
+      {
+        "slug": "The-Thing-That-Happened-steam",
+        "file": "The-Thing-That-Happened-steam"
+      },
+      {
+        "slug": "The-Thing-That-Happened-update",
+        "file": "The-Thing-That-Happened-update"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "The-Thing-That-Happened-gameplay-review",
+        "file": "The-Thing-That-Happened-gameplay-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-last-of-us-inspired",
+        "file": "The-Thing-That-Happened-last-of-us-inspired"
+      },
+      {
+        "slug": "The-Thing-That-Happened-review",
+        "file": "The-Thing-That-Happened-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-worth-it",
+        "file": "The-Thing-That-Happened-worth-it"
+      }
+    ],
+    "story": [
+      {
+        "slug": "The-Thing-That-Happened-characters",
+        "file": "The-Thing-That-Happened-characters"
+      },
+      {
+        "slug": "The-Thing-That-Happened-ending-explained",
+        "file": "The-Thing-That-Happened-ending-explained"
+      },
+      {
+        "slug": "The-Thing-That-Happened-hidden-details",
+        "file": "The-Thing-That-Happened-hidden-details"
+      },
+      {
+        "slug": "The-Thing-That-Happened-lore",
+        "file": "The-Thing-That-Happened-lore"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secrets",
+        "file": "The-Thing-That-Happened-secrets"
+      },
+      {
+        "slug": "The-Thing-That-Happened-story",
+        "file": "The-Thing-That-Happened-story"
+      }
+    ],
+    "survival": [
+      {
+        "slug": "The-Thing-That-Happened-crafting",
+        "file": "The-Thing-That-Happened-crafting"
+      }
+    ]
+  },
+  "ru": {
+    "faq": [
+      {
+        "slug": "The-Thing-That-Happened-early-access",
+        "file": "The-Thing-That-Happened-early-access"
+      },
+      {
+        "slug": "The-Thing-That-Happened-multiplayer",
+        "file": "The-Thing-That-Happened-multiplayer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-pc",
+        "file": "The-Thing-That-Happened-pc"
+      },
+      {
+        "slug": "The-Thing-That-Happened-system-requirements",
+        "file": "The-Thing-That-Happened-system-requirements"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "The-Thing-That-Happened-beginner-guide",
+        "file": "The-Thing-That-Happened-beginner-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-controls",
+        "file": "The-Thing-That-Happened-controls"
+      },
+      {
+        "slug": "The-Thing-That-Happened-gameplay",
+        "file": "The-Thing-That-Happened-gameplay"
+      },
+      {
+        "slug": "The-Thing-That-Happened-how-to-play",
+        "file": "The-Thing-That-Happened-how-to-play"
+      },
+      {
+        "slug": "The-Thing-That-Happened-survival-guide",
+        "file": "The-Thing-That-Happened-survival-guide"
+      },
+      {
+        "slug": "The-Thing-That-Happened-tips-and-tricks",
+        "file": "The-Thing-That-Happened-tips-and-tricks"
+      },
+      {
+        "slug": "The-Thing-That-Happened-walkthrough",
+        "file": "The-Thing-That-Happened-walkthrough"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The-Thing-That-Happened-collectibles",
+        "file": "The-Thing-That-Happened-collectibles"
+      },
+      {
+        "slug": "The-Thing-That-Happened-locations",
+        "file": "The-Thing-That-Happened-locations"
+      },
+      {
+        "slug": "The-Thing-That-Happened-map",
+        "file": "The-Thing-That-Happened-map"
+      },
+      {
+        "slug": "The-Thing-That-Happened-secret-areas",
+        "file": "The-Thing-That-Happened-secret-areas"
+      }
+    ],
+    "release": [
+      {
+        "slug": "The-Thing-That-Happened-launch-trailer",
+        "file": "The-Thing-That-Happened-launch-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-official-trailer",
+        "file": "The-Thing-That-Happened-official-trailer"
+      },
+      {
+        "slug": "The-Thing-That-Happened-release-date",
+        "file": "The-Thing-That-Happened-release-date"
+      },
+      {
+        "slug": "The-Thing-That-Happened-steam",
+        "file": "The-Thing-That-Happened-steam"
+      },
+      {
+        "slug": "The-Thing-That-Happened-update",
+        "file": "The-Thing-That-Happened-update"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "The-Thing-That-Happened-gameplay-review",
+        "file": "The-Thing-That-Happened-gameplay-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-last-of-us-inspired",
+        "file": "The-Thing-That-Happened-last-of-us-inspired"
+      },
+      {
+        "slug": "The-Thing-That-Happened-review",
+        "file": "The-Thing-That-Happened-review"
+      },
+      {
+        "slug": "The-Thing-That-Happened-worth-it",
+        "file": "The-Thing-That-Happened-worth-it"
+      }
+    ],
+    "story": [
+      {
+        "slug": "The-Thing-That-Happened-characters",
+        "file": "The-Thing-That-Happened-characters"
+      },
+      {
+        "slug": "The-Thing-That-Happened-ending-explained",
+        "file": "The-Thing-That-Happened-ending-explained"
+      },
+      {
+        "slug": "The-Thing-That-Happened-hidden-details",
+        "file": "The-Thing-That-Happened-hidden-details"
+      },
+      {
+        "slug": "The-Thing-That-Happened-lore",
+        "file": "The-Thing-That-Happened-lore"
+      },
+      {
+        "slug": "The-Thing-That-Happened-story",
+        "file": "The-Thing-That-Happened-story"
+      }
+    ],
+    "survival": [
+      {
+        "slug": "The-Thing-That-Happened-crafting",
+        "file": "The-Thing-That-Happened-crafting"
+      }
+    ]
+  }
+}

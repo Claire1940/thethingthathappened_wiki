@@ -1,0 +1,108 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía del Mapa de The Thing That Happened",
+  description: "Descubre ubicaciones esenciales, lugares ocultos y puntos de recursos en The Thing That Happened con nuestra guía de mapa completa.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=Guía+del+Mapa+de+The+Thing+That+Happened",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Mapa de The Thing That Happened
+- **Mecánica clave**: Exploración del mapa y ubicaciones de recursos
+- **Mejor estrategia**: Prioriza las ubicaciones esenciales para la supervivencia
+- **Consejo crucial**: Mantén los ojos abiertos para áreas ocultas con recursos adicionales
+- **Elección superior**: Usa el mapa de manera efectiva para obtener una ventaja
+</Callout>
+
+<Section icon={Map} title="Introducción al Mapa de The Thing That Happened">
+
+El mapa de The Thing That Happened es vasto y lleno de diversas ubicaciones cruciales para la supervivencia y la exploración. Esta sección proporcionará una visión general del mapa, incluyendo las áreas principales a las que centrarse y los tipos de recursos que puedes esperar encontrar.
+
+</Section>
+
+<Section icon={Target} title="Ubicaciones Esenciales">
+
+<Checklist
+  id="essential-locations"
+  title="Ubicaciones Esenciales:"
+  items={[
+    "La Casa de Seguro",
+    "El Armero",
+    "El Depósito de Recursos",
+    "El Laboratorio",
+    "El Almacén"
+  ]}
+/>
+
+Estas ubicaciones son vitales para recolectar recursos, crear equipo y prepararse para enfrentamientos con enemigos.
+
+</Section>
+
+<Section icon={Swords} title="Puntos de Recursos">
+
+Aquí hay un desglose de los tipos de recursos que puedes encontrar en diversas ubicaciones del mapa:
+
+| Punto de Recurso | Tipo de Recurso | Descripción |
+|------------------|-----------------|-------------|
+| La Casa de Seguro | Suministros Médicos | Contiene kits de primeros auxilios y artículos médicos. |
+| El Armero | Armas y Municiones | Ofrece diversas armas de fuego, municiones y accesorios de armas. |
+| El Depósito de Recursos | Materiales de Construcción | Proporciona materiales brutos para la construcción. |
+| El Laboratorio | Ingredientes de Construcción | Alberga ingredientes de construcción únicos para artículos especiales. |
+| El Almacén | Suministros Generales | Stocks una variedad de artículos, incluyendo alimentos, agua y herramientas. |
+
+</Section>
+
+<Section icon={Trophy} title="Lugares Ocultos y Secretos">
+
+Además de las ubicaciones principales, hay varios lugares ocultos en el mapa que contienen recursos valiosos y secretos:
+
+- **La Fábrica Abandonada**: Contiene materiales raros y una sala de seguridad oculta.
+- **La Iglesia Antigua**: Alberga un estantería secreta con información de lore.
+- **La Mansión Destruida**: Contiene un sótano oculto con botín valioso.
+
+</Section>
+
+<Section icon={Shield} title="Consejos de Seguridad para la Exploración">
+
+Al explorar el mapa, es importante mantenerse seguro:
+
+- **Mantente alerta**: Presta atención a los encuentros con enemigos y evita peleas innecesarias.
+- **Planifica tu ruta**: Mapa tu camino para minimizar riesgos y optimizar la recolección de recursos.
+- **Sé recursos**: Recolecta tantos recursos como sea posible para estar preparado para emergencias.
+
+</Section>
+
+<Section icon={Sparkles} title="Conclusión">
+
+Explorar el mapa de The Thing That Happened requiere planeación cuidadosa y gestión de recursos. Al centrarse en ubicaciones esenciales, puntos de recursos y lugares ocultos, los jugadores pueden obtener una ventaja significativa en su viaje de supervivencia. Recuerda mantenerte seguro y aprovechar al máximo el mapa para prosperar en el mundo postapocalíptico de Jericho.
+
+</Section>
+
+<Section icon={FAQ} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo puedo encontrar los lugares ocultos en el mapa?",
+    answer: "Los lugares ocultos a menudo se indican por pistas sutiles o características ambientales únicas. Presta atención a signos como suelos rotos, puertas ocultas o estructuras inusuales."
+  },
+  {
+    question: "¿Puedo visitar todas las ubicaciones del mapa?",
+    answer: "No todas las ubicaciones son accesibles al principio del juego. Algunas áreas se hacen disponibles a medida que avanzas o completas ciertas misiones."
+  },
+  {
+    question: "¿Hay algún peligro al que prestar atención en el mapa?",
+    answer: "Sí, hay varios enemigos y peligros en el mapa, como zombis, pandillas hostiles y trampas ambientales. Siempre estén preparados y planeen tu enfoque en consecuencia."
+  }
+]} />
+
+</Section>

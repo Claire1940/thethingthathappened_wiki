@@ -1,0 +1,126 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "La Cosa Que Sucedió: Guía de Supervivencia Última",
+  description: "Domina La Cosa Que Sucedió con nuestra guía de supervivencia completa, incluyendo armas, elaboración y estrategias de juego.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=La+Cosa+Que+Sucedio+Guia+de+Supervivencia",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de La Cosa Que Sucedió"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Guía de supervivencia de La Cosa Que Sucedió
+- **Mecánica clave**: Mecánicas de supervivencia post-apocalíptica
+- **Mejor estrategia**: Gestión de recursos y construcción de bases
+- **Consejo crítico**: Prioriza la elaboración de items para la supervivencia a largo plazo
+- **Elección superior**: Explora el mapa para encontrar recursos ocultos
+</Callout>
+
+<Section icon={Map} title="El Mapa de Jericó">
+
+<Checklist
+  id="jericho-map"
+  title="Consejos de Exploración:"
+  items={[
+    "Empieza en el centro del mapa para un enfoque equilibrado",
+    "Busca hitos como la torre central para ubicaciones estratégicas",
+    "Evita las zonas peligrosas marcadas por zonas rojas en el mapa",
+    "Busca cofres ocultos y documentos de leyenda para recursos adicionales",
+    "Planifica tu ruta para optimizar la recolección de recursos y seguridad"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Guía de Armas">
+
+<CardGrid cols={3}>
+  <Card title="Rifles">
+    - Alcance de alta daños
+    - Bueno para combate a distancia
+    - Requiere municiones
+  </Card>
+  <Card title="Escopetas">
+    - Alta daños a corta distancia
+    - Efectivo contra grupos
+    - Alcance limitado
+  </Card>
+  <Card title="Armas de Combate Cercano">
+    - Combate cercano
+    - No se necesita municiones
+    - Rápido y ágil
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Consejo de Pro">
+Siempre lleva una mezcla de armas para adaptarse a diferentes situaciones.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Guía de Elaboración">
+
+<Steps>
+  <Step num="1" title="Recopilar Materiales">
+    Recoge recursos como madera, metal y lana del entorno.
+  </Step>
+  <Step num="2" title="Elaborar Items">
+    Combina materiales para crear items básicos como armas, armaduras y herramientas.
+  </Step>
+  <Step num="3" title="Mejorar Items">
+    Usa materiales de elaboración para mejorar la calidad y efectividad de tus items.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Target} title="Consejos de Supervivencia">
+
+<Callout type="warning" title="Gestión de Salud">
+Mantén un ojo en tu salud y descansa cuando sea necesario para evitar el agotamiento.
+</Callout>
+
+<Checklist
+  id="survival-tips"
+  title="Consejos Esenciales:"
+  items={[
+    "Gestiona tu inventario para evitar el sobrecarga",
+    "Mantente hidratado y come regularmente para mantener tu salud",
+    "Se cauto al explorar áreas peligrosas",
+    "Busca fuentes de comida y agua en el entorno",
+    "Usa el entorno a tu favor para cobertura y recursos"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo inicio un fuego?",
+    answer: "Recoge madera seca y usa un encendedor. Manténlo seguro de los elementos."
+  },
+  {
+    question: "¿Dónde puedo encontrar agua?",
+    answer: "Busca fuentes de agua como ríos, lagos o barriles de agua."
+  },
+  {
+    question: "¿Cómo elaboro armas?",
+    answer: "Recoge metal, madera y otros materiales para elaborar armas básicas. Mejóralas a medida que avanzas."
+  },
+  {
+    question: "¿Cuál es la mejor manera de defenderme?",
+    answer: "Usa una mezcla de armas y items de elaboración para crear una estrategia de defensa equilibrada."
+  }
+]} />
+
+</Section>

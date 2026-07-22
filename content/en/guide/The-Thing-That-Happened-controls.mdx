@@ -1,0 +1,126 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "The Thing That Happened: Ultimate Survival Guide",
+  description: "Master The Thing That Happened with our comprehensive survival guide, including weapons, crafting, and gameplay strategies.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Survival+Guide",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Primary keyword**: The Thing That Happened survival guide
+- **Key mechanic**: Post-apocalyptic survival mechanics
+- **Best strategy**: Resource management and base building
+- **Critical tip**: Prioritize crafting items for long-term survival
+- **Top choice**: Explore the map to find hidden resources
+</Callout>
+
+<Section icon={Map} title="The Map of Jericho">
+
+<Checklist
+  id="jericho-map"
+  title="Exploration Tips:"
+  items={[
+    "Start at the center of the map for a balanced approach",
+    "Look for landmarks like the central tower for strategic locations",
+    "Avoid dangerous zones marked by red zones on the map",
+    "Search for hidden stashes and lore documents for additional resources",
+    "Plan your route to optimize resource gathering and safety"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Weapon Guide">
+
+<CardGrid cols={3}>
+  <Card title="Rifles">
+    - High damage range
+    - Good for long-range combat
+    - Requires ammunition
+  </Card>
+  <Card title="Shotguns">
+    - High damage up close
+    - Effective against groups
+    - Limited range
+  </Card>
+  <Card title="Melee Weapons">
+    - Close combat
+    - No ammunition needed
+    - Fast and agile
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Pro Tip">
+Always carry a mix of weapons to adapt to different situations.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Crafting Guide">
+
+<Steps>
+  <Step num="1" title="Collect Materials">
+    Gather resources like wood, metal, and cloth from the environment.
+  </Step>
+  <Step num="2" title="Craft Items">
+    Combine materials to create basic items like weapons, armor, and tools.
+  </Step>
+  <Step num="3" title="Upgrade Items">
+    Use crafting materials to improve the quality and effectiveness of your items.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Target} title="Survival Tips">
+
+<Callout type="warning" title="Health Management">
+Keep an eye on your health and rest when needed to avoid exhaustion.
+</Callout>
+
+<Checklist
+  id="survival-tips"
+  title="Essential Tips:"
+  items={[
+    "Manage your inventory to avoid overloading",
+    "Stay hydrated and eat regularly to maintain health",
+    "Be cautious when exploring dangerous areas",
+    "Look for food and water sources in the environment",
+    "Use the environment to your advantage for cover and resources"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "How do I start a fire?",
+    answer: "Collect dry wood and use a fire starter. Keep it safe from the elements."
+  },
+  {
+    question: "Where can I find water?",
+    answer: "Search for water sources like rivers, lakes, or water barrels."
+  },
+  {
+    question: "How do I craft weapons?",
+    answer: "Collect metal, wood, and other materials to craft basic weapons. Upgrade them as you progress."
+  },
+  {
+    question: "What is the best way to defend myself?",
+    answer: "Use a mix of weapons and crafting items to create a balanced defense strategy."
+  }
+]} />
+
+</Section>

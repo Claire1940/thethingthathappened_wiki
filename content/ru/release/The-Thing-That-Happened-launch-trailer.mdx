@@ -1,0 +1,96 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Анализ официального трейлера запуска 1.0 The Thing That Happened",
+  description: "Глубокий анализ официального трейлера запуска 1.0 The Thing That Happened, включая ключевые элементы геймплея и стратегии.",
+  category: "Руководство",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Launch+Trailer+Analysis",
+  date: "2026-07-22",
+  author: "Команда Wiki The Thing That Happened"
+};
+
+<Callout type="info" title="Краткое руководство">
+- **Основной фокус геймплея**: Трейлер демонстрирует быстрый темп и стратегическую битву.
+- **Ключевые функции**: грязные сапоги, громкие звуки и собака, охраняющая коридор.
+- **Сetting**: дорога в мире, черные стеклянные поля и загадочный дом.
+- **Настроение**: трейлер создает напряженный и suspensful атмосферу.
+- **Дата запуска**: трейлер намекает на предстоящий релиз.
+</Callout>
+
+<Section icon={Map} title="Обзор трейлера">
+
+**Высококачественные моменты видео:**
+- **Быстрый темп действия**: Трейлер демонстрирует intense combat scenes.
+- **Стратегическая битва**: Игрокам необходимо использовать окружающую среду и свои surroundings.
+- **Загадочная обстановка**: Мир полон неизвестных опасностей и загадок.
+- **Напряженный настрой**: Трейлер создает напряжение и любопытство.
+- **Запуск трейлера**: Трейлер является предварительным просмотром предстоящего релиза игры.
+
+<YouTubeEmbed videoId="sGrFAtPs5WQ" title="The Thing That Happened | Official 1.0 Launch Trailer (English)" />
+
+</Section>
+
+<Section icon={Swords} title="Механики геймплея">
+
+<Steps>
+  <Step num="1" title="Битва">
+    Игроки будут участвовать в быстром темпе в битвах с врагами.
+  </Step>
+  <Step num="2" title="Стратегия">
+    Окружающая среда играет важную роль в битвах, требуя стратегического мышления.
+  </Step>
+  <Step num="3" title="Прогресс персонажа">
+    Игроки будут подниматься в уровень и разблокировать новые способности.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Необходимые советы для успеха">
+
+<Callout type="tip" title="Профессиональный совет">
+Чтобы преуспеть в битвах, всегда будьте осведомлены о своей surroundings и используйте окружающую среду в свою пользу.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Вызовы и цели">
+
+<Checklist
+  id="game-goals"
+  title="Необходимые цели:"
+  items={[
+    "Мастерство геймплея битвы",
+    "Исследование загадочного мира",
+    "Разблокировка всех способностей",
+    "Достижение наивысшего уровня"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Часто задаваемые вопросы">
+
+<FAQ items={[
+  {
+    question: "Какой является основная задача геймплея битвы?",
+    answer: "Игра подчеркивает быстрый темп и стратегическую битву, требуя от игроков эффективного использования окружающей среды."
+  },
+  {
+    question: "Могут ли игроки настроить своих персонажей?",
+    answer: "Да, игроки могут выбирать из различных способностей и оборудования для настройки своих персонажей."
+  },
+  {
+    question: "Доступна ли игра на нескольких платформах?",
+    answer: "Ожидается, что игра будет выпущена на нескольких платформах, включая PC и консоли."
+  }
+]} />
+
+</Section>

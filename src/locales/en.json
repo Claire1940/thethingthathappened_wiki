@@ -10,7 +10,15 @@
       "twitterDescription": "The Thing That Happened Wiki provides survival guides, weapon builds, crafting tips, walkthroughs, locations and gameplay strategies for the post apocalyptic Steam action adventure game."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "story": "Story",
+    "release": "Release",
+    "survival": "Survival",
+    "locations": "Locations",
+    "reviews": "Reviews",
+    "faq": "FAQ"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -383,69 +391,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
+    "guide": {
       "title": "The Thing That Happened Guides",
-      "description": "Complete survival guides from beginner basics to advanced strategies for The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete guides for The Thing That Happened covering beginner tips, survival strategies, walkthroughs, and expert tactics for the post-apocalyptic Steam action adventure.",
+      "description": "Complete walkthroughs and beginner-friendly guides covering controls, survival basics, combat tactics, and advanced strategies for The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Guides - Walkthrough & Survival Tips",
+      "metaDescription": "Master The Thing That Happened with complete walkthroughs, controls, beginner tips, and advanced survival strategies for the post-apocalyptic Steam action adventure.",
       "categoryLabel": "GAME GUIDES",
+      "whatIs": "What are these guides?",
+      "whatIsDescription": "These guides walk you through every core system of The Thing That Happened, from your first steps in the ruined city of Jericho to the advanced survival and combat tactics that keep you alive against the infected.",
+      "why": "Why read these guides?",
+      "whySteps": {
+        "step1Title": "Learn the fundamentals",
+        "step1Description": "Get comfortable with controls, stamina, scavenging, and resource management before venturing deeper into the wasteland.",
+        "step2Title": "Survive longer",
+        "step2Description": "Apply proven tips for food, water, stealth, and avoiding deadly encounters with infected and hostile survivors.",
+        "step3Title": "Master combat and progression",
+        "step3Description": "Combine weapons, crafting, and smart positioning to defeat enemies and bosses while progressing through the story."
+      },
+      "featured": "Featured Guides",
       "all": "All Guides"
-    },
-    "weapons": {
-      "title": "The Thing That Happened Weapons",
-      "description": "Detailed weapon guides covering firearms, melee gear, attachments, and combat loadouts for The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Weapons - Firearms, Melee & Attachments",
-      "metaDescription": "Complete weapon database for The Thing That Happened including firearms, melee weapons, attachments, and combat loadouts for surviving the post-apocalyptic world.",
-      "categoryLabel": "WEAPONS & COMBAT",
-      "all": "All Weapons"
-    },
-    "crafting": {
-      "title": "The Thing That Happened Crafting",
-      "description": "Master the crafting system with material locations, recipes, and survival resource strategies for The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Crafting - Recipes & Materials",
-      "metaDescription": "Master The Thing That Happened crafting system. Learn material locations, recipes, and strategies for creating survival items, equipment, and resources.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "all": "All Crafting Guides"
-    },
-    "locations": {
-      "title": "The Thing That Happened Locations",
-      "description": "Explore the map of Jericho, city districts, exploration routes, hidden locations, and resource points.",
-      "metaTitle": "The Thing That Happened Locations - Map & Exploration",
-      "metaDescription": "Explore The Thing That Happened locations including Jericho city districts, exploration routes, hidden areas, and resource points across the post-apocalyptic map.",
-      "categoryLabel": "MAP & LOCATIONS",
-      "all": "All Locations"
-    },
-    "enemies": {
-      "title": "The Thing That Happened Enemies",
-      "description": "Enemy and boss guides covering creature types, attack patterns, weaknesses, and combat tactics.",
-      "metaTitle": "The Thing That Happened Enemies - Zombies, Bosses & Weaknesses",
-      "metaDescription": "Complete enemy guide for The Thing That Happened including zombie types, hostile gangs, bosses, attack patterns, weaknesses, and combat tactics.",
-      "categoryLabel": "ENEMIES & BOSSES",
-      "all": "All Enemies"
     },
     "story": {
       "title": "The Thing That Happened Story",
-      "description": "Story, characters, world lore, and the post-apocalyptic background of Jericho in The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Story - Lore, Characters & World",
-      "metaDescription": "Explore The Thing That Happened story, characters, world lore, and the post-apocalyptic background of Jericho in this survival action adventure.",
+      "description": "Deep dives into the characters, lore, world-building, multiple endings, and hidden story details of The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Story - Characters, Lore & Endings",
+      "metaDescription": "Explore The Thing That Happened story, characters, lore, multiple endings, and hidden details from the post-apocalyptic world of Jericho.",
       "categoryLabel": "STORY & LORE",
+      "whatIs": "What is the story about?",
+      "whatIsDescription": "The Thing That Happened follows Marcus Draven through the ruins of Jericho after a catastrophic event. These articles break down the characters, the world-building, and the choices that shape each ending.",
+      "why": "Why explore the story?",
+      "whySteps": {
+        "step1Title": "Understand the world",
+        "step1Description": "Learn the lore behind Jericho, the outbreak, and the factions struggling to survive in the aftermath.",
+        "step2Title": "Know the characters",
+        "step2Description": "Get to know Marcus Draven and the key figures that drive the narrative forward.",
+        "step3Title": "Unlock every ending",
+        "step3Description": "Discover the hidden details and choices that lead to each ending without missing secret content."
+      },
+      "featured": "Featured Story Articles",
       "all": "All Story Articles"
     },
-    "builds": {
-      "title": "The Thing That Happened Builds",
-      "description": "Character builds, skill trees, and playstyle loadouts for survival, combat, and exploration in The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Builds - Skill Trees & Loadouts",
-      "metaDescription": "Master The Thing That Happened builds with skill trees, survival, combat, and exploration loadouts for optimizing your post-apocalyptic playstyle.",
-      "categoryLabel": "BUILDS & SKILLS",
-      "all": "All Builds"
+    "release": {
+      "title": "The Thing That Happened Release",
+      "description": "Release date, Steam availability, official trailers, launch details, and the latest update news for The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Release - Date, Steam & Trailers",
+      "metaDescription": "Track The Thing That Happened release date, Steam store page, official trailers, launch info, and the latest Early Access updates.",
+      "categoryLabel": "RELEASE INFO",
+      "whatIs": "What is covered here?",
+      "whatIsDescription": "Everything about the launch of The Thing That Happened, including the Steam release, official and launch trailers, and ongoing Early Access update notes.",
+      "why": "Why follow the release info?",
+      "whySteps": {
+        "step1Title": "Know when to play",
+        "step1Description": "Stay on top of the release date, Early Access status, and platform availability on Steam.",
+        "step2Title": "Watch the trailers",
+        "step2Description": "Catch every official and launch trailer to see gameplay and story reveals before you buy.",
+        "step3Title": "Track updates",
+        "step3Description": "Follow patch notes and new content drops as the game evolves through Early Access."
+      },
+      "featured": "Featured Release Articles",
+      "all": "All Release Articles"
     },
-    "updates": {
-      "title": "The Thing That Happened Updates",
-      "description": "Patch notes, version changes, new features, and Early Access updates for The Thing That Happened.",
-      "metaTitle": "The Thing That Happened Updates - Patch Notes & News",
-      "metaDescription": "Track The Thing That Happened updates including patch notes, version changes, new features, and Early Access release information.",
-      "categoryLabel": "UPDATES & PATCHES",
-      "all": "All Updates"
+    "survival": {
+      "title": "The Thing That Happened Survival",
+      "description": "Weapons, crafting, inventory management, resource gathering, enemy behavior, and boss strategies for surviving The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Survival - Weapons, Crafting & Bosses",
+      "metaDescription": "Survive The Thing That Happened with full weapon guides, crafting recipes, resource locations, enemy weaknesses, and boss strategies.",
+      "categoryLabel": "SURVIVAL SYSTEMS",
+      "whatIs": "What will you find here?",
+      "whatIsDescription": "A complete breakdown of the survival mechanics in The Thing That Happened, covering every weapon, crafting recipe, resource, enemy type, and boss encounter you will face.",
+      "why": "Why use these survival guides?",
+      "whySteps": {
+        "step1Title": "Choose the right weapons",
+        "step1Description": "Compare weapon stats and attachments to build a loadout that fits your playstyle.",
+        "step2Title": "Craft and manage resources",
+        "step2Description": "Learn crafting recipes and where to find scarce materials so you never run dry.",
+        "step3Title": "Beat every enemy and boss",
+        "step3Description": "Study enemy weaknesses and boss patterns to win fights without wasting ammo."
+      },
+      "featured": "Featured Survival Guides",
+      "all": "All Survival Guides"
+    },
+    "locations": {
+      "title": "The Thing That Happened Locations",
+      "description": "Full map breakdowns, area guides, secret locations, and collectible checklists for every region in The Thing That Happened.",
+      "metaTitle": "The Thing That Happened Locations - Map & Collectibles",
+      "metaDescription": "Explore The Thing That Happened map with area guides, secret locations, collectible checklists, and hidden resource points across Jericho.",
+      "categoryLabel": "MAP & LOCATIONS",
+      "whatIs": "What is in this section?",
+      "whatIsDescription": "Detailed maps and location guides for The Thing That Happened, pointing out every region, secret area, collectible, and valuable resource point across the ruined city.",
+      "why": "Why use the location guides?",
+      "whySteps": {
+        "step1Title": "Navigate Jericho",
+        "step1Description": "Understand the city layout and the safest routes between key districts.",
+        "step2Title": "Find secret areas",
+        "step2Description": "Uncover hidden rooms, stashes, and optional zones that most players miss.",
+        "step3Title": "Collect everything",
+        "step3Description": "Tick off every collectible and rare resource with clear checklist guides."
+      },
+      "featured": "Featured Location Guides",
+      "all": "All Location Guides"
+    },
+    "reviews": {
+      "title": "The Thing That Happened Reviews",
+      "description": "In-depth reviews, gameplay analysis, worth-it verdicts, and comparisons for The Thing That Happened on Steam.",
+      "metaTitle": "The Thing That Happened Reviews - Gameplay & Worth It",
+      "metaDescription": "Read detailed The Thing That Happened reviews covering gameplay, story, performance, value for money, and how it compares to similar survival games.",
+      "categoryLabel": "REVIEWS",
+      "whatIs": "What do these reviews cover?",
+      "whatIsDescription": "Honest, in-depth reviews of The Thing That Happened that examine gameplay, atmosphere, performance, and overall value so you can decide whether it belongs in your library.",
+      "why": "Why read the reviews?",
+      "whySteps": {
+        "step1Title": "See the full picture",
+        "step1Description": "Get a balanced look at strengths and weaknesses before you buy.",
+        "step2Title": "Decide if it is worth it",
+        "step2Description": "Weigh the price, content depth, and replay value against your tastes.",
+        "step3Title": "Compare with similar games",
+        "step3Description": "See how it stacks up against other post-apocalyptic survival adventures."
+      },
+      "featured": "Featured Reviews",
+      "all": "All Reviews"
+    },
+    "faq": {
+      "title": "The Thing That Happened FAQ",
+      "description": "Answers to the most common questions about Early Access, multiplayer, PC support, and system requirements for The Thing That Happened.",
+      "metaTitle": "The Thing That Happened FAQ - Early Access, Multiplayer & PC",
+      "metaDescription": "Frequently asked questions about The Thing That Happened covering Early Access status, multiplayer support, PC platforms, and system requirements.",
+      "categoryLabel": "FAQ",
+      "whatIs": "What is this FAQ?",
+      "whatIsDescription": "Clear answers to the questions players ask most about The Thing That Happened, including Early Access roadmap, multiplayer plans, PC platform support, and the hardware you need to run it.",
+      "why": "Why check the FAQ?",
+      "whySteps": {
+        "step1Title": "Understand Early Access",
+        "step1Description": "Learn what the current build includes and what is planned before the full release.",
+        "step2Title": "Check multiplayer status",
+        "step2Description": "Find out whether co-op or online play is available or on the roadmap.",
+        "step3Title": "Verify PC support",
+        "step3Description": "Confirm supported platforms and system requirements before installing."
+      },
+      "featured": "Featured FAQ Articles",
+      "all": "All FAQ Articles"
     }
   }
 }

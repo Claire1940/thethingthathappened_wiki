@@ -1,0 +1,108 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened - Gameplay Walkthrough Part 1 (PC Game)",
+  description: "Entdecke die gruselige Welt von The Thing That Happened mit unserem detaillierten Spielguide. Lerne Tipps, Tricks und Strategien, um die Horror-Situation zu überleben.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Walkthrough",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+};
+
+<Callout type="info" title="Kurzguide">
+- **Hauptwort**: The Thing That Happened Spielguide
+- **Schlüsselmechanik**: Navigation durch die gruselige Umgebung
+- **Beste Strategie**: Bleibe aufmerksam und verwende Ressourcen weise
+- **Wichtiger Tipp**: Halte immer ein Auge auf die Karte, um versteckte Gegenstände zu finden
+- **Beste Wahl**: Der Geheimtipp, um Feinde zu vermeiden
+</Callout>
+
+<Section icon={Map} title="Einführung in The Thing That Happened">
+
+The Thing That Happened ist ein drittpersonliches Indie-Horror-Spiel, das Spieler in eine verlassene Welt mit mysteriösen Ereignissen ein taucht. Dieser Spielguide führt dich durch die ersten Spielphasen und hilft dir, in dieser gruseligen Landschaft zu überleben und ihre Geheimnisse zu entdecken.
+
+</Section>
+
+<Section icon={Swords} title="Erste Einrichtung und Spielmechaniken">
+
+<Steps>
+  <Step num="1" title="Charaktererstellung">
+    Wähle deinen Charakter und gestalte sein Aussehen.
+  </Step>
+  <Step num="2" title="Inventarverwaltung">
+    Halte immer ein Auge auf deinen Inventar, um Ressourcen und Gegenstände zu verwalten.
+  </Step>
+  <Step num="3" title="Navigation">
+    Verwende die Karte, um die Umgebung zu navigieren und versteckte Gegenstände zu finden.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Wichtige Ausrüstung und Gegenstände">
+
+<CardGrid cols={3}>
+  <Card title=" Taschenlampe">
+    Ein entscheidendes Utensil, um dunkle Bereiche zu beleuchten und versteckte Details zu erkennen.
+  </Card>
+  <Card title="Verbandskasten">
+    Halte diese griffbereit, um dich nach Begegnungen mit Feinden zu heilen.
+  </Card>
+  <Card title="Schlüssel">
+    Öffne Türen und fortsetze dein Spiel, indem du Schlüssel finde.
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Target} title="Tarnung und Überlebens tips">
+
+<Callout type="tip" title="Pro-Tipp">
+Bleibe immer aufmerksam und vorsichtig, wenn du erkundest. Das Spiel ist voller Fallen und Feinden, die leicht erschreckt werden können.
+
+</Callout>
+
+<Checklist
+  id="survival-tips"
+  title="Überlebens tips:"
+  items={[
+    "Bleibe so oft wie möglich im Licht, um Feinde zu vermeiden.",
+    "Nutze die Umgebung zu deinem Vorteil für Deckung und Überraschungsangriffe.",
+    "Halte immer ein Auge auf deinen Inventar und verwende Ressourcen weise.",
+    "Erkunde die Karte gründlich, um versteckte Gegenstände und Geheimnisse zu finden."
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Häufig gestellte Fragen">
+
+<FAQ items={[
+  {
+    question: "Wie finde ich versteckte Gegenstände?",
+    answer: "Halte immer ein Auge auf die Karte und erkunde die Umgebung gründlich. Versteckte Gegenstände sind oft in dunklen oder versteckten Bereichen zu finden."
+  },
+  {
+    question: "Was soll ich tun, wenn ich auf einen Feind treffe?",
+    answer: "Versuche, direkte Konfrontation zu vermeiden. Nutze Tarnung und die Umgebung zu deinem Vorteil, um zu fliehen oder den Feind zu besiegen."
+  },
+  {
+    question: "Gibt es eine Möglichkeit, meinen Charakter zu verbessern?",
+    answer: "Ja, du kannst Ausrüstung und Gegenstände finden, die die Stats und Fähigkeiten deines Charakters verbessern können."
+  }
+]} />
+
+</Section>
+
+<Section icon={Sparkles} title="Schluss">
+
+The Thing That Happened ist eine herausfordernde und immersive Erfahrung. Indem du diesen Spielguide befolgst und die bereitgestellten Tipps verwendest, wirst du gut vorbereitet sein, um durch die gruselige Welt zu navigieren und ihre Geheimnisse zu entdecken. Bleibe aufmerksam, verwende Ressourcen weise und genieße die Horror-Erfahrung!
+
+</Section>

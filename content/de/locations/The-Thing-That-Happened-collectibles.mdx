@@ -1,0 +1,101 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "The Thing That Happened Sammlerstücke Leitfaden",
+  description: "Entdecke die besten Sammlerstücke in The Thing That Happened, einschließlich ihrer Fundorte und Verwendung im Spiel.",
+  category: "Leitfaden",
+  image: "https://placehold.co/800x400/059669/fff?text=The+Thing+That+Happened+Collectibles",
+  date: "2026-07-22",
+  author: "The Thing That Happened Wiki Team"
+};
+
+<Callout type="info" title="Kurzguide">
+- **Hauptwort**: Sammlerstücke
+- **Schlüsselmechanik**: Wie man Sammlerstücke findet und verwendet
+- **Beste Strategie**: Rare und nützliche Gegenstände priorisieren
+- **Wichtiger Tipp**: Überprüfe alle Orte auf versteckte Sammlerstücke
+- **Top-Wahl**: vervollständige deine Sammlung für Spielbelohnungen
+</Callout>
+
+<Section icon={Map} title="Sammlerstückeorte">
+
+<CardGrid cols={3}>
+  <Card title="Verlassene Gebäude">
+    - Suche nach versteckten Gegenständen in alten Strukturen
+    - Such nach Verstecken und geheimen Zimmern
+  </Card>
+  <Card title="Verlassene Stadt">
+    - Erkunde die Stadt nach verstreuten Sammlerstücken
+    - Sei vorsichtig mit Fallen und Feinden
+  </Card>
+  <Card title="Bunkers">
+    - Überprüfe unterirdische Unterschlüsse nach wertvollen Funden
+    - Können seltene Gegenstände und Ressourcen enthalten
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Pro-Tipp">
+Bleibe immer auf der Hut nach versteckten Wegen und geheimen Bereichen, die zusätzliche Sammlerstücke enthalten können.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Verwendung von Sammlerstücken">
+
+<Steps>
+  <Step num="1" title="Inventarverwaltung">
+    Organisiere deinen Inventar, um Gegenstände leicht zugänglich zu machen
+  </Step>
+  <Step num="2" title="Verarbeitung">
+    Verwende Sammlerstücke, um neue Gegenstände und Upgrades zu verarbeiten
+  </Step>
+  <Step num="3" title="Handel">
+  Handel mit anderen Spielern, um seltene Sammlerstücke zu erhalten
+  </Step>
+  <Step num="4" title="Belohnungen freischalten">
+    Vervollständige deine Sammlung, um Spielbelohnungen freizuschalten
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Top Sammlerstücke">
+
+<Checklist
+  id="top-collectibles"
+  title="Wichtige Sammlerstücke:"
+  items={[
+    "Seltene Waffenbestandteile",
+    "Einzigartige Verarbeitungsmaterialien",
+    "Geheime Dokumente",
+    "Mächtige Artefakte"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Wo kann ich seltene Sammlerstücke finden?",
+    answer: "Seltene Sammlerstücke werden oft in versteckten Orten gefunden, wie geheimen Zimmern oder unterirdischen Bunkern. Stelle sicher, dass du alle Bereiche der Spielwelt erkundest."
+  },
+  {
+    question: "Kann ich Sammlerstücke mit anderen Spielern handeln?",
+    answer: "Ja, du kannst Sammlerstücke mit anderen Spielern handeln. Dies ist eine großartige Möglichkeit, seltene Gegenstände zu erhalten, die du möglicherweise selbst nicht finden kannst."
+  },
+  {
+    question: "Was sind die Vorteile des Vervollständigen meiner Sammlung?",
+    answer: "Das Vervollständigen deiner Sammlung wird Spielbelohnungen freischalten, wie spezielle Gegenstände, Boni und Zugang zu exklusiven Bereichen."
+  }
+]} />
+
+</Section>

@@ -1,0 +1,102 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía de Supervivencia de The Thing That Happened",
+  description: "Una guía de supervivencia completa para The Thing That Happened, incluyendo consejos, estrategias e información esencial para ayudarte a sobrevivir en este juego de terror indie.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=Guía+de+Supervivencia+de+The+Thing+That+Happened",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Palabra clave principal**: Guía de supervivencia de The Thing That Happened
+- **Mecánica clave**: Entender el entorno y gestionar los recursos
+- **Mejor estrategia**: Explorar con cautela y mantenerse en un perfil bajo
+- **Consejo crucial**: Mantén siempre el ojo en tu entorno
+- **Elección superior**: Equípalos con un equipo básico y un botiquín de primeros auxilios
+</Callout>
+
+<Section icon={Map} title="Introducción a The Thing That Happened">
+
+The Thing That Happened es un juego de terror indie que te sitúa en un paisaje desolado, donde debes sobrevivir contra los elementos y otras amenazas desconocidas. En esta guía, cubriremos consejos y estrategias esenciales para ayudarte a navegar por este mundo desafiante.
+
+</Section>
+
+<Section icon={Swords} title="Equipo y Artículos Esenciales">
+
+| Artículo | Descripción | Importancia |
+|----------|-------------|-------------|
+| Equipo Básico | Incluye un cuchillo, un martillo y una llave inglesa. | Útil para la elaboración y la resolución de puzzles. |
+| Botiquín de Primeros Auxilios | Contiene apósitos, analgésicos y un spray de primeros auxilios. | Vital para tratar lesiones y prevenir infecciones. |
+| Linterna | Proporciona luz en áreas oscuras. | Esencial para explorar y encontrar recursos. |
+| Botella de Agua | Almacena agua para beber. | Mantén hidratado para evitar la deshidratación. |
+| Raciones de Comida | Proporciona alimento. | Mantén tus niveles de energía para sobrevivir. |
+
+</Section>
+
+<Section icon={Target} title="Consejos de Supervivencia">
+
+<Steps>
+  <Step num="1" title="Mantente Alerta">
+    Siempre estate al tanto de tu entorno. Escucha por sonidos y busca cualquier signo de peligro.
+  </Step>
+  <Step num="2" title="Gestionar Recursos">
+    Mantén registro de tus recursos y úsalos sabiamente. Renueva tus suministros cuando sea posible.
+  </Step>
+  <Step num="3" title="Elaboración y Puzzles">
+    Aprende a elaborar artículos y resolver puzzles para avanzar en el juego.
+  </Step>
+  <Step num="4" title="Mantente en un Perfil Bajo">
+    Evita atraer la atención. Mantente callado y mueve con cautela.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Objetivos y Lista de Verificación">
+
+<Checklist
+  id="objetivos-de-sobrevivencia"
+  title="Objetivos Esenciales:"
+  items={[
+    "Encontrar un refugio seguro",
+    "Recopilar suministros esenciales",
+    "Sobrevivir 24 horas",
+    "Descubrir la verdad detrás de The Thing That Happened"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo puedo encontrar un refugio seguro?",
+    answer: "Busca signos de ocupación humana o estructuras naturales que puedan proporcionar refugio."
+  },
+  {
+    question: "¿Qué debo hacer si me encuentro con una amenaza?",
+    answer: "Trata de evitar el enfrentamiento. Si debes luchar, usa tu equipo básico para defenderte."
+  },
+  {
+    question: "¿Hay alguna manera de mejorar mi equipo?",
+    answer: "Sí, puedes elaborar artículos mejores a medida que avances en el juego."
+  }
+]} />
+
+</Section>
+
+<Section icon={Sparkles} title="Conclusión">
+
+Sobrevivir en The Thing That Happened requiere planeación cuidadosa y gestión de recursos. Siguiendo esta guía, estarás bien preparado para enfrentar los desafíos por venir y desentrañar los secretos de este mundo misterioso.
+
+</Section>

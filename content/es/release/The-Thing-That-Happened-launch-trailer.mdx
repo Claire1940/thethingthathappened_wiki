@@ -1,0 +1,96 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react';
+import { Callout } from '@/components/mdx/Callout';
+import { Card, CardGrid } from '@/components/mdx/CardGrid';
+import { Checklist } from '@/components/mdx/Checklist';
+import { FAQ } from '@/components/mdx/FAQ';
+import { Steps, Step } from '@/components/mdx/Steps';
+import { Section } from '@/components/mdx/Section';
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed';
+
+export const metadata = {
+  title: "Análisis del Tráiler de Lanzamiento Oficial 1.0 de The Thing That Happened",
+  description: "Un análisis detallado del tráiler de lanzamiento oficial 1.0 de The Thing That Happened, incluyendo elementos clave de juego y estrategias.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=Análisis+Tráiler+Lanzamiento+The+Thing+That+Happened",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de The Thing That Happened"
+};
+
+<Callout type="info" title="Guía Rápida">
+- **Enfoque Principal del Juego**: El tráiler muestra acción rápida y combate estratégico.
+- **Características Clave**: botas empapadas de barro, sonidos fuertes y un perro guardando el pasillo.
+- **Configuración**: La carretera del mundo, campos de vidrio negro y una casa misteriosa.
+- **Mood**: El tráiler establece un ambiente tenso y suspense.
+- **Fecha de Lanzamiento**: El tráiler sugiere la próxima salida.
+</Callout>
+
+<Section icon={Map} title="Resumen del Tráiler">
+
+**Puntos Clave del Video:**
+- **Acción Rápida**: El tráiler muestra escenas de combate intensas.
+- **Combate Estratégico**: Los jugadores deben usar el entorno y sus alrededores.
+- **Configuración Misteriosa**: El mundo está lleno de peligros y misterios desconocidos.
+- **Atmósfera Suspenseosa**: El tráiler construye tensión y curiosidad.
+- **Lanzamiento del Tráiler**: El tráiler es una vista previa del lanzamiento próximo del juego.
+
+<YouTubeEmbed videoId="sGrFAtPs5WQ" title="The Thing That Happened | Tráiler de Lanzamiento Oficial 1.0 (Inglés)" />
+
+</Section>
+
+<Section icon={Swords} title="Mecánicas de Juego">
+
+<Steps>
+  <Step num="1" title="Combate">
+    Los jugadores se involucrarán en combates rápidos con enemigos.
+  </Step>
+  <Step num="2" title="Estrategia">
+    El entorno juega un papel crucial en el combate, requiriendo un pensamiento estratégico.
+  </Step>
+  <Step num="3" title="Progresión del Personaje">
+    Los jugadores subirán de nivel y desbloquearán nuevas habilidades.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Consejos Esenciales para el Éxito">
+
+<Callout type="tip" title="Consejo Pro">
+Para destacar en el combate, siempre esté al tanto de su entorno y utilice el entorno a su favor.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Desafíos y Objetivos">
+
+<Checklist
+  id="game-goals"
+  title="Objetivos Esenciales:"
+  items={[
+    "Dominar las mecánicas de combate",
+    "Explorar el mundo misterioso",
+    "Desbloquear todas las habilidades",
+    "Alcanzar el nivel más alto"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cuál es el enfoque principal del combate del juego?",
+    answer: "El juego enfatiza el combate rápido y estratégico, con jugadores que necesitan usar el entorno de manera efectiva."
+  },
+  {
+    question: "¿Pueden los jugadores personalizar a sus personajes?",
+    answer: "Sí, los jugadores pueden elegir entre varias habilidades y equipo para personalizar a sus personajes."
+  },
+  {
+    question: "¿El juego está disponible en múltiples plataformas?",
+    answer: "Se espera que el juego se lance en múltiples plataformas, incluyendo PC y consolas."
+  }
+]} />
+
+</Section>
